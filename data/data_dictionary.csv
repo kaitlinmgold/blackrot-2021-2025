@@ -1,0 +1,71 @@
+File,Field,Definition,Units_or_allowed_values,Missing_value_rule
+annual_methods_weather.csv,Year,Calendar year of the annual field trial.,integer,No missing values expected unless documented in the correction log.
+annual_methods_weather.csv,Vine_Age_Years,Reported vine age during the annual trial.,integer,No missing values expected unless documented in the correction log.
+annual_methods_weather.csv,Plot_Design,Description of the experimental unit and block design.,text or identifier,No missing values expected unless documented in the correction log.
+annual_methods_weather.csv,Sprayer,"Description of application equipment, pressure, and spray volume.",text or identifier,No missing values expected unless documented in the correction log.
+annual_methods_weather.csv,Assessment_Sample,Number and location of organs assessed per plot.,text or identifier,No missing values expected unless documented in the correction log.
+annual_methods_weather.csv,Experimental_Application_Dates,Calendar dates of experimental applications.,"calendar date(s), YYYY-MM-DD",No missing values expected unless documented in the correction log.
+annual_methods_weather.csv,Final_Application_Date,Calendar date of the final experimental application.,"calendar date(s), YYYY-MM-DD",No missing values expected unless documented in the correction log.
+annual_methods_weather.csv,Final_Assessment_Date,Calendar date of the final disease assessment.,"calendar date(s), YYYY-MM-DD",No missing values expected unless documented in the correction log.
+annual_methods_weather.csv,Days_Final_Application_to_Assessment,Elapsed days from final experimental application to final assessment.,integer,No missing values expected unless documented in the correction log.
+annual_methods_weather.csv,Maintenance_Sprays,Uniform nonexperimental maintenance applications reported for the trial.,text or identifier,No missing values expected unless documented in the correction log.
+annual_methods_weather.csv,PDMR_Source,Public annual Plant Disease Management Reports source citation.,text or identifier,No missing values expected unless documented in the correction log.
+annual_methods_weather.csv,Rain_May_in,May precipitation from the stated NEWA station.,inches,No missing values expected unless documented in the correction log.
+annual_methods_weather.csv,Rain_June_in,June precipitation from the stated NEWA station.,inches,No missing values expected unless documented in the correction log.
+annual_methods_weather.csv,Rain_July_in,July precipitation from the stated NEWA station.,inches,No missing values expected unless documented in the correction log.
+annual_methods_weather.csv,Rain_August_in,August precipitation when included in the reported assessment period.,inches,Blank for 2022–2025 because final assessments occurred in July.
+annual_methods_weather.csv,Rainfall_Period_Reported,Months included as environmental context for the annual trial.,text or identifier,No missing values expected unless documented in the correction log.
+clean_plot_data_public.csv,Public_Plot_ID,De-identified retained plot identifier and join key between plot- and organ-level cluster files.,text or identifier,No missing values expected unless documented in the correction log.
+clean_plot_data_public.csv,Public_Program_ID,De-identified identifier for one retained program in one trial year.,text or identifier,No missing values expected unless documented in the correction log.
+clean_plot_data_public.csv,Year,Calendar year of the annual field trial.,integer,No missing values expected unless documented in the correction log.
+clean_plot_data_public.csv,Block,Recorded randomized complete block.,count,No missing values expected unless documented in the correction log.
+clean_plot_data_public.csv,BlockYear,Block-within-year identifier used in the mixed models.,text or identifier,No missing values expected unless documented in the correction log.
+clean_plot_data_public.csv,Program_Label,Public program label.,text or identifier,No missing values expected unless documented in the correction log.
+clean_plot_data_public.csv,Program_Class,Operational program class used in analysis.,Untreated; Biological only; Mixed; Conventional only,No missing values expected unless documented in the correction log.
+clean_plot_data_public.csv,Biological_Metal_Group,"Within biological-only programs, metal-containing or non-metal; other classes are labeled not biological-only.",Untreated; Non-metal biological; Metal-containing biological; Not biological-only,No missing values expected unless documented in the correction log.
+clean_plot_data_public.csv,Strict_Metal_Only,Indicator for a biological-only program containing metal and no other coded biological mechanism.,0 or 1,No missing values expected unless documented in the correction log.
+clean_plot_data_public.csv,Architecture,Descriptive program architecture category.,text or identifier,No missing values expected unless documented in the correction log.
+clean_plot_data_public.csv,Microbe_Present,Indicator that a microbial component was present.,0 or 1,No missing values expected unless documented in the correction log.
+clean_plot_data_public.csv,Biochemical_Present,"Indicator that a biochemical, extract, elicitor, or oxidant component was present.",0 or 1,No missing values expected unless documented in the correction log.
+clean_plot_data_public.csv,Metal_Present,Indicator that a copper- or silver-containing component was present.,0 or 1,No missing values expected unless documented in the correction log.
+clean_plot_data_public.csv,Unknown_Biological_Present,Indicator for a biological component with an unresolved mechanism.,0 or 1,No missing values expected unless documented in the correction log.
+clean_plot_data_public.csv,N_Clusters_Expected,Planned number of cluster ratings per plot.,count,No missing values expected unless documented in the correction log.
+clean_plot_data_public.csv,N_Clusters_Rated,"Number of valid, nonmissing cluster ratings used to calculate the plot endpoint.",count,No missing values expected unless documented in the correction log.
+clean_plot_data_public.csv,Cluster_Positive_Count,Number of rated clusters with analysis severity greater than zero.,count,No missing values expected unless documented in the correction log.
+clean_plot_data_public.csv,Cluster_Incidence_Pct,One hundred times Cluster_Positive_Count divided by N_Clusters_Rated.,percent (0–100),No missing values expected unless documented in the correction log.
+clean_plot_data_public.csv,Cluster_Severity_Pct,"Arithmetic mean of the percentage of diseased berries per cluster across valid ratings, including zeros; recorded with a modified Horsfall–Barratt visual aid.",percent (0–100),No missing values expected unless documented in the correction log.
+clean_plot_data_public.csv,HA_Logit_Incidence,Boundary-adjusted logit log[(p + 0.5)/(100.5 - p)] of cluster incidence.,logit scale,No missing values expected unless documented in the correction log.
+clean_plot_data_public.csv,HA_Logit_Severity,Boundary-adjusted logit log[(p + 0.5)/(100.5 - p)] of cluster severity.,logit scale,No missing values expected unless documented in the correction log.
+clean_plot_data_public.csv,QC_Flags,Machine-readable plot-level quality-control flags.,text or identifier,Blank means no additional flag or action.
+cluster_organ_data_public.csv,Public_Plot_ID,De-identified retained plot identifier and join key between plot- and organ-level cluster files.,text or identifier,No missing values expected unless documented in the correction log.
+cluster_organ_data_public.csv,Public_Program_ID,De-identified identifier for one retained program in one trial year.,text or identifier,No missing values expected unless documented in the correction log.
+cluster_organ_data_public.csv,Year,Calendar year of the annual field trial.,integer,No missing values expected unless documented in the correction log.
+cluster_organ_data_public.csv,Block_Recorded,Recorded randomized complete block in the organ-level source.,count,No missing values expected unless documented in the correction log.
+cluster_organ_data_public.csv,Cluster_Number,Within-plot cluster sequence number.,count,No missing values expected unless documented in the correction log.
+cluster_organ_data_public.csv,Raw_Rating_Pct,Recorded percentage of diseased berries per cluster before quality-control recoding; rated directly on a 0–100% scale using a modified Horsfall–Barratt visual aid.,percent (0–100),May be blank when the source rating was blank.
+cluster_organ_data_public.csv,Analysis_Rating_Pct,Percentage of diseased berries per cluster used in analysis after quality-control recoding.,percent (0–100),Blank when a source rating was missing or invalid; no health-state imputation.
+cluster_organ_data_public.csv,Organ_QC_Action,"Organ-level quality-control action, when applicable.",text or identifier,Blank means no additional flag or action.
+correction_log_public.csv,Item,Category of documented correction or data-handling decision.,text or identifier,No missing values expected unless documented in the correction log.
+correction_log_public.csv,Year,Calendar year of the annual field trial.,integer,No missing values expected unless documented in the correction log.
+correction_log_public.csv,Record,Public description of the affected record or record set.,text or identifier,No missing values expected unless documented in the correction log.
+correction_log_public.csv,Source_Issue_or_Original,Source-data issue or original recorded state.,text or identifier,No missing values expected unless documented in the correction log.
+correction_log_public.csv,Analysis_Action,Action used in the public analysis or release package.,text or identifier,No missing values expected unless documented in the correction log.
+correction_log_public.csv,Rationale,Reason for the documented action.,text or identifier,No missing values expected unless documented in the correction log.
+retained_program_codebook_public.csv,Public_Program_ID,De-identified identifier for one retained program in one trial year.,text or identifier,No missing values expected unless documented in the correction log.
+retained_program_codebook_public.csv,Year,Calendar year of the annual field trial.,integer,No missing values expected unless documented in the correction log.
+retained_program_codebook_public.csv,Program_Label_Clean,Audited public program label.,text or identifier,No missing values expected unless documented in the correction log.
+retained_program_codebook_public.csv,Program_Class_Clean,Audited operational program class.,Untreated; Biological only; Mixed; Conventional only,No missing values expected unless documented in the correction log.
+retained_program_codebook_public.csv,Biological_Metal_Group,"Within biological-only programs, metal-containing or non-metal; other classes are labeled not biological-only.",Untreated; Non-metal biological; Metal-containing biological; Not biological-only,No missing values expected unless documented in the correction log.
+retained_program_codebook_public.csv,Strict_Metal_Only,Indicator for a biological-only program containing metal and no other coded biological mechanism.,0 or 1,No missing values expected unless documented in the correction log.
+retained_program_codebook_public.csv,Architecture_Clean,Audited descriptive program architecture category.,text or identifier,No missing values expected unless documented in the correction log.
+retained_program_codebook_public.csv,Microbe_Present,Indicator that a microbial component was present.,0 or 1,No missing values expected unless documented in the correction log.
+retained_program_codebook_public.csv,Biochemical_Present,"Indicator that a biochemical, extract, elicitor, or oxidant component was present.",0 or 1,No missing values expected unless documented in the correction log.
+retained_program_codebook_public.csv,Metal_Present,Indicator that a copper- or silver-containing component was present.,0 or 1,No missing values expected unless documented in the correction log.
+retained_program_codebook_public.csv,Unknown_Biological_Present,Indicator for a biological component with an unresolved mechanism.,0 or 1,No missing values expected unless documented in the correction log.
+retained_program_codebook_public.csv,Mechanism_Count,Number of nonexclusive biological-mechanism indicators present.,count,No missing values expected unless documented in the correction log.
+retained_program_codebook_public.csv,Application_1,Publicly reportable material sequence and rate for application 1.,text or identifier,No missing values expected unless documented in the correction log.
+retained_program_codebook_public.csv,Application_2,Publicly reportable material sequence and rate for application 2.,text or identifier,No missing values expected unless documented in the correction log.
+retained_program_codebook_public.csv,Application_3,Publicly reportable material sequence and rate for application 3.,text or identifier,No missing values expected unless documented in the correction log.
+retained_program_codebook_public.csv,Application_4,Publicly reportable material sequence and rate for application 4.,text or identifier,No missing values expected unless documented in the correction log.
+retained_program_codebook_public.csv,Application_5,"Publicly reportable material sequence and rate for application 5, when applied.",text or identifier,Blank when the annual program had four applications.
+retained_program_codebook_public.csv,QC_Notes,Public program-level classification or source-data note.,text or identifier,Blank means no additional flag or action.
