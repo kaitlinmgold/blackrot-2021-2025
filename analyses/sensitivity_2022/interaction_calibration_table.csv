@@ -1,0 +1,3 @@
+Endpoint,Test,Observed_Statistic_Original264,Bootstrap_P_Original264,Observed_Statistic_Exclude8,Requested_Simulations,Valid_Simulations,Failed_Simulations,Exceedances,Bootstrap_P_Exclude8,Monte_Carlo_SE,Failure_Bound_Lower,Failure_Bound_Upper,Seed
+Incidence,Efficient score test of the year-by-program-class interaction,17.288678838553462,0.3781774339395158,18.037065003153522,1999,1983,16,711,0.3588709677419355,0.01076889272540128,0.356,0.364,20260911
+Severity,Year-by-program-class interaction for transformed cluster severity,29.518627931138894,0.07232420503561039,29.029986770636015,9999,9972,27,790,0.07931414820014038,0.00270593996783713,0.0791,0.0818,20260913
