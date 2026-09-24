@@ -1,0 +1,203 @@
+Figure,Panel,Endpoint,Category,Program_ID,Year,Control_pct,X_position,Marker
+class,A,Severity,Biological only,Y2023_P11,2023,9.689807976366328,0.0,o
+class,A,Severity,Biological only,Y2021_P12,2021,15.968063872255488,0.0,o
+class,A,Severity,Biological only,Y2023_P04,2023,24.40177252584933,0.0,o
+class,A,Severity,Biological only,Y2021_P13,2021,26.147704590818364,-0.055,s
+class,A,Severity,Biological only,Y2023_P08,2023,39.17282127031019,0.0,o
+class,A,Severity,Biological only,Y2023_P13,2023,41.418020679468235,-0.055,^
+class,A,Severity,Biological only,Y2021_P05,2021,43.18030605455755,0.0,o
+class,A,Severity,Biological only,Y2021_P11,2021,46.174318030605455,-0.055,o
+class,A,Severity,Biological only,Y2023_P14,2023,48.5672082717873,0.0,o
+class,A,Severity,Biological only,Y2025_P06,2025,51.00988397077783,-0.055,o
+class,A,Severity,Biological only,Y2024_P10,2024,51.7557251908397,0.055,o
+class,A,Severity,Biological only,Y2021_P06,2021,54.89021956087825,0.0,o
+class,A,Severity,Biological only,Y2023_P05,2023,55.98227474150666,-0.055,D
+class,A,Severity,Biological only,Y2025_P03,2025,56.81134507950149,0.055,o
+class,A,Severity,Biological only,Y2025_P08,2025,57.34851740438332,-0.11,o
+class,A,Severity,Biological only,Y2024_P05,2024,59.31297709923664,0.0,o
+class,A,Severity,Biological only,Y2022_P06,2022,60.63645797301971,-0.055,o
+class,A,Severity,Biological only,Y2023_P12,2023,63.663220088626296,0.0,^
+class,A,Severity,Biological only,Y2022_P07,2022,63.922518159806295,0.055,o
+class,A,Severity,Biological only,Y2025_P07,2025,64.11688869789428,-0.11,o
+class,A,Severity,Biological only,Y2021_P10,2021,65.2694610778443,-0.055,s
+class,A,Severity,Biological only,Y2024_P04,2024,70.12213740458016,0.0,o
+class,A,Severity,Biological only,Y2025_P10,2025,72.69015900300818,-0.055,D
+class,A,Severity,Biological only,Y2024_P08,2024,73.12977099236642,0.055,o
+class,A,Severity,Biological only,Y2025_P12,2025,77.65928573044127,0.0,o
+class,A,Severity,Biological only,Y2025_P11,2025,78.25526428878385,-0.055,o
+class,A,Severity,Biological only,Y2023_P09,2023,85.02215657311669,0.0,o
+class,A,Severity,Biological only,Y2025_P04,2025,86.35582294800172,-0.055,D
+class,A,Severity,Biological only,Y2022_P14,2022,95.84918713248013,0.0,s
+class,A,Severity,Biological only,Y2022_P12,2022,97.05984088550674,-0.055,o
+class,A,Severity,Biological only,Y2022_P05,2022,97.19820131442408,0.055,o
+class,A,Severity,Biological only,Y2022_P10,2022,97.57869249394672,-0.11,o
+class,A,Severity,Biological only,Y2022_P13,2022,97.57869249394672,0.11,s
+class,A,Severity,Biological only,Y2022_P09,2022,98.58180560359736,-0.165,o
+class,A,Severity,Mixed,Y2023_P15,2023,-11.285081240768102,1.0,D
+class,A,Severity,Mixed,Y2023_P10,2023,12.55539143279173,1.0,s
+class,A,Severity,Mixed,Y2023_P07,2023,13.441654357459376,0.945,s
+class,A,Severity,Mixed,Y2023_P06,2023,33.825701624815366,1.0,^
+class,A,Severity,Mixed,Y2024_P07,2024,49.66412213740459,1.0,^
+class,A,Severity,Mixed,Y2024_P02,2024,57.83206106870229,1.0,^
+class,A,Severity,Mixed,Y2024_P06,2024,63.58778625954198,1.0,^
+class,A,Severity,Mixed,Y2025_P05,2025,64.48216587881393,0.945,D
+class,A,Severity,Mixed,Y2025_P09,2025,68.2208852599914,1.0,D
+class,A,Severity,Mixed,Y2024_P03,2024,68.54961832061068,0.945,D
+class,A,Severity,Mixed,Y2021_P07,2021,77.1523619427811,1.0,P
+class,A,Severity,Mixed,Y2022_P08,2022,93.32410930473884,1.0,P
+class,A,Severity,Mixed,Y2022_P11,2022,95.88377723970945,0.945,P
+class,A,Severity,Mixed,Y2022_P16,2022,97.0252507782774,1.055,s
+class,A,Severity,Mixed,Y2022_P15,2022,98.27049463853338,1.0,^
+class,A,Severity,Conventional only,Y2021_P09,2021,22.516370767237454,2.0,s
+class,A,Severity,Conventional only,Y2021_P08,2021,33.000665335994675,2.0,o
+class,A,Severity,Conventional only,Y2021_P03,2021,42.91417165668663,2.0,o
+class,A,Severity,Conventional only,Y2021_P04,2021,44.84364604125083,1.945,o
+class,A,Severity,Conventional only,Y2024_P09,2024,49.3587786259542,2.0,o
+class,A,Severity,Conventional only,Y2021_P02,2021,55.95475715236194,2.0,o
+class,A,Severity,Conventional only,Y2023_P03,2023,63.84047267355982,2.0,^
+class,A,Severity,Conventional only,Y2025_P02,2025,64.16212426209486,1.945,o
+class,A,Severity,Conventional only,Y2023_P02,2023,80.76809453471196,2.0,o
+class,A,Severity,Conventional only,Y2022_P04,2022,90.90280179868556,2.0,o
+class,B,Incidence,Biological only,Y2021_P12,2021,0.0,0.0,o
+class,B,Incidence,Biological only,Y2021_P11,2021,1.2499999999999956,-0.055,o
+class,B,Incidence,Biological only,Y2024_P10,2024,1.2499999999999956,0.055,o
+class,B,Incidence,Biological only,Y2023_P14,2023,1.2658227848101222,-0.11,o
+class,B,Incidence,Biological only,Y2025_P08,2025,3.749999999999998,0.11,o
+class,B,Incidence,Biological only,Y2023_P11,2023,3.797468354430378,-0.165,o
+class,B,Incidence,Biological only,Y2021_P05,2021,6.25,0.0,o
+class,B,Incidence,Biological only,Y2021_P13,2021,6.25,-0.055,s
+class,B,Incidence,Biological only,Y2023_P05,2023,6.329113924050633,0.055,D
+class,B,Incidence,Biological only,Y2023_P13,2023,6.329113924050633,-0.11,^
+class,B,Incidence,Biological only,Y2021_P06,2021,7.499999999999996,0.165,o
+class,B,Incidence,Biological only,Y2023_P04,2023,7.594936708860756,-0.22,o
+class,B,Incidence,Biological only,Y2021_P10,2021,8.750000000000002,0.11,s
+class,B,Incidence,Biological only,Y2024_P05,2024,8.750000000000002,-0.165,o
+class,B,Incidence,Biological only,Y2024_P08,2024,8.750000000000002,0.22,o
+class,B,Incidence,Biological only,Y2025_P06,2025,9.999999999999998,-0.275,o
+class,B,Incidence,Biological only,Y2024_P04,2024,11.250000000000004,0.0,o
+class,B,Incidence,Biological only,Y2025_P07,2025,11.250000000000004,-0.055,o
+class,B,Incidence,Biological only,Y2023_P12,2023,11.392405063291145,0.055,^
+class,B,Incidence,Biological only,Y2023_P09,2023,12.658227848101266,-0.11,o
+class,B,Incidence,Biological only,Y2025_P03,2025,19.999999999999996,0.0,o
+class,B,Incidence,Biological only,Y2022_P07,2022,22.78481012658228,-0.055,o
+class,B,Incidence,Biological only,Y2025_P12,2025,23.289473684210517,0.055,o
+class,B,Incidence,Biological only,Y2025_P11,2025,25.0,0.0,o
+class,B,Incidence,Biological only,Y2023_P08,2023,26.582278481012654,-0.11,o
+class,B,Incidence,Biological only,Y2025_P10,2025,27.500000000000004,-0.055,D
+class,B,Incidence,Biological only,Y2022_P06,2022,31.64556962025317,0.0,o
+class,B,Incidence,Biological only,Y2025_P04,2025,38.74999999999999,0.0,D
+class,B,Incidence,Biological only,Y2022_P14,2022,73.41772151898735,0.0,s
+class,B,Incidence,Biological only,Y2022_P05,2022,78.48101265822784,0.0,o
+class,B,Incidence,Biological only,Y2022_P12,2022,78.48101265822784,-0.055,o
+class,B,Incidence,Biological only,Y2022_P09,2022,83.54430379746836,0.0,o
+class,B,Incidence,Biological only,Y2022_P10,2022,83.54430379746836,-0.055,o
+class,B,Incidence,Biological only,Y2022_P13,2022,84.81012658227847,0.055,s
+class,B,Incidence,Mixed,Y2023_P15,2023,-1.265822784810133,1.0,D
+class,B,Incidence,Mixed,Y2023_P07,2023,1.2658227848101222,0.945,s
+class,B,Incidence,Mixed,Y2023_P10,2023,3.797468354430378,1.0,s
+class,B,Incidence,Mixed,Y2024_P03,2024,5.000000000000004,1.055,D
+class,B,Incidence,Mixed,Y2024_P02,2024,7.499999999999996,0.945,^
+class,B,Incidence,Mixed,Y2024_P07,2024,13.749999999999996,1.0,^
+class,B,Incidence,Mixed,Y2023_P06,2023,17.721518987341767,0.945,^
+class,B,Incidence,Mixed,Y2021_P07,2021,18.75,1.0,P
+class,B,Incidence,Mixed,Y2025_P05,2025,19.999999999999996,1.055,D
+class,B,Incidence,Mixed,Y2025_P09,2025,25.0,1.0,D
+class,B,Incidence,Mixed,Y2024_P06,2024,27.500000000000004,0.945,^
+class,B,Incidence,Mixed,Y2022_P08,2022,55.696202531645575,1.0,P
+class,B,Incidence,Mixed,Y2022_P16,2022,67.08860759493672,1.0,s
+class,B,Incidence,Mixed,Y2022_P15,2022,75.9493670886076,1.0,^
+class,B,Incidence,Mixed,Y2022_P11,2022,83.54430379746836,1.0,P
+class,B,Incidence,Conventional only,Y2021_P09,2021,1.3157894736842035,2.0,s
+class,B,Incidence,Conventional only,Y2021_P08,2021,2.500000000000002,1.945,o
+class,B,Incidence,Conventional only,Y2024_P09,2024,2.500000000000002,2.055,o
+class,B,Incidence,Conventional only,Y2023_P03,2023,7.594936708860756,2.0,^
+class,B,Incidence,Conventional only,Y2021_P03,2021,9.999999999999998,1.945,o
+class,B,Incidence,Conventional only,Y2021_P04,2021,9.999999999999998,2.055,o
+class,B,Incidence,Conventional only,Y2021_P02,2021,12.5,2.0,o
+class,B,Incidence,Conventional only,Y2023_P02,2023,24.0506329113924,2.0,o
+class,B,Incidence,Conventional only,Y2025_P02,2025,28.35526315789474,2.0,o
+class,B,Incidence,Conventional only,Y2022_P04,2022,55.696202531645575,2.0,o
+product,A,Severity,Howler,Y2021_P05,2021,43.18030605455755,0.0,o
+product,A,Severity,Howler,Y2022_P06,2022,60.63645797301971,0.0,o
+product,A,Severity,Howler EVO,Y2023_P10,2023,12.55539143279173,1.0,s
+product,A,Severity,Howler EVO,Y2023_P08,2023,39.17282127031019,1.0,o
+product,A,Severity,Howler EVO,Y2023_P05,2023,55.98227474150666,1.0,^
+product,A,Severity,Howler EVO,Y2025_P10,2025,72.69015900300818,1.0,^
+product,A,Severity,Howler EVO,Y2023_P09,2023,85.02215657311669,1.0,o
+product,A,Severity,Howler EVO,Y2025_P04,2025,86.35582294800172,0.925,^
+product,A,Severity,Regalia + Stargus,Y2023_P05,2023,55.98227474150666,2.0,^
+product,A,Severity,Regalia + Stargus,Y2025_P05,2025,64.48216587881393,2.0,s
+product,A,Severity,Regalia + Stargus,Y2021_P10,2021,65.2694610778443,1.925,^
+product,A,Severity,Regalia + Stargus,Y2024_P03,2024,68.54961832061068,2.0,s
+product,A,Severity,Regalia + Stargus,Y2025_P10,2025,72.69015900300818,2.0,^
+product,A,Severity,Regalia + Stargus,Y2025_P04,2025,86.35582294800172,2.0,^
+product,A,Severity,Regalia + Stargus,Y2022_P13,2022,97.57869249394672,2.0,^
+product,A,Severity,LifeGard WG,Y2023_P15,2023,-11.285081240768102,3.0,s
+product,A,Severity,LifeGard WG,Y2023_P04,2023,24.40177252584933,3.0,o
+product,A,Severity,LifeGard WG,Y2023_P13,2023,41.418020679468235,3.0,^
+product,A,Severity,LifeGard WG,Y2021_P11,2021,46.174318030605455,3.0,o
+product,A,Severity,LifeGard WG,Y2024_P10,2024,51.7557251908397,3.0,o
+product,A,Severity,LifeGard WG,Y2023_P05,2023,55.98227474150666,3.0,^
+product,A,Severity,LifeGard WG,Y2023_P12,2023,63.663220088626296,3.0,^
+product,A,Severity,LifeGard WG,Y2022_P05,2022,97.19820131442408,3.0,o
+product,A,Severity,Oso 5SC,Y2021_P12,2021,15.968063872255488,4.0,o
+product,A,Severity,Oso 5SC,Y2023_P13,2023,41.418020679468235,4.0,^
+product,A,Severity,Oso 5SC,Y2023_P14,2023,48.5672082717873,4.0,o
+product,A,Severity,Oso 5SC,Y2022_P12,2022,97.05984088550674,4.0,o
+product,A,Severity,Curezin,Y2023_P11,2023,9.689807976366328,5.0,o
+product,A,Severity,Curezin,Y2024_P05,2024,59.31297709923664,5.0,o
+product,A,Severity,Curezin,Y2024_P06,2024,63.58778625954198,5.0,s
+product,A,Severity,Curezin,Y2023_P12,2023,63.663220088626296,4.925,^
+product,A,Severity,Curezin,Y2024_P04,2024,70.12213740458016,5.0,o
+product,A,Severity,OxiDate*,Y2023_P07,2023,13.441654357459376,6.0,s
+product,A,Severity,OxiDate*,Y2023_P06,2023,33.825701624815366,6.0,s
+product,A,Severity,OxiDate*,Y2025_P03,2025,56.81134507950149,6.0,o
+product,A,Severity,OxiDate*,Y2024_P02,2024,57.83206106870229,5.925,s
+product,A,Severity,OxiDate*,Y2025_P04,2025,86.35582294800172,6.0,^
+product,A,Severity,OxiDate*,Y2022_P16,2022,97.0252507782774,6.0,s
+product,A,Severity,OxiDate*,Y2022_P15,2022,98.27049463853338,5.925,s
+product,A,Severity,PERpose*,Y2024_P07,2024,49.66412213740459,7.0,s
+product,A,Severity,PERpose*,Y2024_P08,2024,73.12977099236642,7.0,o
+product,A,Severity,PERpose*,Y2025_P12,2025,77.65928573044127,7.0,o
+product,B,Incidence,Howler,Y2021_P05,2021,6.25,0.0,o
+product,B,Incidence,Howler,Y2022_P06,2022,31.64556962025317,0.0,o
+product,B,Incidence,Howler EVO,Y2023_P10,2023,3.797468354430378,1.0,s
+product,B,Incidence,Howler EVO,Y2023_P05,2023,6.329113924050633,0.925,^
+product,B,Incidence,Howler EVO,Y2023_P09,2023,12.658227848101266,1.0,o
+product,B,Incidence,Howler EVO,Y2023_P08,2023,26.582278481012654,1.0,o
+product,B,Incidence,Howler EVO,Y2025_P10,2025,27.500000000000004,0.925,^
+product,B,Incidence,Howler EVO,Y2025_P04,2025,38.74999999999999,1.0,^
+product,B,Incidence,Regalia + Stargus,Y2024_P03,2024,5.000000000000004,2.0,s
+product,B,Incidence,Regalia + Stargus,Y2023_P05,2023,6.329113924050633,1.925,^
+product,B,Incidence,Regalia + Stargus,Y2021_P10,2021,8.750000000000002,2.075,^
+product,B,Incidence,Regalia + Stargus,Y2025_P05,2025,19.999999999999996,2.0,s
+product,B,Incidence,Regalia + Stargus,Y2025_P10,2025,27.500000000000004,2.0,^
+product,B,Incidence,Regalia + Stargus,Y2025_P04,2025,38.74999999999999,2.0,^
+product,B,Incidence,Regalia + Stargus,Y2022_P13,2022,84.81012658227847,2.0,^
+product,B,Incidence,LifeGard WG,Y2023_P15,2023,-1.265822784810133,3.0,s
+product,B,Incidence,LifeGard WG,Y2021_P11,2021,1.2499999999999956,2.925,o
+product,B,Incidence,LifeGard WG,Y2024_P10,2024,1.2499999999999956,3.075,o
+product,B,Incidence,LifeGard WG,Y2023_P05,2023,6.329113924050633,3.0,^
+product,B,Incidence,LifeGard WG,Y2023_P13,2023,6.329113924050633,2.925,^
+product,B,Incidence,LifeGard WG,Y2023_P04,2023,7.594936708860756,3.075,o
+product,B,Incidence,LifeGard WG,Y2023_P12,2023,11.392405063291145,3.0,^
+product,B,Incidence,LifeGard WG,Y2022_P05,2022,78.48101265822784,3.0,o
+product,B,Incidence,Oso 5SC,Y2021_P12,2021,0.0,4.0,o
+product,B,Incidence,Oso 5SC,Y2023_P14,2023,1.2658227848101222,3.925,o
+product,B,Incidence,Oso 5SC,Y2023_P13,2023,6.329113924050633,4.0,^
+product,B,Incidence,Oso 5SC,Y2022_P12,2022,78.48101265822784,4.0,o
+product,B,Incidence,Curezin,Y2023_P11,2023,3.797468354430378,5.0,o
+product,B,Incidence,Curezin,Y2024_P05,2024,8.750000000000002,5.0,o
+product,B,Incidence,Curezin,Y2024_P04,2024,11.250000000000004,4.925,o
+product,B,Incidence,Curezin,Y2023_P12,2023,11.392405063291145,5.075,^
+product,B,Incidence,Curezin,Y2024_P06,2024,27.500000000000004,5.0,s
+product,B,Incidence,OxiDate*,Y2023_P07,2023,1.2658227848101222,6.0,s
+product,B,Incidence,OxiDate*,Y2024_P02,2024,7.499999999999996,6.0,s
+product,B,Incidence,OxiDate*,Y2023_P06,2023,17.721518987341767,6.0,s
+product,B,Incidence,OxiDate*,Y2025_P03,2025,19.999999999999996,5.925,o
+product,B,Incidence,OxiDate*,Y2025_P04,2025,38.74999999999999,6.0,^
+product,B,Incidence,OxiDate*,Y2022_P16,2022,67.08860759493672,6.0,s
+product,B,Incidence,OxiDate*,Y2022_P15,2022,75.9493670886076,6.0,s
+product,B,Incidence,PERpose*,Y2024_P08,2024,8.750000000000002,7.0,o
+product,B,Incidence,PERpose*,Y2024_P07,2024,13.749999999999996,7.0,s
+product,B,Incidence,PERpose*,Y2025_P12,2025,23.289473684210517,7.0,o

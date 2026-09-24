@@ -1,0 +1,16 @@
+{
+  "class_program_years_per_panel": 59,
+  "product_memberships_per_panel": 42,
+  "product_unique_program_years": 35,
+  "panels": [
+    "A: severity control",
+    "B: incidence control"
+  ],
+  "both_endpoints_verified_against_existing_raw_means": true,
+  "identical_program_membership_and_marker_mapping_between_panels": true,
+  "common_y_limits": [
+    -20.0,
+    105
+  ],
+  "no_new_statistical_tests": true
+}
