@@ -1,0 +1,155 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="7in" height="5in" viewBox="0 0 504 360">
+<title>Year-specific incidence and severity estimates in the biological metal comparison</title>
+<desc>Scientific plot drawn directly from stored model estimates and confidence limits; no statistical models are refitted.</desc>
+<rect width="504" height="100%" fill="white"/>
+<g font-family="Arial, Helvetica, sans-serif" fill="#111111">
+<line x1="35.00000" y1="20.00000" x2="45.00000" y2="20.00000" stroke="#4D4D4D" stroke-width="0.9"/>
+<circle cx="40.00000" cy="20.00000" r="2.35" fill="#4D4D4D"/>
+<text x="48.0000" y="22.8000" font-size="8.2" font-weight="normal" text-anchor="start">Untreated</text>
+<line x1="127.00000" y1="20.00000" x2="137.00000" y2="20.00000" stroke="#009E73" stroke-width="0.9"/>
+<rect x="129.65000" y="17.65000" width="4.7" height="4.7" fill="#009E73" stroke="#009E73" stroke-width=".9"/>
+<text x="140.0000" y="22.8000" font-size="8.2" font-weight="normal" text-anchor="start">Non-metal biological</text>
+<line x1="287.00000" y1="20.00000" x2="297.00000" y2="20.00000" stroke="#CC79A7" stroke-width="0.9"/>
+<rect x="289.65000" y="17.65000" width="4.7" height="4.7" fill="white" stroke="#CC79A7" stroke-width=".9"/>
+<text x="300.0000" y="22.8000" font-size="8.2" font-weight="normal" text-anchor="start">Metal-containing biological</text>
+<text x="8.0000" y="54.0000" font-size="14" font-weight="bold" text-anchor="start">A</text>
+<text x="50.0000" y="54.0000" font-size="10.5" font-weight="bold" text-anchor="start">Incidence</text>
+<text x="50.0000" y="72.0000" font-size="8" font-weight="normal" text-anchor="start">Non-metal vs. metal, pooled:</text>
+<text x="50.0000" y="85.0000" font-size="8" font-weight="normal" text-anchor="start">P = 0.399</text>
+<line x1="50.00000" y1="318.00000" x2="234.00000" y2="318.00000" stroke="#E6E6E6" stroke-width="0.7"/>
+<line x1="48.00000" y1="318.00000" x2="50.00000" y2="318.00000" stroke="#555555" stroke-width="0.6"/>
+<text x="46.0000" y="320.8000" font-size="8.2" font-weight="normal" text-anchor="end">0</text>
+<line x1="50.00000" y1="276.05825" x2="234.00000" y2="276.05825" stroke="#E6E6E6" stroke-width="0.7"/>
+<line x1="48.00000" y1="276.05825" x2="50.00000" y2="276.05825" stroke="#555555" stroke-width="0.6"/>
+<text x="46.0000" y="278.8583" font-size="8.2" font-weight="normal" text-anchor="end">20</text>
+<line x1="50.00000" y1="234.11650" x2="234.00000" y2="234.11650" stroke="#E6E6E6" stroke-width="0.7"/>
+<line x1="48.00000" y1="234.11650" x2="50.00000" y2="234.11650" stroke="#555555" stroke-width="0.6"/>
+<text x="46.0000" y="236.9165" font-size="8.2" font-weight="normal" text-anchor="end">40</text>
+<line x1="50.00000" y1="192.17476" x2="234.00000" y2="192.17476" stroke="#E6E6E6" stroke-width="0.7"/>
+<line x1="48.00000" y1="192.17476" x2="50.00000" y2="192.17476" stroke="#555555" stroke-width="0.6"/>
+<text x="46.0000" y="194.9748" font-size="8.2" font-weight="normal" text-anchor="end">60</text>
+<line x1="50.00000" y1="150.23301" x2="234.00000" y2="150.23301" stroke="#E6E6E6" stroke-width="0.7"/>
+<line x1="48.00000" y1="150.23301" x2="50.00000" y2="150.23301" stroke="#555555" stroke-width="0.6"/>
+<text x="46.0000" y="153.0330" font-size="8.2" font-weight="normal" text-anchor="end">80</text>
+<line x1="50.00000" y1="108.29126" x2="234.00000" y2="108.29126" stroke="#E6E6E6" stroke-width="0.7"/>
+<line x1="48.00000" y1="108.29126" x2="50.00000" y2="108.29126" stroke="#555555" stroke-width="0.6"/>
+<text x="46.0000" y="111.0913" font-size="8.2" font-weight="normal" text-anchor="end">100</text>
+<line x1="84.50000" y1="318.00000" x2="84.50000" y2="321.00000" stroke="#555555" stroke-width="0.6"/>
+<text x="84.5000" y="331.0000" font-size="8.2" font-weight="normal" text-anchor="middle">2023</text>
+<line x1="142.00000" y1="318.00000" x2="142.00000" y2="321.00000" stroke="#555555" stroke-width="0.6"/>
+<text x="142.0000" y="331.0000" font-size="8.2" font-weight="normal" text-anchor="middle">2024</text>
+<line x1="199.50000" y1="318.00000" x2="199.50000" y2="321.00000" stroke="#555555" stroke-width="0.6"/>
+<text x="199.5000" y="331.0000" font-size="8.2" font-weight="normal" text-anchor="middle">2025</text>
+<line x1="50.00000" y1="102.00000" x2="234.00000" y2="102.00000" stroke="#707070" stroke-width="0.6"/>
+<line x1="50.00000" y1="318.00000" x2="234.00000" y2="318.00000" stroke="#707070" stroke-width="0.6"/>
+<line x1="50.00000" y1="102.00000" x2="50.00000" y2="318.00000" stroke="#707070" stroke-width="0.6"/>
+<line x1="234.00000" y1="102.00000" x2="234.00000" y2="318.00000" stroke="#707070" stroke-width="0.6"/>
+<text x="142.0000" y="349.0000" font-size="9" font-weight="normal" text-anchor="middle">Trial year</text>
+<text x="16.0000" y="210.0000" font-size="9" font-weight="normal" text-anchor="middle" transform="rotate(-90 16 210.0)">Clusters with symptoms (%)</text>
+<line x1="73.95833" y1="117.30883" x2="73.95833" y2="108.39185" stroke="#4D4D4D" stroke-width="0.9"/>
+<line x1="73.19167" y1="117.30883" x2="74.72500" y2="117.30883" stroke="#4D4D4D" stroke-width="0.9"/>
+<line x1="73.19167" y1="108.39185" x2="74.72500" y2="108.39185" stroke="#4D4D4D" stroke-width="0.9"/>
+<circle cx="73.95833" cy="109.26054" r="2.35" fill="#4D4D4D"/>
+<line x1="84.50000" y1="152.21186" x2="84.50000" y2="117.54774" stroke="#009E73" stroke-width="0.9"/>
+<line x1="83.73333" y1="152.21186" x2="85.26667" y2="152.21186" stroke="#009E73" stroke-width="0.9"/>
+<line x1="83.73333" y1="117.54774" x2="85.26667" y2="117.54774" stroke="#009E73" stroke-width="0.9"/>
+<rect x="82.15000" y="126.82613" width="4.7" height="4.7" fill="#009E73" stroke="#009E73" stroke-width=".9"/>
+<line x1="95.04167" y1="147.14115" x2="95.04167" y2="114.36072" stroke="#CC79A7" stroke-width="0.9"/>
+<line x1="94.27500" y1="147.14115" x2="95.80833" y2="147.14115" stroke="#CC79A7" stroke-width="0.9"/>
+<line x1="94.27500" y1="114.36072" x2="95.80833" y2="114.36072" stroke="#CC79A7" stroke-width="0.9"/>
+<rect x="92.69167" y="121.89197" width="4.7" height="4.7" fill="white" stroke="#CC79A7" stroke-width=".9"/>
+<line x1="131.45833" y1="115.96716" x2="131.45833" y2="108.36603" stroke="#4D4D4D" stroke-width="0.9"/>
+<line x1="130.69167" y1="115.96716" x2="132.22500" y2="115.96716" stroke="#4D4D4D" stroke-width="0.9"/>
+<line x1="130.69167" y1="108.36603" x2="132.22500" y2="108.36603" stroke="#4D4D4D" stroke-width="0.9"/>
+<circle cx="131.45833" cy="109.06039" r="2.35" fill="#4D4D4D"/>
+<line x1="142.00000" y1="151.60771" x2="142.00000" y2="114.30674" stroke="#009E73" stroke-width="0.9"/>
+<line x1="141.23333" y1="151.60771" x2="142.76667" y2="151.60771" stroke="#009E73" stroke-width="0.9"/>
+<line x1="141.23333" y1="114.30674" x2="142.76667" y2="114.30674" stroke="#009E73" stroke-width="0.9"/>
+<rect x="139.65000" y="122.84650" width="4.7" height="4.7" fill="#009E73" stroke="#009E73" stroke-width=".9"/>
+<line x1="152.54167" y1="142.66827" x2="152.54167" y2="112.74967" stroke="#CC79A7" stroke-width="0.9"/>
+<line x1="151.77500" y1="142.66827" x2="153.30833" y2="142.66827" stroke="#CC79A7" stroke-width="0.9"/>
+<line x1="151.77500" y1="112.74967" x2="153.30833" y2="112.74967" stroke="#CC79A7" stroke-width="0.9"/>
+<rect x="150.19167" y="118.78858" width="4.7" height="4.7" fill="white" stroke="#CC79A7" stroke-width=".9"/>
+<line x1="188.95833" y1="124.43899" x2="188.95833" y2="108.48764" stroke="#4D4D4D" stroke-width="0.9"/>
+<line x1="188.19167" y1="124.43899" x2="189.72500" y2="124.43899" stroke="#4D4D4D" stroke-width="0.9"/>
+<line x1="188.19167" y1="108.48764" x2="189.72500" y2="108.48764" stroke="#4D4D4D" stroke-width="0.9"/>
+<circle cx="188.95833" cy="110.12943" r="2.35" fill="#4D4D4D"/>
+<line x1="199.50000" y1="178.30243" x2="199.50000" y2="125.34595" stroke="#009E73" stroke-width="0.9"/>
+<line x1="198.73333" y1="178.30243" x2="200.26667" y2="178.30243" stroke="#009E73" stroke-width="0.9"/>
+<line x1="198.73333" y1="125.34595" x2="200.26667" y2="125.34595" stroke="#009E73" stroke-width="0.9"/>
+<rect x="197.15000" y="142.42731" width="4.7" height="4.7" fill="#009E73" stroke="#009E73" stroke-width=".9"/>
+<line x1="210.04167" y1="168.18014" x2="210.04167" y2="120.43806" stroke="#CC79A7" stroke-width="0.9"/>
+<line x1="209.27500" y1="168.18014" x2="210.80833" y2="168.18014" stroke="#CC79A7" stroke-width="0.9"/>
+<line x1="209.27500" y1="120.43806" x2="210.80833" y2="120.43806" stroke="#CC79A7" stroke-width="0.9"/>
+<rect x="207.69167" y="134.36207" width="4.7" height="4.7" fill="white" stroke="#CC79A7" stroke-width=".9"/>
+<text x="264.0000" y="54.0000" font-size="14" font-weight="bold" text-anchor="start">B</text>
+<text x="306.0000" y="54.0000" font-size="10.5" font-weight="bold" text-anchor="start">Severity</text>
+<text x="306.0000" y="72.0000" font-size="8" font-weight="normal" text-anchor="start">Non-metal vs. metal, pooled:</text>
+<text x="306.0000" y="85.0000" font-size="8" font-weight="normal" text-anchor="start">P = 0.226</text>
+<line x1="306.00000" y1="318.00000" x2="490.00000" y2="318.00000" stroke="#E6E6E6" stroke-width="0.7"/>
+<line x1="304.00000" y1="318.00000" x2="306.00000" y2="318.00000" stroke="#555555" stroke-width="0.6"/>
+<text x="302.0000" y="320.8000" font-size="8.2" font-weight="normal" text-anchor="end">0</text>
+<line x1="306.00000" y1="276.05825" x2="490.00000" y2="276.05825" stroke="#E6E6E6" stroke-width="0.7"/>
+<line x1="304.00000" y1="276.05825" x2="306.00000" y2="276.05825" stroke="#555555" stroke-width="0.6"/>
+<text x="302.0000" y="278.8583" font-size="8.2" font-weight="normal" text-anchor="end">20</text>
+<line x1="306.00000" y1="234.11650" x2="490.00000" y2="234.11650" stroke="#E6E6E6" stroke-width="0.7"/>
+<line x1="304.00000" y1="234.11650" x2="306.00000" y2="234.11650" stroke="#555555" stroke-width="0.6"/>
+<text x="302.0000" y="236.9165" font-size="8.2" font-weight="normal" text-anchor="end">40</text>
+<line x1="306.00000" y1="192.17476" x2="490.00000" y2="192.17476" stroke="#E6E6E6" stroke-width="0.7"/>
+<line x1="304.00000" y1="192.17476" x2="306.00000" y2="192.17476" stroke="#555555" stroke-width="0.6"/>
+<text x="302.0000" y="194.9748" font-size="8.2" font-weight="normal" text-anchor="end">60</text>
+<line x1="306.00000" y1="150.23301" x2="490.00000" y2="150.23301" stroke="#E6E6E6" stroke-width="0.7"/>
+<line x1="304.00000" y1="150.23301" x2="306.00000" y2="150.23301" stroke="#555555" stroke-width="0.6"/>
+<text x="302.0000" y="153.0330" font-size="8.2" font-weight="normal" text-anchor="end">80</text>
+<line x1="306.00000" y1="108.29126" x2="490.00000" y2="108.29126" stroke="#E6E6E6" stroke-width="0.7"/>
+<line x1="304.00000" y1="108.29126" x2="306.00000" y2="108.29126" stroke="#555555" stroke-width="0.6"/>
+<text x="302.0000" y="111.0913" font-size="8.2" font-weight="normal" text-anchor="end">100</text>
+<line x1="340.50000" y1="318.00000" x2="340.50000" y2="321.00000" stroke="#555555" stroke-width="0.6"/>
+<text x="340.5000" y="331.0000" font-size="8.2" font-weight="normal" text-anchor="middle">2023</text>
+<line x1="398.00000" y1="318.00000" x2="398.00000" y2="321.00000" stroke="#555555" stroke-width="0.6"/>
+<text x="398.0000" y="331.0000" font-size="8.2" font-weight="normal" text-anchor="middle">2024</text>
+<line x1="455.50000" y1="318.00000" x2="455.50000" y2="321.00000" stroke="#555555" stroke-width="0.6"/>
+<text x="455.5000" y="331.0000" font-size="8.2" font-weight="normal" text-anchor="middle">2025</text>
+<line x1="306.00000" y1="102.00000" x2="490.00000" y2="102.00000" stroke="#707070" stroke-width="0.6"/>
+<line x1="306.00000" y1="318.00000" x2="490.00000" y2="318.00000" stroke="#707070" stroke-width="0.6"/>
+<line x1="306.00000" y1="102.00000" x2="306.00000" y2="318.00000" stroke="#707070" stroke-width="0.6"/>
+<line x1="490.00000" y1="102.00000" x2="490.00000" y2="318.00000" stroke="#707070" stroke-width="0.6"/>
+<text x="398.0000" y="349.0000" font-size="9" font-weight="normal" text-anchor="middle">Trial year</text>
+<text x="272.0000" y="210.0000" font-size="9" font-weight="normal" text-anchor="middle" transform="rotate(-90 272 210.0)">Mean diseased berries (%)</text>
+<line x1="329.95833" y1="245.52434" x2="329.95833" y2="147.11194" stroke="#4D4D4D" stroke-width="0.9"/>
+<line x1="329.19167" y1="245.52434" x2="330.72500" y2="245.52434" stroke="#4D4D4D" stroke-width="0.9"/>
+<line x1="329.19167" y1="147.11194" x2="330.72500" y2="147.11194" stroke="#4D4D4D" stroke-width="0.9"/>
+<circle cx="329.95833" cy="191.48479" r="2.35" fill="#4D4D4D"/>
+<line x1="340.50000" y1="304.12254" x2="340.50000" y2="255.28601" stroke="#009E73" stroke-width="0.9"/>
+<line x1="339.73333" y1="304.12254" x2="341.26667" y2="304.12254" stroke="#009E73" stroke-width="0.9"/>
+<line x1="339.73333" y1="255.28601" x2="341.26667" y2="255.28601" stroke="#009E73" stroke-width="0.9"/>
+<rect x="338.15000" y="284.28267" width="4.7" height="4.7" fill="#009E73" stroke="#009E73" stroke-width=".9"/>
+<line x1="351.04167" y1="299.89293" x2="351.04167" y2="236.56600" stroke="#CC79A7" stroke-width="0.9"/>
+<line x1="350.27500" y1="299.89293" x2="351.80833" y2="299.89293" stroke="#CC79A7" stroke-width="0.9"/>
+<line x1="350.27500" y1="236.56600" x2="351.80833" y2="236.56600" stroke="#CC79A7" stroke-width="0.9"/>
+<rect x="348.69167" y="274.08979" width="4.7" height="4.7" fill="white" stroke="#CC79A7" stroke-width=".9"/>
+<line x1="387.45833" y1="214.94347" x2="387.45833" y2="130.06246" stroke="#4D4D4D" stroke-width="0.9"/>
+<line x1="386.69167" y1="214.94347" x2="388.22500" y2="214.94347" stroke="#4D4D4D" stroke-width="0.9"/>
+<line x1="386.69167" y1="130.06246" x2="388.22500" y2="130.06246" stroke="#4D4D4D" stroke-width="0.9"/>
+<circle cx="387.45833" cy="162.55394" r="2.35" fill="#4D4D4D"/>
+<line x1="398.00000" y1="294.73742" x2="398.00000" y2="219.95440" stroke="#009E73" stroke-width="0.9"/>
+<line x1="397.23333" y1="294.73742" x2="398.76667" y2="294.73742" stroke="#009E73" stroke-width="0.9"/>
+<line x1="397.23333" y1="219.95440" x2="398.76667" y2="219.95440" stroke="#009E73" stroke-width="0.9"/>
+<rect x="395.65000" y="263.23622" width="4.7" height="4.7" fill="#009E73" stroke="#009E73" stroke-width=".9"/>
+<line x1="408.54167" y1="286.84475" x2="408.54167" y2="202.01944" stroke="#CC79A7" stroke-width="0.9"/>
+<line x1="407.77500" y1="286.84475" x2="409.30833" y2="286.84475" stroke="#CC79A7" stroke-width="0.9"/>
+<line x1="407.77500" y1="202.01944" x2="409.30833" y2="202.01944" stroke="#CC79A7" stroke-width="0.9"/>
+<rect x="406.19167" y="248.92568" width="4.7" height="4.7" fill="white" stroke="#CC79A7" stroke-width=".9"/>
+<line x1="444.95833" y1="250.70825" x2="444.95833" y2="153.27384" stroke="#4D4D4D" stroke-width="0.9"/>
+<line x1="444.19167" y1="250.70825" x2="445.72500" y2="250.70825" stroke="#4D4D4D" stroke-width="0.9"/>
+<line x1="444.19167" y1="153.27384" x2="445.72500" y2="153.27384" stroke="#4D4D4D" stroke-width="0.9"/>
+<circle cx="444.95833" cy="198.94233" r="2.35" fill="#4D4D4D"/>
+<line x1="455.50000" y1="305.73817" x2="455.50000" y2="262.48953" stroke="#009E73" stroke-width="0.9"/>
+<line x1="454.73333" y1="305.73817" x2="456.26667" y2="305.73817" stroke="#009E73" stroke-width="0.9"/>
+<line x1="454.73333" y1="262.48953" x2="456.26667" y2="262.48953" stroke="#009E73" stroke-width="0.9"/>
+<rect x="453.15000" y="288.06819" width="4.7" height="4.7" fill="#009E73" stroke="#009E73" stroke-width=".9"/>
+<line x1="466.04167" y1="301.42934" x2="466.04167" y2="246.32045" stroke="#CC79A7" stroke-width="0.9"/>
+<line x1="465.27500" y1="301.42934" x2="466.80833" y2="301.42934" stroke="#CC79A7" stroke-width="0.9"/>
+<line x1="465.27500" y1="246.32045" x2="466.80833" y2="246.32045" stroke="#CC79A7" stroke-width="0.9"/>
+<rect x="463.69167" y="278.81425" width="4.7" height="4.7" fill="white" stroke="#CC79A7" stroke-width=".9"/>
+</g></svg>
