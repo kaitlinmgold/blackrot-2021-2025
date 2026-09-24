@@ -1,0 +1,8 @@
+{
+  "name": "blackrot-2021-2025",
+  "version": "1.0.0",
+  "description": "Figure raster export for the Black rot field trial analysis",
+  "dependencies": {
+    "sharp": "0.35.4"
+  }
+}

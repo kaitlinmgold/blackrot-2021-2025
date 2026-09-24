@@ -2,16 +2,21 @@
 
 Data and annotated analysis code accompanying *Five-year field evaluation of biological fungicide programs for black rot management in ‘Niagara’ juice grape* (Kaitlin M. Gold and David B. Combs).
 
-## Download and run
+The cluster dataset contains **264 plots from 66 program-year identities** at one vineyard over five seasons. This repository provides the observations, application codebook, saved numerical results, and code for the manuscript analyses and figures.
 
-[Download the complete code and data package](Supplementary_File_S1_v5.2.zip). Extract it and open the `BlackRot_GitHub_2026-09-24` folder. Its `README.md`, `REPRODUCE.md`, and `METHODS.md` describe the data, software requirements, commands, and analysis interpretation.
+| Folder | Contents |
+|---|---|
+| `data/` | Plot and cluster observations, application codebook, field dictionary, and data corrections |
+| `scripts/` | Primary and secondary models, calibrated tests, descriptive summaries, and figure rendering |
+| `results/` | Recorded numerical results and R session information |
+| `analyses/` | Completed 2022 assignment sensitivity and program-screen diagnostics |
+| `figures/` | Vector figure sources and Figure 4–5 input tables/code |
+| `descriptive_newa_timeline/` | NEWA source tables, dates, counts, and Figure 6 code |
 
-From the extracted package directory, run:
+**Start:** `python3 scripts/check_data.py` checks the distributed observations and file checksums without fitting models. See [REPRODUCE.md](REPRODUCE.md) for installation and execution commands, [METHODS.md](METHODS.md) for analysis interpretation, and `data/data_dictionary.csv` for field definitions.
 
-```sh
-python3 scripts/check_data.py
-```
+Saved estimates and simulation results are provided so figures and summaries can be inspected without repeating lengthy bootstrap runs. Model objects are generated locally by the analysis scripts. Run analyses in the separate `rerun/` directory to preserve the recorded results. The `v4`/`v5.0` names identify source-code or figure families; they do not specify a manuscript version.
 
-The package contains 173 files: cluster observations from 264 plots and 66 program-year identities, application codebook, data dictionary, annotated R/Python scripts, recorded model and bootstrap results, figure sources, NEWA weather tables, and SHA-256 checksums. It preserves the recorded statistical results; model objects can be generated locally using the supplied commands.
+Application rates and formulation details should be read with the codebook notes. OxiDate rates for Y2022_P16 and Y2023_P07 remain unconfirmed (64 fl oz/acre versus 1 gal/acre); compiled entries are preserved rather than resolved by assumption. Ensendo component identity and historical Curezin/MagnaBon formulations also retain their documented uncertainty.
 
-The complete folder structure is inside the ZIP. Download and extract that archive before running scripts. Existing application-rate and formulation uncertainties are documented in the package. Cite the accompanying manuscript when using the study data; its final citation or DOI will be added when available.
+NEWA data are attributed to Cornell’s Network for Environment and Weather Applications in the timeline folder. Cite the accompanying manuscript when using the study data; add its final citation or DOI when available.

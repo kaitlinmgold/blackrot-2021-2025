@@ -1,0 +1,8 @@
+rerun/
+.venv/
+node_modules/
+__pycache__/
+*.pyc
+.Rhistory
+.RData
+.DS_Store
