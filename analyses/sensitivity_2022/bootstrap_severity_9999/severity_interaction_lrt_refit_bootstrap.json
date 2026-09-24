@@ -1,0 +1,25 @@
+{
+  "test": "Year-by-program-class interaction for transformed cluster severity",
+  "calibration": "Parametric-bootstrap likelihood-ratio test; both nested models were refitted by ML in every simulation while retaining the selected year-plus-program-class residual dispersion model",
+  "observed_statistic": 29.029986770636015,
+  "requested_simulations": 9999,
+  "valid_simulations": 9972,
+  "failed_simulations": 27,
+  "exceedances": 790,
+  "bootstrap_p": 0.07931414820014038,
+  "monte_carlo_se": 0.00270593996783713,
+  "missing_result_p_lower": 0.0791,
+  "missing_result_p_upper": 0.0818,
+  "seed": 20260913,
+  "quantiles": {
+    "50%": 17.619204618843924,
+    "90%": 27.917734529069616,
+    "95%": 30.941496991924566,
+    "99%": 37.327861783864044
+  },
+  "elapsed_seconds": 198.60300000000001,
+  "status_counts": {
+    "fit_failure": 27,
+    "ok": 9972
+  }
+}
