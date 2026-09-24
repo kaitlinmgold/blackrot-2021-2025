@@ -1,0 +1,74 @@
+{
+  "n_plots": 92,
+  "n_programs": 23,
+  "support": [
+    {
+      "Year": "2023",
+      "Analysis_Group": "Untreated",
+      "Freq": 4
+    },
+    {
+      "Year": "2024",
+      "Analysis_Group": "Untreated",
+      "Freq": 4
+    },
+    {
+      "Year": "2025",
+      "Analysis_Group": "Untreated",
+      "Freq": 4
+    },
+    {
+      "Year": "2023",
+      "Analysis_Group": "Non-metal biological",
+      "Freq": 24
+    },
+    {
+      "Year": "2024",
+      "Analysis_Group": "Non-metal biological",
+      "Freq": 8
+    },
+    {
+      "Year": "2025",
+      "Analysis_Group": "Non-metal biological",
+      "Freq": 20
+    },
+    {
+      "Year": "2023",
+      "Analysis_Group": "Metal-containing biological",
+      "Freq": 8
+    },
+    {
+      "Year": "2024",
+      "Analysis_Group": "Metal-containing biological",
+      "Freq": 8
+    },
+    {
+      "Year": "2025",
+      "Analysis_Group": "Metal-containing biological",
+      "Freq": 12
+    }
+  ],
+  "incidence": {
+    "year_pd_hessian": true,
+    "additive_pd_hessian": true,
+    "full_pd_hessian": true,
+    "full_convergence": 0,
+    "full_message": "relative convergence (4)",
+    "phi": 8.404958421712228,
+    "rho": 0.1063268921733249,
+    "score": {
+      "statistic": 5.917376120703516,
+      "df": 4,
+      "p": 0.2054042299731174,
+      "max_abs_nuisance_score": 1.615619572348237e-05,
+      "min_eigenvalue": 0.0417290343439921,
+      "condition_number": 147.09001562125133
+    },
+    "random_effects": ["", "Conditional model:", " Groups            Name        Std.Dev.", " BlockYear         (Intercept) 0.67067 ", " Public_Program_ID (Intercept) 0.44117 "]
+  },
+  "severity": {
+    "selected_structure": "year-specific residual dispersion",
+    "selected_pd_hessian": true,
+    "random_effects": ["", "Conditional model:", " Groups            Name        Std.Dev.", " BlockYear         (Intercept) 0.64931 ", " Public_Program_ID (Intercept) 0.36999 ", " Residual                           NA "]
+  }
+}

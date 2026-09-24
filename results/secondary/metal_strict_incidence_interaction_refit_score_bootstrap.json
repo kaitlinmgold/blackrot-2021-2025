@@ -1,0 +1,26 @@
+{
+  "test": "Efficient score test of the year-by-group interaction",
+  "null_model": "Additive beta-binomial GLMM with block-within-year and program random intercepts",
+  "calibration": "Parametric bootstrap with the additive null refitted for every simulated dataset",
+  "observed_score_statistic": 11.580301169414737,
+  "df": 4,
+  "asymptotic_p": 0.02076103293379858,
+  "requested_simulations": 1999,
+  "valid_simulations": 1966,
+  "failed_simulations": 33,
+  "exceedances": 162,
+  "bootstrap_p": 0.08286731062531774,
+  "monte_carlo_se": 0.006215921610815829,
+  "seed": 20260833,
+  "cores": 8,
+  "elapsed_seconds": 74.404000000000011,
+  "observed_information_min_eigenvalue": 0.04205252662276201,
+  "observed_information_condition_number": 94.148890861087111,
+  "max_abs_nuisance_score_observed": 2.234462132877368e-05,
+  "bootstrap_quantiles": {
+    "50%": 3.395219579093269,
+    "90%": 10.406291691516351,
+    "95%": 14.220882423220937,
+    "99%": 31.79807569263793
+  }
+}

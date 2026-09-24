@@ -1,0 +1,7 @@
+{
+  "incidence_pd_hessian": true,
+  "severity_pd_hessian": true,
+  "incidence_rho": 0.1711709225332378,
+  "incidence_random_effects": ["", "Conditional model:", " Groups            Name        Std.Dev.", " BlockYear         (Intercept) 0.46182 ", " Public_Program_ID (Intercept) 0.50717 "],
+  "severity_random_effects": ["", "Conditional model:", " Groups            Name        Std.Dev.", " BlockYear         (Intercept) 0.58374 ", " Public_Program_ID (Intercept) 0.42261 ", " Residual                           NA "]
+}

@@ -1,0 +1,23 @@
+{
+  "test": "Secondary year-by-analysis-group interaction for transformed cluster severity",
+  "observed_likelihood_ratio": 3.914344749911379,
+  "calibration": "Parametric-bootstrap likelihood-ratio test; both nested models were refitted by ML in every simulation with year-specific residual dispersion",
+  "requested_simulations": 1999,
+  "valid_simulations": 1993,
+  "failed_simulations": 6,
+  "exceedances": 1067,
+  "bootstrap_p": 0.5356068204613842,
+  "monte_carlo_se": 0.01116871962502877,
+  "seed": 20260843,
+  "elapsed_seconds": 43.992999999999995,
+  "status_counts": {
+    "fit_failure": 6,
+    "ok": 1993
+  },
+  "quantiles": {
+    "50%": 4.188919558380576,
+    "90%": 9.31473250975564,
+    "95%": 11.524259605612833,
+    "99%": 15.493907682147098
+  }
+}
