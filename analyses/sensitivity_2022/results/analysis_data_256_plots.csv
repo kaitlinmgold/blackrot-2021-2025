@@ -1,0 +1,257 @@
+Public_Plot_ID,Public_Program_ID,Year,Block,BlockYear,Program_Label,Program_Class,Biological_Metal_Group,Strict_Metal_Only,Architecture,Microbe_Present,Biochemical_Present,Metal_Present,Unknown_Biological_Present,N_Clusters_Expected,N_Clusters_Rated,Cluster_Positive_Count,Cluster_Incidence_Pct,Cluster_Severity_Pct,HA_Logit_Incidence,HA_Logit_Severity,QC_Flags,Cluster_Negative_Count
+Y2021_P01_R01,Y2021_P01,2021,1,2021:1,UTC,Untreated,Not biological-only,0,Untreated,0,0,0,0,20,20,20,100,94.5,5.30330490805908,2.76211742237249,,0
+Y2021_P01_R02,Y2021_P01,2021,2,2021:2,UTC,Untreated,Not biological-only,0,Untreated,0,0,0,0,20,20,20,100,96.75,5.30330490805908,3.25552914251624,,0
+Y2021_P01_R03,Y2021_P01,2021,3,2021:3,UTC,Untreated,Not biological-only,0,Untreated,0,0,0,0,20,20,20,100,96.5,5.30330490805908,3.18841661738349,,0
+Y2021_P01_R04,Y2021_P01,2021,4,2021:4,UTC,Untreated,Not biological-only,0,Untreated,0,0,0,0,20,20,20,100,88,5.30330490805908,1.95727390770563,,0
+Y2021_P02_R01,Y2021_P02,2021,2,2021:2,Aprovia 0.83EC,Conventional only,Not biological-only,0,Repeated single product,0,0,0,0,20,20,10,50,3,0,-3.32708940950843,,10
+Y2021_P02_R02,Y2021_P02,2021,1,2021:1,Aprovia 0.83EC,Conventional only,Not biological-only,0,Repeated single product,0,0,0,0,20,20,20,100,85.75,5.30330490805908,1.76600697312564,,0
+Y2021_P02_R03,Y2021_P02,2021,3,2021:3,Aprovia 0.83EC,Conventional only,Not biological-only,0,Repeated single product,0,0,0,0,20,20,20,100,47,5.30330490805908,-0.118951942861365,,0
+Y2021_P02_R04,Y2021_P02,2021,4,2021:4,Aprovia 0.83EC,Conventional only,Not biological-only,0,Repeated single product,0,0,0,0,20,20,20,100,29.75,5.30330490805908,-0.849656352046497,,0
+Y2021_P03_R01,Y2021_P03,2021,1,2021:1,Mettle 125ME,Conventional only,Not biological-only,0,Repeated single product,0,0,0,0,20,20,12,60,2.5,0.401341390924302,-3.48635519000246,,8
+Y2021_P03_R02,Y2021_P03,2021,3,2021:3,Mettle 125ME,Conventional only,Not biological-only,0,Repeated single product,0,0,0,0,20,20,20,100,93.25,5.30330490805908,2.55963019598394,,0
+Y2021_P03_R03,Y2021_P03,2021,2,2021:2,Mettle 125ME,Conventional only,Not biological-only,0,Repeated single product,0,0,0,0,20,20,20,100,43.5,5.30330490805908,-0.258861633916289,,0
+Y2021_P03_R04,Y2021_P03,2021,4,2021:4,Mettle 125ME,Conventional only,Not biological-only,0,Repeated single product,0,0,0,0,20,20,20,100,75.25,5.30330490805908,1.09861228866811,,0
+Y2021_P04_R01,Y2021_P04,2021,2,2021:2,Flint Extra,Conventional only,Not biological-only,0,Repeated single product,0,0,0,0,20,20,13,65,11,0.612517446159836,-2.05189158991161,,7
+Y2021_P04_R02,Y2021_P04,2021,1,2021:1,Flint Extra,Conventional only,Not biological-only,0,Repeated single product,0,0,0,0,20,20,20,100,84.75,5.30330490805908,1.68874775089198,,0
+Y2021_P04_R03,Y2021_P04,2021,3,2021:3,Flint Extra,Conventional only,Not biological-only,0,Repeated single product,0,0,0,0,20,20,19,95,17.5,2.85437815524826,-1.52846884990043,,1
+Y2021_P04_R04,Y2021_P04,2021,4,2021:4,Flint Extra,Conventional only,Not biological-only,0,Repeated single product,0,0,0,0,20,20,20,100,94,5.30330490805908,2.67679765759811,,0
+Y2021_P05_R01,Y2021_P05,2021,1,2021:1,Howler,Biological only,Non-metal biological,0,Repeated single product,1,0,0,0,20,20,18,90,43.25,2.1539745935424,-0.268936029630726,,2
+Y2021_P05_R02,Y2021_P05,2021,3,2021:3,Howler,Biological only,Non-metal biological,0,Repeated single product,1,0,0,0,20,20,20,100,86,5.30330490805908,1.7859957645113,,0
+Y2021_P05_R03,Y2021_P05,2021,2,2021:2,Howler,Biological only,Non-metal biological,0,Repeated single product,1,0,0,0,20,20,17,85,9.75,1.70767635201751,-2.18083076756054,,3
+Y2021_P05_R04,Y2021_P05,2021,4,2021:4,Howler,Biological only,Non-metal biological,0,Repeated single product,1,0,0,0,20,20,20,100,74.5,5.30330490805908,1.05939157551483,,0
+Y2021_P06_R01,Y2021_P06,2021,1,2021:1,Theia,Biological only,Non-metal biological,0,Repeated single product,1,0,0,0,20,20,19,95,40.25,2.85437815524826,-0.391046732683893,,1
+Y2021_P06_R02,Y2021_P06,2021,3,2021:3,Theia,Biological only,Non-metal biological,0,Repeated single product,1,0,0,0,20,20,15,75,6.75,1.0854542040906,-2.55963019598394,,5
+Y2021_P06_R03,Y2021_P06,2021,2,2021:2,Theia,Biological only,Non-metal biological,0,Repeated single product,1,0,0,0,20,20,20,100,25.25,5.30330490805908,-1.07238127651924,,0
+Y2021_P06_R04,Y2021_P06,2021,4,2021:4,Theia,Biological only,Non-metal biological,0,Repeated single product,1,0,0,0,20,20,20,100,97.25,5.30330490805908,3.40375820252383,,0
+Y2021_P07_R01,Y2021_P07,2021,1,2021:1,Ensendo,Mixed,Not biological-only,0,Formulated hybrid product,1,0,0,0,20,20,16,80,5.6,1.36783229828016,-2.74453493443662,,4
+Y2021_P07_R02,Y2021_P07,2021,3,2021:3,Ensendo,Mixed,Not biological-only,0,Formulated hybrid product,1,0,0,0,20,20,19,95,35.5,2.85437815524826,-0.590868331439527,,1
+Y2021_P07_R03,Y2021_P07,2021,2,2021:2,Ensendo,Mixed,Not biological-only,0,Formulated hybrid product,1,0,0,0,20,20,10,50,2.75,0,-3.40375820252383,,10
+Y2021_P07_R04,Y2021_P07,2021,4,2021:4,Ensendo,Mixed,Not biological-only,0,Formulated hybrid product,1,0,0,0,20,20,20,100,42,5.30330490805908,-0.31952267830744,,0
+Y2021_P08_R01,Y2021_P08,2021,2,2021:2,Parade SC,Conventional only,Not biological-only,0,Repeated single product,0,0,0,0,20,20,18,90,21,2.1539745935424,-1.30770408652667,,2
+Y2021_P08_R02,Y2021_P08,2021,1,2021:1,Parade SC,Conventional only,Not biological-only,0,Repeated single product,0,0,0,0,20,20,20,100,80.25,5.30330490805908,1.38320316855022,,0
+Y2021_P08_R03,Y2021_P08,2021,3,2021:3,Parade SC,Conventional only,Not biological-only,0,Repeated single product,0,0,0,0,20,20,20,100,56.5,5.30330490805908,0.258861633916289,,0
+Y2021_P08_R04,Y2021_P08,2021,4,2021:4,Parade SC,Conventional only,Not biological-only,0,Repeated single product,0,0,0,0,20,20,20,100,94,5.30330490805908,2.67679765759811,,0
+Y2021_P09_R01,Y2021_P09,2021,1,2021:1,Parade SC + Orius 20AQ,Conventional only,Not biological-only,0,Repeated tank mix,0,0,0,0,20,19,18,94.7368421052632,72.8947368421053,2.80488129374724,0.977845779231192,invalid_organ_rating_recode,1
+Y2021_P09_R02,Y2021_P09,2021,3,2021:3,Parade SC + Orius 20AQ,Conventional only,Not biological-only,0,Repeated tank mix,0,0,0,0,20,20,20,100,62.75,5.30330490805908,0.516109651912596,,0
+Y2021_P09_R03,Y2021_P09,2021,2,2021:2,Parade SC + Orius 20AQ,Conventional only,Not biological-only,0,Repeated tank mix,0,0,0,0,20,20,20,100,82.25,5.30330490805908,1.51165893422867,,0
+Y2021_P09_R04,Y2021_P09,2021,4,2021:4,Parade SC + Orius 20AQ,Conventional only,Not biological-only,0,Repeated tank mix,0,0,0,0,20,20,20,100,73.25,5.30330490805908,0.995627474110676,,0
+Y2021_P10_R01,Y2021_P10,2021,1,2021:1,Regalia + Stargus,Biological only,Non-metal biological,0,Repeated tank mix,1,1,0,0,20,20,20,100,56.75,5.30330490805908,0.268936029630726,,0
+Y2021_P10_R02,Y2021_P10,2021,3,2021:3,Regalia + Stargus,Biological only,Non-metal biological,0,Repeated tank mix,1,1,0,0,20,20,20,100,41.5,5.30330490805908,-0.339867825622351,,0
+Y2021_P10_R03,Y2021_P10,2021,2,2021:2,Regalia + Stargus,Biological only,Non-metal biological,0,Repeated tank mix,1,1,0,0,20,20,20,100,27.25,5.30330490805908,-0.970642407704733,,0
+Y2021_P10_R04,Y2021_P10,2021,4,2021:4,Regalia + Stargus,Biological only,Non-metal biological,0,Repeated tank mix,1,1,0,0,20,20,13,65,5,0.612517446159836,-2.85437815524826,,7
+Y2021_P11_R01,Y2021_P11,2021,1,2021:1,Lifegard WG,Biological only,Non-metal biological,0,Repeated single product,1,0,0,0,20,20,20,100,77.5,5.30330490805908,1.22121461076044,,0
+Y2021_P11_R02,Y2021_P11,2021,3,2021:3,Lifegard WG,Biological only,Non-metal biological,0,Repeated single product,1,0,0,0,20,20,19,95,19.75,2.85437815524826,-1.38320316855022,,1
+Y2021_P11_R03,Y2021_P11,2021,2,2021:2,Lifegard WG,Biological only,Non-metal biological,0,Repeated single product,1,0,0,0,20,20,20,100,48.25,5.30330490805908,-0.0693346934010642,,0
+Y2021_P11_R04,Y2021_P11,2021,4,2021:4,Lifegard WG,Biological only,Non-metal biological,0,Repeated single product,1,0,0,0,20,20,20,100,56.75,5.30330490805908,0.268936029630726,,0
+Y2021_P12_R01,Y2021_P12,2021,1,2021:1,Oso 5SC,Biological only,Non-metal biological,0,Repeated single product,0,1,0,0,20,20,20,100,80,5.30330490805908,1.36783229828016,,0
+Y2021_P12_R02,Y2021_P12,2021,3,2021:3,Oso 5SC,Biological only,Non-metal biological,0,Repeated single product,0,1,0,0,20,20,20,100,80,5.30330490805908,1.36783229828016,,0
+Y2021_P12_R03,Y2021_P12,2021,2,2021:2,Oso 5SC,Biological only,Non-metal biological,0,Repeated single product,0,1,0,0,20,20,20,100,86,5.30330490805908,1.7859957645113,,0
+Y2021_P12_R04,Y2021_P12,2021,4,2021:4,Oso 5SC,Biological only,Non-metal biological,0,Repeated single product,0,1,0,0,20,20,20,100,69.75,5.30330490805908,0.826170313961328,,0
+Y2021_P13_R01,Y2021_P13,2021,2,2021:2,Romeo + WE1481-1,Biological only,Non-metal biological,0,Repeated tank mix,0,1,0,1,20,20,15,75,4.5,1.0854542040906,-2.95491027903374,,5
+Y2021_P13_R02,Y2021_P13,2021,1,2021:1,Romeo + WE1481-1,Biological only,Non-metal biological,0,Repeated tank mix,0,1,0,1,20,20,20,100,77,5.30330490805908,1.19327751520919,,0
+Y2021_P13_R03,Y2021_P13,2021,3,2021:3,Romeo + WE1481-1,Biological only,Non-metal biological,0,Repeated tank mix,0,1,0,1,20,20,20,100,97.25,5.30330490805908,3.40375820252383,,0
+Y2021_P13_R04,Y2021_P13,2021,4,2021:4,Romeo + WE1481-1,Biological only,Non-metal biological,0,Repeated tank mix,0,1,0,1,20,20,20,100,98.75,5.30330490805908,4.03802613163188,,0
+Y2022_P01_R01,Y2022_P01,2022,1,2022:1,UTC,Untreated,Not biological-only,0,Untreated,0,0,0,0,20,20,20,100,30.75,5.30330490805908,-0.802898044519064,,0
+Y2022_P01_R02,Y2022_P01,2022,2,2022:2,UTC,Untreated,Not biological-only,0,Untreated,0,0,0,0,20,20,20,100,31.45,5.30330490805908,-0.770658699031757,,0
+Y2022_P01_R03,Y2022_P01,2022,3,2022:3,UTC,Untreated,Not biological-only,0,Untreated,0,0,0,0,20,20,20,100,45,5.30330490805908,-0.198670694795484,,0
+Y2022_P01_R04,Y2022_P01,2022,4,2022:4,UTC,Untreated,Not biological-only,0,Untreated,0,0,0,0,20,20,19,95,37.35,2.85437815524826,-0.511881868913042,,1
+Y2022_P04_R01,Y2022_P04,2022,1,2022:1,Flint Extra,Conventional only,Not biological-only,0,Repeated single product,0,0,0,0,20,20,15,75,8.55,1.0854542040906,-2.3184801933385,,5
+Y2022_P04_R02,Y2022_P04,2022,2,2022:2,Flint Extra,Conventional only,Not biological-only,0,Repeated single product,0,0,0,0,20,20,5,25,0.5,-1.0854542040906,-4.60517018598809,,15
+Y2022_P04_R03,Y2022_P04,2022,3,2022:3,Flint Extra,Conventional only,Not biological-only,0,Repeated single product,0,0,0,0,20,20,14,70,4,0.837886026204857,-3.06546561156867,,6
+Y2022_P04_R04,Y2022_P04,2022,4,2022:4,Flint Extra,Conventional only,Not biological-only,0,Repeated single product,0,0,0,0,20,20,1,5,0.1,-2.85437815524826,-5.11998783102362,,19
+Y2022_P05_R01,Y2022_P05,2022,1,2022:1,Lifegard WG,Biological only,Non-metal biological,0,Repeated single product,1,0,0,0,20,20,9,45,3.1,-0.198670694795484,-3.29789236518643,,11
+Y2022_P05_R02,Y2022_P05,2022,2,2022:2,Lifegard WG,Biological only,Non-metal biological,0,Repeated single product,1,0,0,0,20,20,2,10,0.2,-2.1539745935424,-4.96484063890662,,18
+Y2022_P05_R03,Y2022_P05,2022,3,2022:3,Lifegard WG,Biological only,Non-metal biological,0,Repeated single product,1,0,0,0,20,20,1,5,0.1,-2.85437815524826,-5.11998783102362,,19
+Y2022_P05_R04,Y2022_P05,2022,4,2022:4,Lifegard WG,Biological only,Non-metal biological,0,Repeated single product,1,0,0,0,20,20,5,25,0.65,-1.0854542040906,-4.46390711748667,,15
+Y2022_P06_R01,Y2022_P06,2022,1,2022:1,Howler,Biological only,Non-metal biological,0,Repeated single product,1,0,0,0,20,20,2,10,0.6,-2.1539745935424,-4.50885950585018,,18
+Y2022_P06_R02,Y2022_P06,2022,2,2022:2,Howler,Biological only,Non-metal biological,0,Repeated single product,1,0,0,0,20,20,13,65,5.9,0.612517446159836,-2.69335948569221,,7
+Y2022_P06_R03,Y2022_P06,2022,3,2022:3,Howler,Biological only,Non-metal biological,0,Repeated single product,1,0,0,0,20,20,20,100,33.25,5.30330490805908,-0.68943660116341,,0
+Y2022_P06_R04,Y2022_P06,2022,4,2022:4,Howler,Biological only,Non-metal biological,0,Repeated single product,1,0,0,0,20,20,19,95,17.15,2.85437815524826,-1.5523128258175,,1
+Y2022_P07_R01,Y2022_P07,2022,1,2022:1,Theia,Biological only,Non-metal biological,0,Repeated single product,1,0,0,0,20,20,13,65,6.3,0.612517446159836,-2.62849756940026,,7
+Y2022_P07_R02,Y2022_P07,2022,2,2022:2,Theia,Biological only,Non-metal biological,0,Repeated single product,1,0,0,0,20,20,13,65,3.4,0.612517446159836,-3.21476482216168,,7
+Y2022_P07_R03,Y2022_P07,2022,3,2022:3,Theia,Biological only,Non-metal biological,0,Repeated single product,1,0,0,0,20,20,17,85,31.2,1.70767635201751,-0.782128225312622,,3
+Y2022_P07_R04,Y2022_P07,2022,4,2022:4,Theia,Biological only,Non-metal biological,0,Repeated single product,1,0,0,0,20,20,18,90,11.25,2.1539745935424,-2.02758818006958,,2
+Y2022_P08_R01,Y2022_P08,2022,1,2022:1,Ensendo,Mixed,Not biological-only,0,Formulated hybrid product,1,0,0,0,20,20,16,80,4.35,1.36783229828016,-2.9869307670854,,4
+Y2022_P08_R02,Y2022_P08,2022,2,2022:2,Ensendo,Mixed,Not biological-only,0,Formulated hybrid product,1,0,0,0,20,20,10,50,4.25,0,-3.00880435512134,,10
+Y2022_P08_R03,Y2022_P08,2022,3,2022:3,Ensendo,Mixed,Not biological-only,0,Formulated hybrid product,1,0,0,0,20,20,0,0,0,-5.30330490805908,-5.30330490805908,,20
+Y2022_P08_R04,Y2022_P08,2022,4,2022:4,Ensendo,Mixed,Not biological-only,0,Formulated hybrid product,1,0,0,0,20,20,9,45,1.05,-0.198670694795484,-4.16140007436883,,11
+Y2022_P09_R01,Y2022_P09,2022,1,2022:1,Timorex ACT,Biological only,Non-metal biological,0,Repeated single product,0,1,0,0,20,20,10,50,1.75,0,-3.7816611875649,,10
+Y2022_P09_R02,Y2022_P09,2022,2,2022:2,Timorex ACT,Biological only,Non-metal biological,0,Repeated single product,0,1,0,0,20,20,2,10,0.2,-2.1539745935424,-4.96484063890662,,18
+Y2022_P09_R03,Y2022_P09,2022,3,2022:3,Timorex ACT,Biological only,Non-metal biological,0,Repeated single product,0,1,0,0,20,20,1,5,0.1,-2.85437815524826,-5.11998783102362,,19
+Y2022_P09_R04,Y2022_P09,2022,4,2022:4,Timorex ACT,Biological only,Non-metal biological,0,Repeated single product,0,1,0,0,20,20,0,0,0,-5.30330490805908,-5.30330490805908,,20
+Y2022_P10_R01,Y2022_P10,2022,1,2022:1,Aviv,Biological only,Non-metal biological,0,Repeated single product,1,0,0,0,20,20,7,35,2.75,-0.612517446159836,-3.40375820252383,,13
+Y2022_P10_R02,Y2022_P10,2022,2,2022:2,Aviv,Biological only,Non-metal biological,0,Repeated single product,1,0,0,0,20,20,2,10,0.2,-2.1539745935424,-4.96484063890662,,18
+Y2022_P10_R03,Y2022_P10,2022,3,2022:3,Aviv,Biological only,Non-metal biological,0,Repeated single product,1,0,0,0,20,20,1,5,0.25,-2.85437815524826,-4.89534913863846,,19
+Y2022_P10_R04,Y2022_P10,2022,4,2022:4,Aviv,Biological only,Non-metal biological,0,Repeated single product,1,0,0,0,20,20,3,15,0.3,-1.70767635201751,-4.83031173996497,,17
+Y2022_P11_R01,Y2022_P11,2022,1,2022:1,Regev,Mixed,Not biological-only,0,Formulated hybrid product,0,1,0,0,20,20,9,45,5.55,-0.198670694795484,-2.75329216521554,,11
+Y2022_P11_R02,Y2022_P11,2022,2,2022:2,Regev,Mixed,Not biological-only,0,Formulated hybrid product,0,1,0,0,20,20,2,10,0.2,-2.1539745935424,-4.96484063890662,,18
+Y2022_P11_R03,Y2022_P11,2022,3,2022:3,Regev,Mixed,Not biological-only,0,Formulated hybrid product,0,1,0,0,20,20,2,10,0.2,-2.1539745935424,-4.96484063890662,,18
+Y2022_P11_R04,Y2022_P11,2022,4,2022:4,Regev,Mixed,Not biological-only,0,Formulated hybrid product,0,1,0,0,20,20,0,0,0,-5.30330490805908,-5.30330490805908,,20
+Y2022_P12_R01,Y2022_P12,2022,2,2022:2,Oso 5SC,Biological only,Non-metal biological,0,Repeated single product,0,1,0,0,20,20,2,10,0.2,-2.1539745935424,-4.96484063890662,,18
+Y2022_P12_R02,Y2022_P12,2022,3,2022:3,Oso 5SC,Biological only,Non-metal biological,0,Repeated single product,0,1,0,0,20,20,4,20,0.4,-1.36783229828016,-4.711530201979,,16
+Y2022_P12_R03,Y2022_P12,2022,1,2022:1,Oso 5SC,Biological only,Non-metal biological,0,Repeated single product,0,1,0,0,20,20,3,15,0.45,-1.70767635201751,-4.65696335541729,,17
+Y2022_P12_R04,Y2022_P12,2022,4,2022:4,Oso 5SC,Biological only,Non-metal biological,0,Repeated single product,0,1,0,0,20,20,8,40,3.2,-0.401341390924302,-3.26946616954178,,12
+Y2022_P13_R01,Y2022_P13,2022,1,2022:1,Regalia + Stargus,Biological only,Non-metal biological,0,Repeated tank mix,1,1,0,0,20,20,7,35,0.85,-0.612517446159836,-4.30155945420847,,13
+Y2022_P13_R02,Y2022_P13,2022,2,2022:2,Regalia + Stargus,Biological only,Non-metal biological,0,Repeated tank mix,1,1,0,0,20,20,1,5,0.1,-2.85437815524826,-5.11998783102362,,19
+Y2022_P13_R03,Y2022_P13,2022,3,2022:3,Regalia + Stargus,Biological only,Non-metal biological,0,Repeated tank mix,1,1,0,0,20,20,3,15,2.45,-1.70767635201751,-3.50367238229063,,17
+Y2022_P13_R04,Y2022_P13,2022,4,2022:4,Regalia + Stargus,Biological only,Non-metal biological,0,Repeated tank mix,1,1,0,0,20,20,1,5,0.1,-2.85437815524826,-5.11998783102362,,19
+Y2022_P14_R01,Y2022_P14,2022,1,2022:1,Romeo + WE1481-1,Biological only,Non-metal biological,0,Repeated tank mix,0,1,0,1,20,20,4,20,0.4,-1.36783229828016,-4.711530201979,,16
+Y2022_P14_R02,Y2022_P14,2022,2,2022:2,Romeo + WE1481-1,Biological only,Non-metal biological,0,Repeated tank mix,0,1,0,1,20,20,1,5,0.1,-2.85437815524826,-5.11998783102362,,19
+Y2022_P14_R03,Y2022_P14,2022,3,2022:3,Romeo + WE1481-1,Biological only,Non-metal biological,0,Repeated tank mix,0,1,0,1,20,20,1,5,0.1,-2.85437815524826,-5.11998783102362,,19
+Y2022_P14_R04,Y2022_P14,2022,4,2022:4,Romeo + WE1481-1,Biological only,Non-metal biological,0,Repeated tank mix,0,1,0,1,20,20,15,75,5.4,1.0854542040906,-2.77997661863967,,5
+Y2022_P15_R01,Y2022_P15,2022,1,2022:1,Flint Extra / Oxidate,Mixed,Not biological-only,0,Alternating rotation,0,1,0,0,20,20,4,20,0.55,-1.36783229828016,-4.55587989677698,,16
+Y2022_P15_R02,Y2022_P15,2022,2,2022:2,Flint Extra / Oxidate,Mixed,Not biological-only,0,Alternating rotation,0,1,0,0,20,20,3,15,0.2,-1.70767635201751,-4.96484063890662,,17
+Y2022_P15_R03,Y2022_P15,2022,3,2022:3,Flint Extra / Oxidate,Mixed,Not biological-only,0,Alternating rotation,0,1,0,0,20,20,6,30,1.15,-0.837886026204857,-4.09787368108534,,14
+Y2022_P15_R04,Y2022_P15,2022,4,2022:4,Flint Extra / Oxidate,Mixed,Not biological-only,0,Alternating rotation,0,1,0,0,20,20,6,30,0.6,-0.837886026204857,-4.50885950585018,,14
+Y2022_P16_R01,Y2022_P16,2022,1,2022:1,Flint Extra + Oxidate,Mixed,Not biological-only,0,Repeated tank mix,0,1,0,0,20,20,3,15,0.3,-1.70767635201751,-4.83031173996497,,17
+Y2022_P16_R02,Y2022_P16,2022,2,2022:2,Flint Extra + Oxidate,Mixed,Not biological-only,0,Repeated tank mix,0,1,0,0,20,20,11,55,1.95,0.198670694795484,-3.69447600904209,,9
+Y2022_P16_R03,Y2022_P16,2022,3,2022:3,Flint Extra + Oxidate,Mixed,Not biological-only,0,Repeated tank mix,0,1,0,0,20,20,9,45,1.75,-0.198670694795484,-3.7816611875649,,11
+Y2022_P16_R04,Y2022_P16,2022,4,2022:4,Flint Extra + Oxidate,Mixed,Not biological-only,0,Repeated tank mix,0,1,0,0,20,20,3,15,0.3,-1.70767635201751,-4.83031173996497,,17
+Y2023_P01_R01,Y2023_P01,2023,1,2023:1,UTC,Untreated,Not biological-only,0,Untreated,0,0,0,0,20,20,20,100,25,5.30330490805908,-1.0854542040906,,0
+Y2023_P01_R02,Y2023_P01,2023,2,2023:2,UTC,Untreated,Not biological-only,0,Untreated,0,0,0,0,20,20,19,95,77,2.85437815524826,1.19327751520919,,1
+Y2023_P01_R03,Y2023_P01,2023,3,2023:3,UTC,Untreated,Not biological-only,0,Untreated,0,0,0,0,20,20,20,100,30.5,5.30330490805908,-0.814508037564213,,0
+Y2023_P01_R04,Y2023_P01,2023,4,2023:4,UTC,Untreated,Not biological-only,0,Untreated,0,0,0,0,20,20,20,100,36.75,5.30330490805908,-0.537317239212967,,0
+Y2023_P02_R01,Y2023_P02,2023,1,2023:1,Aprovia 0.83EC,Conventional only,Not biological-only,0,Repeated single product,0,0,0,0,20,20,16,80,19.7,1.36783229828016,-1.38629436111989,,4
+Y2023_P02_R02,Y2023_P02,2023,2,2023:2,Aprovia 0.83EC,Conventional only,Not biological-only,0,Repeated single product,0,0,0,0,20,20,11,55,2.1,0.198670694795484,-3.63352935903077,,9
+Y2023_P02_R03,Y2023_P02,2023,3,2023:3,Aprovia 0.83EC,Conventional only,Not biological-only,0,Repeated single product,0,0,0,0,20,20,15,75,7.5,1.0854542040906,-2.45315795147342,,5
+Y2023_P02_R04,Y2023_P02,2023,4,2023:4,Aprovia 0.83EC,Conventional only,Not biological-only,0,Repeated single product,0,0,0,0,20,20,18,90,3.25,2.1539745935424,-3.25552914251624,,2
+Y2023_P03_R01,Y2023_P03,2023,1,2023:1,Mettle 125ME / Flint Extra,Conventional only,Not biological-only,0,Alternating rotation,0,0,0,0,20,20,18,90,36.7,2.1539745935424,-0.539444429071643,,2
+Y2023_P03_R02,Y2023_P03,2023,2,2023:2,Mettle 125ME / Flint Extra,Conventional only,Not biological-only,0,Alternating rotation,0,0,0,0,20,20,19,95,10.25,2.85437815524826,-2.12767784263932,,1
+Y2023_P03_R03,Y2023_P03,2023,3,2023:3,Mettle 125ME / Flint Extra,Conventional only,Not biological-only,0,Alternating rotation,0,0,0,0,20,20,19,95,7.25,2.85437815524826,-2.48759121515867,,1
+Y2023_P03_R04,Y2023_P03,2023,4,2023:4,Mettle 125ME / Flint Extra,Conventional only,Not biological-only,0,Alternating rotation,0,0,0,0,20,20,17,85,7,1.70767635201751,-2.52305841575238,,3
+Y2023_P04_R01,Y2023_P04,2023,1,2023:1,Lifegard WG,Biological only,Non-metal biological,0,Repeated single product,1,0,0,0,20,20,14,70,2.7,0.837886026204857,-3.41977376723509,,6
+Y2023_P04_R02,Y2023_P04,2023,2,2023:2,Lifegard WG,Biological only,Non-metal biological,0,Repeated single product,1,0,0,0,20,20,20,100,35.75,5.30330490805908,-0.580094319278963,,0
+Y2023_P04_R03,Y2023_P04,2023,3,2023:3,Lifegard WG,Biological only,Non-metal biological,0,Repeated single product,1,0,0,0,20,20,20,100,47.5,5.30330490805908,-0.0990909026442309,,0
+Y2023_P04_R04,Y2023_P04,2023,4,2023:4,Lifegard WG,Biological only,Non-metal biological,0,Repeated single product,1,0,0,0,20,20,19,95,42,2.85437815524826,-0.31952267830744,,1
+Y2023_P05_R01,Y2023_P05,2023,1,2023:1,Lifegard WG / Regalia + Stargus / Howler EVO,Biological only,Non-metal biological,0,Complex sequence,1,1,0,0,20,20,20,100,8.45,5.30330490805908,-2.33067837539232,,0
+Y2023_P05_R02,Y2023_P05,2023,2,2023:2,Lifegard WG / Regalia + Stargus / Howler EVO,Biological only,Non-metal biological,0,Complex sequence,1,1,0,0,20,20,20,100,48,5.30330490805908,-0.0792493716541405,,0
+Y2023_P05_R03,Y2023_P05,2023,3,2023:3,Lifegard WG / Regalia + Stargus / Howler EVO,Biological only,Non-metal biological,0,Complex sequence,1,1,0,0,20,20,19,95,13.5,2.85437815524826,-1.82685078903933,,1
+Y2023_P05_R04,Y2023_P05,2023,4,2023:4,Lifegard WG / Regalia + Stargus / Howler EVO,Biological only,Non-metal biological,0,Complex sequence,1,1,0,0,20,20,15,75,4.55,1.0854542040906,-2.94443897916644,,5
+Y2023_P06_R01,Y2023_P06,2023,1,2023:1,Flint Extra / Oxidate,Mixed,Not biological-only,0,Alternating rotation,0,1,0,0,20,20,10,50,5.75,0,-2.71866038021423,,10
+Y2023_P06_R02,Y2023_P06,2023,2,2023:2,Flint Extra / Oxidate,Mixed,Not biological-only,0,Alternating rotation,0,1,0,0,20,20,20,100,90,5.30330490805908,2.1539745935424,,0
+Y2023_P06_R03,Y2023_P06,2023,3,2023:3,Flint Extra / Oxidate,Mixed,Not biological-only,0,Alternating rotation,0,1,0,0,20,20,17,85,10,1.70767635201751,-2.1539745935424,,3
+Y2023_P06_R04,Y2023_P06,2023,4,2023:4,Flint Extra / Oxidate,Mixed,Not biological-only,0,Alternating rotation,0,1,0,0,20,20,18,90,6.25,2.1539745935424,-2.63640832144368,,2
+Y2023_P07_R01,Y2023_P07,2023,1,2023:1,Flint Extra + Oxidate,Mixed,Not biological-only,0,Repeated tank mix,0,1,0,0,20,20,20,100,37.75,5.30330490805908,-0.495015017739348,,0
+Y2023_P07_R02,Y2023_P07,2023,2,2023:2,Flint Extra + Oxidate,Mixed,Not biological-only,0,Repeated tank mix,0,1,0,0,20,20,19,95,8.8,2.85437815524826,-2.28850797910321,,1
+Y2023_P07_R03,Y2023_P07,2023,3,2023:3,Flint Extra + Oxidate,Mixed,Not biological-only,0,Repeated tank mix,0,1,0,0,20,20,20,100,94,5.30330490805908,2.67679765759811,,0
+Y2023_P07_R04,Y2023_P07,2023,4,2023:4,Flint Extra + Oxidate,Mixed,Not biological-only,0,Repeated tank mix,0,1,0,0,20,20,19,95,5.95,2.85437815524826,-2.68504866429679,,1
+Y2023_P08_R01,Y2023_P08,2023,1,2023:1,Howler EVO,Biological only,Non-metal biological,0,Repeated single product,1,0,0,0,20,20,3,15,0.45,-1.70767635201751,-4.65696335541729,,17
+Y2023_P08_R02,Y2023_P08,2023,2,2023:2,Howler EVO,Biological only,Non-metal biological,0,Repeated single product,1,0,0,0,20,20,18,90,18.75,2.1539745935424,-1.44615474904357,,2
+Y2023_P08_R03,Y2023_P08,2023,3,2023:3,Howler EVO,Biological only,Non-metal biological,0,Repeated single product,1,0,0,0,20,20,17,85,9.25,1.70767635201751,-2.23633570745285,,3
+Y2023_P08_R04,Y2023_P08,2023,4,2023:4,Howler EVO,Biological only,Non-metal biological,0,Repeated single product,1,0,0,0,20,20,20,100,74.5,5.30330490805908,1.05939157551483,,0
+Y2023_P09_R01,Y2023_P09,2023,1,2023:1,Howler EVO,Biological only,Non-metal biological,0,Repeated single product,1,0,0,0,20,20,17,85,4.85,1.70767635201751,-2.88359913497835,,3
+Y2023_P09_R02,Y2023_P09,2023,2,2023:2,Howler EVO,Biological only,Non-metal biological,0,Repeated single product,1,0,0,0,20,20,18,90,8.25,2.1539745935424,-2.35544858255111,,2
+Y2023_P09_R03,Y2023_P09,2023,3,2023:3,Howler EVO,Biological only,Non-metal biological,0,Repeated single product,1,0,0,0,20,20,17,85,5.25,1.70767635201751,-2.80730515919755,,3
+Y2023_P09_R04,Y2023_P09,2023,4,2023:4,Howler EVO,Biological only,Non-metal biological,0,Repeated single product,1,0,0,0,20,20,17,85,7,1.70767635201751,-2.52305841575238,,3
+Y2023_P10_R01,Y2023_P10,2023,1,2023:1,Howler EVO + Aprovia 0.83EC,Mixed,Not biological-only,0,Repeated tank mix,1,0,0,0,20,20,18,90,24.25,2.1539745935424,-1.12519192647282,,2
+Y2023_P10_R02,Y2023_P10,2023,2,2023:2,Howler EVO + Aprovia 0.83EC,Mixed,Not biological-only,0,Repeated tank mix,1,0,0,0,20,20,20,100,28.75,5.30330490805908,-0.897308280961865,,0
+Y2023_P10_R03,Y2023_P10,2023,3,2023:3,Howler EVO + Aprovia 0.83EC,Mixed,Not biological-only,0,Repeated tank mix,1,0,0,0,20,20,19,95,14.5,2.85437815524826,-1.7462970951513,,1
+Y2023_P10_R04,Y2023_P10,2023,4,2023:4,Howler EVO + Aprovia 0.83EC,Mixed,Not biological-only,0,Repeated tank mix,1,0,0,0,20,20,19,95,80.5,2.85437815524826,1.39871688111845,,1
+Y2023_P11_R01,Y2023_P11,2023,1,2023:1,Curezin,Biological only,Metal-containing biological,1,Repeated single product,0,0,1,0,20,20,16,80,7.5,1.36783229828016,-2.45315795147342,,4
+Y2023_P11_R02,Y2023_P11,2023,2,2023:2,Curezin,Biological only,Metal-containing biological,1,Repeated single product,0,0,1,0,20,20,20,100,45.5,5.30330490805908,-0.178691788743376,,0
+Y2023_P11_R03,Y2023_P11,2023,3,2023:3,Curezin,Biological only,Metal-containing biological,1,Repeated single product,0,0,1,0,20,20,20,100,78,5.30330490805908,1.24958331557799,,0
+Y2023_P11_R04,Y2023_P11,2023,4,2023:4,Curezin,Biological only,Metal-containing biological,1,Repeated single product,0,0,1,0,20,20,20,100,21.85,5.30330490805908,-1.25818130844471,,0
+Y2023_P12_R01,Y2023_P12,2023,1,2023:1,Curezin / Lifegard WG,Biological only,Metal-containing biological,0,Alternating rotation,1,0,1,0,20,20,14,70,12.7,0.837886026204857,-1.89484467104875,,6
+Y2023_P12_R02,Y2023_P12,2023,2,2023:2,Curezin / Lifegard WG,Biological only,Metal-containing biological,0,Alternating rotation,1,0,1,0,20,20,20,100,15.25,5.30330490805908,-1.68874775089198,,0
+Y2023_P12_R03,Y2023_P12,2023,3,2023:3,Curezin / Lifegard WG,Biological only,Metal-containing biological,0,Alternating rotation,1,0,1,0,20,20,20,100,22.5,5.30330490805908,-1.22121461076044,,0
+Y2023_P12_R04,Y2023_P12,2023,4,2023:4,Curezin / Lifegard WG,Biological only,Metal-containing biological,0,Alternating rotation,1,0,1,0,20,20,16,80,11.05,1.36783229828016,-2.04699437298693,,4
+Y2023_P13_R01,Y2023_P13,2023,1,2023:1,Lifegard WG / Oso 5SC,Biological only,Non-metal biological,0,Alternating rotation,1,1,0,0,20,20,19,95,28.25,2.85437815524826,-0.921494559749182,,1
+Y2023_P13_R02,Y2023_P13,2023,2,2023:2,Lifegard WG / Oso 5SC,Biological only,Non-metal biological,0,Alternating rotation,1,1,0,0,20,20,19,95,10.4,2.85437815524826,-2.11215737537919,,1
+Y2023_P13_R03,Y2023_P13,2023,3,2023:3,Lifegard WG / Oso 5SC,Biological only,Non-metal biological,0,Alternating rotation,1,1,0,0,20,20,17,85,34,1.70767635201751,-0.656242623624494,,3
+Y2023_P13_R04,Y2023_P13,2023,4,2023:4,Lifegard WG / Oso 5SC,Biological only,Non-metal biological,0,Alternating rotation,1,1,0,0,20,20,19,95,26.5,2.85437815524826,-1.00822822719984,,1
+Y2023_P14_R01,Y2023_P14,2023,1,2023:1,Oso 5SC,Biological only,Non-metal biological,0,Repeated single product,0,1,0,0,20,20,19,95,9.5,2.85437815524826,-2.2082744135228,,1
+Y2023_P14_R02,Y2023_P14,2023,2,2023:2,Oso 5SC,Biological only,Non-metal biological,0,Repeated single product,0,1,0,0,20,20,20,100,26.05,5.30330490805908,-1.03109801144207,,0
+Y2023_P14_R03,Y2023_P14,2023,3,2023:3,Oso 5SC,Biological only,Non-metal biological,0,Repeated single product,0,1,0,0,20,20,19,95,38,2.85437815524826,-0.484508315448617,,1
+Y2023_P14_R04,Y2023_P14,2023,4,2023:4,Oso 5SC,Biological only,Non-metal biological,0,Repeated single product,0,1,0,0,20,20,20,100,13.5,5.30330490805908,-1.82685078903933,,0
+Y2023_P15_R01,Y2023_P15,2023,1,2023:1,Penncozeb 75DF / Luna Experience + Ranman 400SC + Phostrol / Miravis Prime + Zampro / Gatten + Lifegard WG,Mixed,Not biological-only,0,Complex sequence,1,0,0,0,20,20,20,100,46.85,5.30330490805908,-0.12491464944462,,0
+Y2023_P15_R02,Y2023_P15,2023,2,2023:2,Penncozeb 75DF / Luna Experience + Ranman 400SC + Phostrol / Miravis Prime + Zampro / Gatten + Lifegard WG,Mixed,Not biological-only,0,Complex sequence,1,0,0,0,20,20,20,100,26.5,5.30330490805908,-1.00822822719984,,0
+Y2023_P15_R03,Y2023_P15,2023,3,2023:3,Penncozeb 75DF / Luna Experience + Ranman 400SC + Phostrol / Miravis Prime + Zampro / Gatten + Lifegard WG,Mixed,Not biological-only,0,Complex sequence,1,0,0,0,20,20,20,100,42.5,5.30330490805908,-0.299242894852857,,0
+Y2023_P15_R04,Y2023_P15,2023,4,2023:4,Penncozeb 75DF / Luna Experience + Ranman 400SC + Phostrol / Miravis Prime + Zampro / Gatten + Lifegard WG,Mixed,Not biological-only,0,Complex sequence,1,0,0,0,20,20,20,100,72.5,5.30330490805908,0.958254930973187,,0
+Y2024_P01_R01,Y2024_P01,2024,1,2024:1,UTC,Untreated,Not biological-only,0,Untreated,0,0,0,0,20,20,20,100,67,5.30330490805908,0.700582159047463,,0
+Y2024_P01_R02,Y2024_P01,2024,2,2024:2,UTC,Untreated,Not biological-only,0,Untreated,0,0,0,0,20,20,20,100,83.5,5.30330490805908,1.5976034547871,,0
+Y2024_P01_R03,Y2024_P01,2024,3,2024:3,UTC,Untreated,Not biological-only,0,Untreated,0,0,0,0,20,20,20,100,93,5.30330490805908,2.52305841575238,,0
+Y2024_P01_R04,Y2024_P01,2024,4,2024:4,UTC,Untreated,Not biological-only,0,Untreated,0,0,0,0,20,20,20,100,84,5.30330490805908,1.63339115345659,,0
+Y2024_P02_R01,Y2024_P02,2024,1,2024:1,Aprovia 0.83EC / OxiDate 5.0,Mixed,Not biological-only,0,Alternating rotation,0,1,0,0,20,20,15,75,3.85,1.0854542040906,-3.10092036055375,,5
+Y2024_P02_R02,Y2024_P02,2024,2,2024:2,Aprovia 0.83EC / OxiDate 5.0,Mixed,Not biological-only,0,Alternating rotation,0,1,0,0,20,20,20,100,55,5.30330490805908,0.198670694795484,,0
+Y2024_P02_R03,Y2024_P02,2024,3,2024:3,Aprovia 0.83EC / OxiDate 5.0,Mixed,Not biological-only,0,Alternating rotation,0,1,0,0,20,20,19,95,38.25,2.85437815524826,-0.474027779545461,,1
+Y2024_P02_R04,Y2024_P02,2024,4,2024:4,Aprovia 0.83EC / OxiDate 5.0,Mixed,Not biological-only,0,Alternating rotation,0,1,0,0,20,20,20,100,41,5.30330490805908,-0.360282885314932,,0
+Y2024_P03_R01,Y2024_P03,2024,1,2024:1,Penncozeb 75DF + Flint Extra / Luna Experience + Ranman + Phostrol / Regalia + Stargus + Zampro / Miravis Prime + Aprovia,Mixed,Not biological-only,0,Complex sequence,1,1,0,0,20,20,18,90,20.5,2.1539745935424,-1.33750419695046,,2
+Y2024_P03_R02,Y2024_P03,2024,2,2024:2,Penncozeb 75DF + Flint Extra / Luna Experience + Ranman + Phostrol / Regalia + Stargus + Zampro / Miravis Prime + Aprovia,Mixed,Not biological-only,0,Complex sequence,1,1,0,0,20,20,19,95,17.25,2.85437815524826,-1.54546261293913,,1
+Y2024_P03_R03,Y2024_P03,2024,3,2024:3,Penncozeb 75DF + Flint Extra / Luna Experience + Ranman + Phostrol / Regalia + Stargus + Zampro / Miravis Prime + Aprovia,Mixed,Not biological-only,0,Complex sequence,1,1,0,0,20,20,19,95,54.5,2.85437815524826,0.178691788743376,,1
+Y2024_P03_R04,Y2024_P03,2024,4,2024:4,Penncozeb 75DF + Flint Extra / Luna Experience + Ranman + Phostrol / Regalia + Stargus + Zampro / Miravis Prime + Aprovia,Mixed,Not biological-only,0,Complex sequence,1,1,0,0,20,20,20,100,10.75,5.30330490805908,-2.07665989871796,,0
+Y2024_P04_R01,Y2024_P04,2024,1,2024:1,Curezin1x,Biological only,Metal-containing biological,1,Repeated single product,0,0,1,0,20,20,14,70,20.75,0.837886026204857,-1.32253984629453,,6
+Y2024_P04_R02,Y2024_P04,2024,2,2024:2,Curezin1x,Biological only,Metal-containing biological,1,Repeated single product,0,0,1,0,20,20,20,100,58,5.30330490805908,0.31952267830744,,0
+Y2024_P04_R03,Y2024_P04,2024,3,2024:3,Curezin1x,Biological only,Metal-containing biological,1,Repeated single product,0,0,1,0,20,20,18,90,6.6,2.1539745935424,-2.58213560216695,,2
+Y2024_P04_R04,Y2024_P04,2024,4,2024:4,Curezin1x,Biological only,Metal-containing biological,1,Repeated single product,0,0,1,0,20,20,19,95,12.5,2.85437815524826,-1.91238745701667,,1
+Y2024_P05_R01,Y2024_P05,2024,1,2024:1,Curezin2x,Biological only,Metal-containing biological,1,Repeated single product,0,0,1,0,20,20,15,75,5.75,1.0854542040906,-2.71866038021423,,5
+Y2024_P05_R02,Y2024_P05,2024,2,2024:2,Curezin2x,Biological only,Metal-containing biological,1,Repeated single product,0,0,1,0,20,20,19,95,20.5,2.85437815524826,-1.33750419695046,,1
+Y2024_P05_R03,Y2024_P05,2024,3,2024:3,Curezin2x,Biological only,Metal-containing biological,1,Repeated single product,0,0,1,0,20,20,20,100,81,5.30330490805908,1.43018855467712,,0
+Y2024_P05_R04,Y2024_P05,2024,4,2024:4,Curezin2x,Biological only,Metal-containing biological,1,Repeated single product,0,0,1,0,20,20,19,95,26,2.85437815524826,-1.03365439239334,,1
+Y2024_P06_R01,Y2024_P06,2024,1,2024:1,Aprovia 0.83EC / Curezin2x,Mixed,Not biological-only,0,Alternating rotation,0,0,1,0,20,20,11,55,8.5,0.198670694795484,-2.32456399971282,,9
+Y2024_P06_R02,Y2024_P06,2024,2,2024:2,Aprovia 0.83EC / Curezin2x,Mixed,Not biological-only,0,Alternating rotation,0,0,1,0,20,20,20,100,45,5.30330490805908,-0.198670694795484,,0
+Y2024_P06_R03,Y2024_P06,2024,3,2024:3,Aprovia 0.83EC / Curezin2x,Mixed,Not biological-only,0,Alternating rotation,0,0,1,0,20,20,19,95,63.5,2.85437815524826,0.547965170715447,,1
+Y2024_P06_R04,Y2024_P06,2024,4,2024:4,Aprovia 0.83EC / Curezin2x,Mixed,Not biological-only,0,Alternating rotation,0,0,1,0,20,20,8,40,2.25,-0.401341390924302,-3.57591433907089,,12
+Y2024_P07_R01,Y2024_P07,2024,1,2024:1,Aprovia 0.83EC / Perpose,Mixed,Not biological-only,0,Alternating rotation,0,1,0,0,20,20,10,50,2.6,0,-3.45254443804536,,10
+Y2024_P07_R02,Y2024_P07,2024,2,2024:2,Aprovia 0.83EC / Perpose,Mixed,Not biological-only,0,Alternating rotation,0,1,0,0,20,20,20,100,37.25,5.30330490805908,-0.516109651912596,,0
+Y2024_P07_R03,Y2024_P07,2024,3,2024:3,Aprovia 0.83EC / Perpose,Mixed,Not biological-only,0,Alternating rotation,0,1,0,0,20,20,20,100,72.5,5.30330490805908,0.958254930973187,,0
+Y2024_P07_R04,Y2024_P07,2024,4,2024:4,Aprovia 0.83EC / Perpose,Mixed,Not biological-only,0,Alternating rotation,0,1,0,0,20,20,19,95,52.5,2.85437815524826,0.099090902644231,,1
+Y2024_P08_R01,Y2024_P08,2024,1,2024:1,PERpose Plus,Biological only,Non-metal biological,0,Repeated single product,0,1,0,0,20,20,15,75,5.75,1.0854542040906,-2.71866038021423,,5
+Y2024_P08_R02,Y2024_P08,2024,2,2024:2,PERpose Plus,Biological only,Non-metal biological,0,Repeated single product,0,1,0,0,20,20,19,95,48.75,2.85437815524826,-0.0495150645273806,,1
+Y2024_P08_R03,Y2024_P08,2024,3,2024:3,PERpose Plus,Biological only,Non-metal biological,0,Repeated single product,0,1,0,0,20,20,19,95,16,2.85437815524826,-1.63339115345659,,1
+Y2024_P08_R04,Y2024_P08,2024,4,2024:4,PERpose Plus,Biological only,Non-metal biological,0,Repeated single product,0,1,0,0,20,20,20,100,17.5,5.30330490805908,-1.52846884990043,,0
+Y2024_P09_R01,Y2024_P09,2024,1,2024:1,Aprovia 0.83EC,Conventional only,Not biological-only,0,Repeated single product,0,0,0,0,20,20,19,95,32.6,2.85437815524826,-0.718502752181633,,1
+Y2024_P09_R02,Y2024_P09,2024,2,2024:2,Aprovia 0.83EC,Conventional only,Not biological-only,0,Repeated single product,0,0,0,0,20,20,19,95,29.75,2.85437815524826,-0.849656352046497,,1
+Y2024_P09_R03,Y2024_P09,2024,3,2024:3,Aprovia 0.83EC,Conventional only,Not biological-only,0,Repeated single product,0,0,0,0,20,20,20,100,65,5.30330490805908,0.612517446159836,,0
+Y2024_P09_R04,Y2024_P09,2024,4,2024:4,Aprovia 0.83EC,Conventional only,Not biological-only,0,Repeated single product,0,0,0,0,20,20,20,100,38.5,5.30330490805908,-0.463572738915445,,0
+Y2024_P10_R01,Y2024_P10,2024,1,2024:1,LifeGard WG,Biological only,Non-metal biological,0,Repeated single product,1,0,0,0,20,20,20,100,22.75,5.30330490805908,-1.20719341902598,,0
+Y2024_P10_R02,Y2024_P10,2024,2,2024:2,LifeGard WG,Biological only,Non-metal biological,0,Repeated single product,1,0,0,0,20,20,19,95,22.25,2.85437815524826,-1.2353436840233,,1
+Y2024_P10_R03,Y2024_P10,2024,3,2024:3,LifeGard WG,Biological only,Non-metal biological,0,Repeated single product,1,0,0,0,20,20,20,100,55.5,5.30330490805908,0.21868920096483,,0
+Y2024_P10_R04,Y2024_P10,2024,4,2024:4,LifeGard WG,Biological only,Non-metal biological,0,Repeated single product,1,0,0,0,20,20,20,100,57.5,5.30330490805908,0.299242894852857,,0
+Y2025_P01_R01,Y2025_P01,2025,1,2025:1,UTC,Untreated,Not biological-only,0,Untreated,0,0,0,0,20,20,20,100,47.25,5.30330490805908,-0.109018737662795,,0
+Y2025_P01_R02,Y2025_P01,2025,2,2025:2,UTC,Untreated,Not biological-only,0,Untreated,0,0,0,0,20,20,20,100,50,5.30330490805908,0,,0
+Y2025_P01_R03,Y2025_P01,2025,3,2025:3,UTC,Untreated,Not biological-only,0,Untreated,0,0,0,0,20,20,20,100,71.5,5.30330490805908,0.909370289029581,,0
+Y2025_P01_R04,Y2025_P01,2025,4,2025:4,UTC,Untreated,Not biological-only,0,Untreated,0,0,0,0,20,20,20,100,63.95,5.30330490805908,0.567208543189409,,0
+Y2025_P02_R01,Y2025_P02,2025,1,2025:1,Aprovia 0.83EC,Conventional only,Not biological-only,0,Repeated single product,0,0,0,0,20,20,17,85,12,1.70767635201751,-1.95727390770563,,3
+Y2025_P02_R02,Y2025_P02,2025,2,2025:2,Aprovia 0.83EC,Conventional only,Not biological-only,0,Repeated single product,0,0,0,0,20,20,14,70,11,0.837886026204857,-2.05189158991161,,6
+Y2025_P02_R03,Y2025_P02,2025,3,2025:3,Aprovia 0.83EC,Conventional only,Not biological-only,0,Repeated single product,0,0,0,0,20,20,20,100,57.5,5.30330490805908,0.299242894852857,,0
+Y2025_P02_R04,Y2025_P02,2025,4,2025:4,Aprovia 0.83EC,Conventional only,Not biological-only,0,Repeated single product,0,0,0,0,20,19,6,31.578947368421,2.89473684210526,-0.76476171502644,-3.35870517312792,missing_organ_rating_observed_n,13
+Y2025_P03_R01,Y2025_P03,2025,1,2025:1,OxiDate 5.0,Biological only,Non-metal biological,0,Repeated single product,0,1,0,0,20,20,10,50,3.5,0,-3.18841661738349,,10
+Y2025_P03_R02,Y2025_P03,2025,2,2025:2,OxiDate 5.0,Biological only,Non-metal biological,0,Repeated single product,0,1,0,0,20,20,14,70,14,0.837886026204857,-1.7859957645113,,6
+Y2025_P03_R03,Y2025_P03,2025,3,2025:3,OxiDate 5.0,Biological only,Non-metal biological,0,Repeated single product,0,1,0,0,20,20,20,100,61,5.30330490805908,0.442736502905396,,0
+Y2025_P03_R04,Y2025_P03,2025,4,2025:4,OxiDate 5.0,Biological only,Non-metal biological,0,Repeated single product,0,1,0,0,20,20,20,100,22,5.30330490805908,-1.24958331557799,,0
+Y2025_P04_R01,Y2025_P04,2025,1,2025:1,"OxiDate 5.0 / Howler EVO, Regalia + Stargus",Biological only,Non-metal biological,0,Complex sequence,1,1,0,0,20,20,5,25,2,-1.0854542040906,-3.67376581630389,,15
+Y2025_P04_R02,Y2025_P04,2025,2,2025:2,"OxiDate 5.0 / Howler EVO, Regalia + Stargus",Biological only,Non-metal biological,0,Complex sequence,1,1,0,0,20,20,19,95,18.75,2.85437815524826,-1.44615474904357,,1
+Y2025_P04_R03,Y2025_P04,2025,3,2025:3,"OxiDate 5.0 / Howler EVO, Regalia + Stargus",Biological only,Non-metal biological,0,Complex sequence,1,1,0,0,20,20,13,65,5.5,0.612517446159836,-2.76211742237249,,7
+Y2025_P04_R04,Y2025_P04,2025,4,2025:4,"OxiDate 5.0 / Howler EVO, Regalia + Stargus",Biological only,Non-metal biological,0,Complex sequence,1,1,0,0,20,20,12,60,5.5,0.401341390924302,-2.76211742237249,,8
+Y2025_P05_R01,Y2025_P05,2025,1,2025:1,Koverall + Flint Extra / Luna Experience + Ranman / Regalia + Stargus + Zampro / Warhammer + Aprovia,Mixed,Not biological-only,0,Complex sequence,1,1,0,0,20,20,7,35,1.4,-0.612517446159836,-3.95427555516355,,13
+Y2025_P05_R02,Y2025_P05,2025,2,2025:2,Koverall + Flint Extra / Luna Experience + Ranman / Regalia + Stargus + Zampro / Warhammer + Aprovia,Mixed,Not biological-only,0,Complex sequence,1,1,0,0,20,20,20,100,32.25,5.30330490805908,-0.734274471983808,,0
+Y2025_P05_R03,Y2025_P05,2025,3,2025:3,Koverall + Flint Extra / Luna Experience + Ranman / Regalia + Stargus + Zampro / Warhammer + Aprovia,Mixed,Not biological-only,0,Complex sequence,1,1,0,0,20,20,19,95,18.25,2.85437815524826,-1.47856963722906,,1
+Y2025_P05_R04,Y2025_P05,2025,4,2025:4,Koverall + Flint Extra / Luna Experience + Ranman / Regalia + Stargus + Zampro / Warhammer + Aprovia,Mixed,Not biological-only,0,Complex sequence,1,1,0,0,20,20,18,90,30.75,2.1539745935424,-0.802898044519064,,2
+Y2025_P06_R01,Y2025_P06,2025,1,2025:1,MagnaBon,Biological only,Metal-containing biological,1,Repeated single product,0,0,1,0,20,20,15,75,9.75,1.0854542040906,-2.18083076756054,,5
+Y2025_P06_R02,Y2025_P06,2025,2,2025:2,MagnaBon,Biological only,Metal-containing biological,1,Repeated single product,0,0,1,0,20,20,19,95,25.25,2.85437815524826,-1.07238127651924,,1
+Y2025_P06_R03,Y2025_P06,2025,3,2025:3,MagnaBon,Biological only,Metal-containing biological,1,Repeated single product,0,0,1,0,20,20,18,90,26.5,2.1539745935424,-1.00822822719984,,2
+Y2025_P06_R04,Y2025_P06,2025,4,2025:4,MagnaBon,Biological only,Metal-containing biological,1,Repeated single product,0,0,1,0,20,20,20,100,52.5,5.30330490805908,0.099090902644231,,0
+Y2025_P07_R01,Y2025_P07,2025,1,2025:1,Warhammer,Biological only,Non-metal biological,0,Repeated single product,0,1,0,0,20,20,12,60,7,0.401341390924302,-2.52305841575238,,8
+Y2025_P07_R02,Y2025_P07,2025,2,2025:2,Warhammer,Biological only,Non-metal biological,0,Repeated single product,0,1,0,0,20,20,19,95,21.75,2.85437815524826,-1.26393626909349,,1
+Y2025_P07_R03,Y2025_P07,2025,3,2025:3,Warhammer,Biological only,Non-metal biological,0,Repeated single product,0,1,0,0,20,20,20,100,20.75,5.30330490805908,-1.32253984629453,,0
+Y2025_P07_R04,Y2025_P07,2025,4,2025:4,Warhammer,Biological only,Non-metal biological,0,Repeated single product,0,1,0,0,20,20,20,100,34,5.30330490805908,-0.656242623624494,,0
+Y2025_P08_R01,Y2025_P08,2025,1,2025:1,GotaBlanca 500,Biological only,Metal-containing biological,1,Repeated single product,0,0,1,0,20,20,18,90,8.5,2.1539745935424,-2.32456399971282,,2
+Y2025_P08_R02,Y2025_P08,2025,2,2025:2,GotaBlanca 500,Biological only,Metal-containing biological,1,Repeated single product,0,0,1,0,20,20,19,95,16.5,2.85437815524826,-1.5976034547871,,1
+Y2025_P08_R03,Y2025_P08,2025,3,2025:3,GotaBlanca 500,Biological only,Metal-containing biological,1,Repeated single product,0,0,1,0,20,20,20,100,38.25,5.30330490805908,-0.474027779545461,,0
+Y2025_P08_R04,Y2025_P08,2025,4,2025:4,GotaBlanca 500,Biological only,Metal-containing biological,1,Repeated single product,0,0,1,0,20,20,20,100,36,5.30330490805908,-0.569352963213281,,0
+Y2025_P09_R01,Y2025_P09,2025,1,2025:1,GotaBlanca 500 / Aprovia 0.83EC / Flint Extra,Mixed,Not biological-only,0,Complex sequence,0,0,1,0,20,20,7,35,3.95,-0.612517446159836,-3.07715691269637,,13
+Y2025_P09_R02,Y2025_P09,2025,2,2025:2,GotaBlanca 500 / Aprovia 0.83EC / Flint Extra,Mixed,Not biological-only,0,Complex sequence,0,0,1,0,20,20,19,95,48.5,2.85437815524826,-0.0594234204708008,,1
+Y2025_P09_R03,Y2025_P09,2025,3,2025:3,GotaBlanca 500 / Aprovia 0.83EC / Flint Extra,Mixed,Not biological-only,0,Complex sequence,0,0,1,0,20,20,16,80,10.5,1.36783229828016,-2.10191439753189,,4
+Y2025_P09_R04,Y2025_P09,2025,4,2025:4,GotaBlanca 500 / Aprovia 0.83EC / Flint Extra,Mixed,Not biological-only,0,Complex sequence,0,0,1,0,20,20,18,90,11,2.1539745935424,-2.05189158991161,,2
+Y2025_P10_R01,Y2025_P10,2025,1,2025:1,GotaBlanca 500 / Regalia + Stargus / Howler EVO,Biological only,Metal-containing biological,0,Complex sequence,1,1,1,0,20,20,5,25,1.05,-1.0854542040906,-4.16140007436883,,15
+Y2025_P10_R02,Y2025_P10,2025,2,2025:2,GotaBlanca 500 / Regalia + Stargus / Howler EVO,Biological only,Metal-containing biological,0,Complex sequence,1,1,1,0,20,20,15,75,13.75,1.0854542040906,-1.80627351211231,,5
+Y2025_P10_R03,Y2025_P10,2025,3,2025:3,GotaBlanca 500 / Regalia + Stargus / Howler EVO,Biological only,Metal-containing biological,0,Complex sequence,1,1,1,0,20,20,19,95,17,2.85437815524826,-1.56264575092734,,1
+Y2025_P10_R04,Y2025_P10,2025,4,2025:4,GotaBlanca 500 / Regalia + Stargus / Howler EVO,Biological only,Metal-containing biological,0,Complex sequence,1,1,1,0,20,20,19,95,31.75,2.85437815524826,-0.756958693304899,,1
+Y2025_P11_R01,Y2025_P11,2025,1,2025:1,Romeo WP,Biological only,Non-metal biological,0,Repeated single product,0,1,0,0,20,20,13,65,8.35,0.612517446159836,-2.34300022509599,,7
+Y2025_P11_R02,Y2025_P11,2025,2,2025:2,Romeo WP,Biological only,Non-metal biological,0,Repeated single product,0,1,0,0,20,20,14,70,9.5,0.837886026204857,-2.2082744135228,,6
+Y2025_P11_R03,Y2025_P11,2025,3,2025:3,Romeo WP,Biological only,Non-metal biological,0,Repeated single product,0,1,0,0,20,20,18,90,21,2.1539745935424,-1.30770408652667,,2
+Y2025_P11_R04,Y2025_P11,2025,4,2025:4,Romeo WP,Biological only,Non-metal biological,0,Repeated single product,0,1,0,0,20,20,15,75,11.75,1.0854542040906,-1.98029749136479,,5
+Y2025_P12_R01,Y2025_P12,2025,1,2025:1,PERpose Plus,Biological only,Non-metal biological,0,Repeated single product,0,1,0,0,20,19,7,36.8421052631579,2.73684210526316,-0.533401833449985,-3.40794960177944,missing_organ_rating_observed_n,12
+Y2025_P12_R02,Y2025_P12,2025,2,2025:2,PERpose Plus,Biological only,Non-metal biological,0,Repeated single product,0,1,0,0,20,20,19,95,17.75,2.85437815524826,-1.51165893422867,,1
+Y2025_P12_R03,Y2025_P12,2025,3,2025:3,PERpose Plus,Biological only,Non-metal biological,0,Repeated single product,0,1,0,0,20,20,16,80,13,1.36783229828016,-1.86894910791919,,4
+Y2025_P12_R04,Y2025_P12,2025,4,2025:4,PERpose Plus,Biological only,Non-metal biological,0,Repeated single product,0,1,0,0,20,20,19,95,18.5,2.85437815524826,-1.46228026809781,,1

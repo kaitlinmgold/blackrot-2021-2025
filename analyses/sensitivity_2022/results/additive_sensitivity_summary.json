@@ -1,0 +1,50 @@
+{
+  "status": "Additive sensitivity completed; no interaction tests or new omnibus bootstrap inference performed",
+  "excluded_program_ids": ["Y2022_P02", "Y2022_P03"],
+  "excluded_plots": 8,
+  "retained_plots": 256,
+  "retained_programs": 64,
+  "incidence": {
+    "optimizer": "nlminb",
+    "convergence": 0,
+    "pd_hessian": true,
+    "logLik": -510.83765932879828,
+    "fixed_effects": {
+      "(Intercept)": 6.665751196000996,
+      "Year2022": -3.679321268655051,
+      "Year2023": -0.8675714858475557,
+      "Year2024": -0.6760777201593514,
+      "Year2025": -1.515754252367947,
+      "Program_ClassBiological only": -3.680637195129794,
+      "Program_ClassMixed": -3.837167994725206,
+      "Program_ClassConventional only": -3.777337434170453
+    }
+  },
+  "severity": {
+    "optimizer": "nlminb",
+    "convergence": 0,
+    "pd_hessian": true,
+    "logLik": -424.16564984969102,
+    "fixed_effects": {
+      "(Intercept)": 2.586208366456245,
+      "Year2022": -4.092820723301168,
+      "Year2023": -1.790308716767669,
+      "Year2024": -1.129452250441752,
+      "Year2025": -1.97200857754816,
+      "Program_ClassBiological only": -2.392333365740983,
+      "Program_ClassMixed": -2.433640902220741,
+      "Program_ClassConventional only": -2.405958001335556
+    }
+  },
+  "max_absolute_incidence_EMM_change_percentage_points": 2.159502468653063,
+  "max_absolute_severity_EMM_change_percentage_points": 2.032859945037631,
+  "incidence_pairwise_significance_changes": 0,
+  "severity_pairwise_significance_changes": 0,
+  "warnings": ["Severity KR confidence intervals and pairwise P values are approximate for modeled heterogeneous dispersion.", "Stable additive estimates would not establish stability of the interaction test or equivalence among classes.", "Exclusion leaves only one conventional program in 2022, as well as in 2024 and 2025."],
+  "elapsed_seconds": 0.9990000000000001,
+  "versions": {
+    "R": "R version 4.5.3 (2026-03-11)",
+    "glmmTMB": "1.1.14",
+    "emmeans": "2.0.4"
+  }
+}
