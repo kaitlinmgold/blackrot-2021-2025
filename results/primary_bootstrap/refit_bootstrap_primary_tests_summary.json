@@ -1,0 +1,111 @@
+{
+  "software": {
+    "R": "R version 4.5.3 (2026-03-11)",
+    "glmmTMB": "1.1.14",
+    "emmeans": "2.0.4"
+  },
+  "simulations_per_test": 9999,
+  "cores": 8,
+  "incidence_interaction": {
+    "test": "Efficient score test of the year-by-program-class interaction",
+    "calibration": "Conventional parametric bootstrap; the additive beta-binomial null was refitted and the nuisance projection and information matrix were recomputed in every simulation",
+    "observed_statistic": 17.288678838553462,
+    "requested_simulations": 9999,
+    "valid_simulations": 9952,
+    "failed_simulations": 47,
+    "exceedances": 3763,
+    "bootstrap_p": 0.3781774339395158,
+    "monte_carlo_se": 0.004860758481246011,
+    "seed": 20260831,
+    "quantiles": {
+      "50%": 14.105334967981445,
+      "90%": 33.973660502858067,
+      "95%": 43.718082869038838,
+      "99%": 78.076307269278004
+    },
+    "asymptotic_df": 12,
+    "asymptotic_p": 0.1390570502535687,
+    "observed_max_abs_nuisance_score": 5.677670611081709e-05,
+    "observed_information_min_eigenvalue": 0.003303749781829333,
+    "observed_information_condition_number": 9714.8965775838642,
+    "elapsed_seconds": 641.14200000000005,
+    "status_counts": {
+      "fit_failure": 30,
+      "ok": 9952,
+      "score_failure": 17
+    },
+    "optimizer_counts": {
+      "BFGS": 67,
+      "nlminb": 9902,
+      "3": 30
+    }
+  },
+  "severity_class": {
+    "test": "Average program-class effect on transformed cluster severity",
+    "calibration": "Parametric-bootstrap likelihood-ratio test; both nested models were refitted by ML in every simulation while retaining the selected year-plus-program-class residual dispersion model",
+    "observed_statistic": 46.270166485540472,
+    "requested_simulations": 9999,
+    "valid_simulations": 9999,
+    "failed_simulations": 0,
+    "exceedances": 0,
+    "bootstrap_p": 0.0001,
+    "monte_carlo_se": 9.999499987499375e-05,
+    "seed": 20260832,
+    "quantiles": {
+      "50%": 2.631802557751371,
+      "90%": 6.989078487817464,
+      "95%": 8.723779036696785,
+      "99%": 12.71607736592463
+    },
+    "elapsed_seconds": 330.16599999999994,
+    "status_counts": {
+      "ok": 9999
+    }
+  },
+  "severity_interaction": {
+    "test": "Year-by-program-class interaction for transformed cluster severity",
+    "calibration": "Parametric-bootstrap likelihood-ratio test; both nested models were refitted by ML in every simulation while retaining the selected year-plus-program-class residual dispersion model",
+    "observed_statistic": 29.518627931138894,
+    "requested_simulations": 9999,
+    "valid_simulations": 9968,
+    "failed_simulations": 31,
+    "exceedances": 720,
+    "bootstrap_p": 0.07232420503561039,
+    "monte_carlo_se": 0.002594263879387177,
+    "seed": 20260833,
+    "quantiles": {
+      "50%": 17.601204267859202,
+      "90%": 27.9816764343567,
+      "95%": 31.262939259634649,
+      "99%": 38.238727939477407
+    },
+    "elapsed_seconds": 189.25200000000007,
+    "status_counts": {
+      "fit_failure": 31,
+      "ok": 9968
+    }
+  },
+  "severity_kenward_roger_joint_tests": [
+    {
+      "model term": "Year",
+      "df1": 4,
+      "df2": 35.329999999999998,
+      "F.ratio": 16.931999999999999,
+      "p.value": 7.717750658343734e-08
+    },
+    {
+      "model term": "Program_Class",
+      "df1": 3,
+      "df2": 16.850000000000001,
+      "F.ratio": 33.085999999999999,
+      "p.value": 2.75950882134007e-07
+    },
+    {
+      "model term": "Year:Program_Class",
+      "df1": 12,
+      "df2": 21.199999999999999,
+      "F.ratio": 1.806,
+      "p.value": 0.1131572535226192
+    }
+  ]
+}

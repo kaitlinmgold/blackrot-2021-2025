@@ -1,0 +1,34 @@
+{
+  "test": "Efficient score test of the year-by-program-class interaction",
+  "calibration": "Conventional parametric bootstrap; the additive beta-binomial null was refitted and the nuisance projection and information matrix were recomputed in every simulation",
+  "observed_statistic": 17.288678838553462,
+  "requested_simulations": 9999,
+  "valid_simulations": 9952,
+  "failed_simulations": 47,
+  "exceedances": 3763,
+  "bootstrap_p": 0.3781774339395158,
+  "monte_carlo_se": 0.004860758481246011,
+  "seed": 20260831,
+  "quantiles": {
+    "50%": 14.105334967981445,
+    "90%": 33.973660502858067,
+    "95%": 43.718082869038838,
+    "99%": 78.076307269278004
+  },
+  "asymptotic_df": 12,
+  "asymptotic_p": 0.1390570502535687,
+  "observed_max_abs_nuisance_score": 5.677670611081709e-05,
+  "observed_information_min_eigenvalue": 0.003303749781829333,
+  "observed_information_condition_number": 9714.8965775838642,
+  "elapsed_seconds": 641.14200000000005,
+  "status_counts": {
+    "fit_failure": 30,
+    "ok": 9952,
+    "score_failure": 17
+  },
+  "optimizer_counts": {
+    "BFGS": 67,
+    "nlminb": 9902,
+    "3": 30
+  }
+}
