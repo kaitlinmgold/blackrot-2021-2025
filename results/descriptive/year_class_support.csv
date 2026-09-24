@@ -1,0 +1,21 @@
+"Year","Program_Class","N_Programs","N_Plots","N_Clusters_Rated","N_Cluster_Positive"
+2021,"Untreated",1,4,80,80
+2021,"Biological only",6,24,480,456
+2021,"Mixed",1,4,80,65
+2021,"Conventional only",5,20,399,370
+2022,"Untreated",1,4,80,79
+2022,"Biological only",8,32,640,208
+2022,"Mixed",4,16,320,93
+2022,"Conventional only",3,12,240,63
+2023,"Untreated",1,4,80,79
+2023,"Biological only",8,32,640,572
+2023,"Mixed",4,16,320,299
+2023,"Conventional only",2,8,160,133
+2024,"Untreated",1,4,80,80
+2024,"Biological only",4,16,320,296
+2024,"Mixed",4,16,320,277
+2024,"Conventional only",1,4,80,78
+2025,"Untreated",1,4,80,80
+2025,"Biological only",8,32,639,512
+2025,"Mixed",2,8,160,124
+2025,"Conventional only",1,4,79,57
