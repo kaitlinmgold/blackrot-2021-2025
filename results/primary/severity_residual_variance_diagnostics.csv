@@ -1,0 +1,7 @@
+"Residual_Model","Grouping","F","df1","df2","P"
+"Homogeneous","Year",5.10544397816104,4,259,0.000564079844565949
+"Homogeneous","Program class",3.11021654747908,3,260,0.0269336820314249
+"Homogeneous","Year x program class",2.09325317022928,19,244,0.00575815338163813
+"Year plus class","Year",0.0559898242818737,4,259,0.994140857323092
+"Year plus class","Program class",0.506386954696811,3,260,0.678203490006479
+"Year plus class","Year x program class",0.883718398542808,19,244,0.603635141957458

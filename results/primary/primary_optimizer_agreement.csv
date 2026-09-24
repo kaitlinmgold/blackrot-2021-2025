@@ -1,0 +1,3 @@
+"Model","Default_LogLik","BFGS_LogLik","Absolute_LogLik_Difference","Max_Absolute_Conditional_Beta_Difference","Default_PD_Hessian","BFGS_PD_Hessian"
+"Incidence additive",-531.309027479843,-531.309030769061,3.28921817072114e-06,0.000834948873165153,TRUE,TRUE
+"Severity full mean, year-plus-class dispersion",-417.502906488381,-417.502906495584,7.20262960385298e-09,1.30301012424283e-07,TRUE,TRUE

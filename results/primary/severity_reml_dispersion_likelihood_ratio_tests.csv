@@ -1,0 +1,4 @@
+"Test","Chisq","df","P"
+"Homogeneous vs year-specific dispersion",25.8600121382558,4,3.37692191763211e-05
+"Year-specific vs year-plus-class dispersion",10.6537487291296,3,0.0137533927593129
+"Class-specific vs year-plus-class dispersion",28.4242016692801,4,1.02318043426658e-05

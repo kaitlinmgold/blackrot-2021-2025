@@ -1,0 +1,37 @@
+{
+  "software": {
+    "R": "R version 4.5.3 (2026-03-11)",
+    "glmmTMB": "1.1.14",
+    "emmeans": "2.0.4"
+  },
+  "year_only": {
+    "pd_hessian": true,
+    "convergence": 0,
+    "message": "relative convergence (4)",
+    "logLik": -550.00946717248701,
+    "AIC": 1116.018934344974,
+    "BIC": 1144.6265271701445,
+    "npar": 8
+  },
+  "additive": {
+    "pd_hessian": true,
+    "convergence": 0,
+    "message": "relative convergence (4)",
+    "logLik": -531.30902747984317,
+    "AIC": 1084.6180549596863,
+    "BIC": 1123.9534950942957,
+    "npar": 11
+  },
+  "full_interaction": {
+    "pd_hessian": true,
+    "convergence": 1,
+    "message": "singular convergence (7)",
+    "logLik": -525.62052418148835,
+    "AIC": 1097.2410483629767,
+    "BIC": 1179.487877735342,
+    "npar": 23
+  },
+  "beta_binomial_phi": 4.207954566226462,
+  "intraplot_rho": 0.1920139638861274,
+  "additive_random_effects": ["", "Conditional model:", " Groups            Name        Std.Dev.", " BlockYear         (Intercept) 0.44028 ", " Public_Program_ID (Intercept) 0.41213 "]
+}

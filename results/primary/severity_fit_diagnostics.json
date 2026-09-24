@@ -1,0 +1,82 @@
+{
+  "homogeneous_reml": {
+    "pd_hessian": true,
+    "convergence": 0,
+    "message": "relative convergence (4)",
+    "logLik": -435.7597869220736,
+    "AIC": 917.5195738441472,
+    "BIC": 999.76640321651246,
+    "npar": 23
+  },
+  "year_reml": {
+    "pd_hessian": true,
+    "convergence": 0,
+    "message": "relative convergence (4)",
+    "logLik": -422.8297808529457,
+    "AIC": 899.65956170589141,
+    "BIC": 996.21018749084192,
+    "npar": 27
+  },
+  "class_reml": {
+    "pd_hessian": true,
+    "convergence": 0,
+    "message": "relative convergence (4)",
+    "logLik": -431.71500732302098,
+    "AIC": 915.43001464604197,
+    "BIC": 1008.4046913278462,
+    "npar": 26
+  },
+  "year_plus_class_reml": {
+    "pd_hessian": true,
+    "convergence": 0,
+    "message": "relative convergence (4)",
+    "logLik": -417.50290648838092,
+    "AIC": 895.00581297676183,
+    "BIC": 1002.2842860711513,
+    "npar": 30
+  },
+  "year_ml": {
+    "pd_hessian": true,
+    "convergence": 0,
+    "message": "relative convergence (4)",
+    "logLik": -454.83731548927699,
+    "AIC": 939.67463097855398,
+    "BIC": 993.31386752574872,
+    "npar": 15
+  },
+  "additive_ml": {
+    "pd_hessian": true,
+    "convergence": 0,
+    "message": "relative convergence (4)",
+    "logLik": -431.70223224650675,
+    "AIC": 899.40446449301351,
+    "BIC": 963.77154834964722,
+    "npar": 18
+  },
+  "full_ml": {
+    "pd_hessian": true,
+    "convergence": 0,
+    "message": "relative convergence (4)",
+    "logLik": -416.94291828093731,
+    "AIC": 893.88583656187461,
+    "BIC": 1001.1643096562641,
+    "npar": 30
+  },
+  "additive_reml": {
+    "pd_hessian": true,
+    "convergence": 0,
+    "message": "relative convergence (4)",
+    "logLik": -434.2867752922503,
+    "AIC": 904.57355058450059,
+    "BIC": 968.94063444113431,
+    "npar": 18
+  },
+  "selected_random_effects": ["", "Conditional model:", " Groups            Name        Std.Dev.", " BlockYear         (Intercept) 0.49797 ", " Public_Program_ID (Intercept) 0.41184 ", " Residual                           NA "],
+  "selected_dispersion_coefficients": [-0.2097733684847154, -0.6177792565104515, -0.2966186363945135, -0.5739498306745044, -0.7535705937555395, 0.7735371253383847, 0.9224759099723829, 0.8030784393716854],
+  "shapiro_pearson": {
+    "statistic": 0.9922238906001432,
+    "p.value": 0.1803601277535855,
+    "method": "Shapiro-Wilk normality test",
+    "data.name": "pearson_resid"
+  }
+}
