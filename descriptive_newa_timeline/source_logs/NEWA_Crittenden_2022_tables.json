@@ -1,0 +1,3539 @@
+{
+  "source": "https://newa.cornell.edu/grape-diseases",
+  "station": "Geneva (AgriTech Crittenden), NY",
+  "coordinates": [
+    42.8794,
+    -77.0154
+  ],
+  "date_of_interest": "2022-07-28",
+  "retrieved": "2026-09-21",
+  "note": "Historical leaf-wetness and infection logs display the full available 2022 year, including dates after the selected date of interest. All interpretation for manuscript outcomes is restricted to events before the July 28 rating.",
+  "tables": [
+    [
+      [
+        "Date (2022)",
+        "Phomopsis",
+        "Powdery Mildew",
+        "Black Rot"
+      ],
+      [
+        "July 26",
+        "No",
+        "No",
+        "No"
+      ],
+      [
+        "July 27",
+        "No",
+        "No",
+        "No"
+      ],
+      [
+        "July 28",
+        "No",
+        "No",
+        "No"
+      ],
+      [
+        "July 29",
+        "No",
+        "No",
+        "No"
+      ],
+      [
+        "July 30",
+        "No",
+        "No",
+        "No"
+      ],
+      [
+        "July 31",
+        "No",
+        "No",
+        "No"
+      ],
+      [
+        "August 1",
+        "No",
+        "No",
+        "No"
+      ],
+      [
+        "August 2",
+        "No",
+        "No",
+        "No"
+      ]
+    ],
+    [
+      [
+        "Disease",
+        "Disease Management"
+      ],
+      [
+        "Phomopsis",
+        "If the post bloom through pea-sized berry period is wet, you are growing susceptible varieties, in hedged vineyards, or locations with a history of Phomopsis, and fungicidal protection is absent, then a final spray for Phomopsis may be needed. The risk of infection is low once berries become about pea-sized (~1/4 inch diam), since inoculum becomes scarce, unless the weather has been very dry for several weeks beforehand. Thus, Phomopsis sprays from this point forward probably are unnecessary in most vineyards."
+      ],
+      [
+        "Powdery Mildew",
+        "Berries become highly resistant to infection about 2 weeks (Concord) to 4 weeks (V. vinifera) after fruit set. However, continued foliar protection on Concord (and other American varieties) may be beneficial for heavily-cropped vines or poor-ripening conditions. From this point on, management programs will depend on varietal susceptibility, market destination, ripening conditions, and conducive weather. Secondary infections are favored when cloudy, humid (85% RH), warm (63-86F) days and nights prevail; rain is not required for infection.For V. vinifera and highly susceptible hybrids, maintain protection of the clusters through bunch closure to preclude bunch rots and/or wine spoilage. Maintain an appropriate level of control during the midsummer period to avoid poor ripening, premature defoliation, and reduced winter hardiness.Concord fruit become resistant and no longer require protection. However, in conducive years, foliar protection on Concord and other moderately susceptible varieties may be beneficial for heavily-cropped vines or poor-ripening conditions.Good management will decrease disease pressure next year, by limiting overwintering primary inoculum, reducing spring infection potential, and lowering the risk of cluster infections."
+      ],
+      [
+        "Black Rot",
+        "Berries become highly resistant to infection by about 5 (Concord) to 7 (V. vinifera) weeks after the start of bloom. Experience has shown that it is usually possible to end black rot spray programs after the second postbloom application IF the disease has been well managed until then. Scout vineyards for black rot. If black rot symptoms are visible on fruit, fungicide protection to cover infection events through July may be necessary to limit disease spread within clusters."
+      ]
+    ],
+    [
+      [
+        "Starting Date/Time",
+        "Ending Date/Time",
+        "Hours LW",
+        "Avg Temp",
+        "Total Rain",
+        "Phomopsis",
+        "Black Rot"
+      ],
+      [
+        "12/23/2022 4:00 pm",
+        "12/23/2022 6:00 pm",
+        "2",
+        "7.3",
+        "0.02",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "12/22/2022 3:00 pm",
+        "12/23/2022 1:00 pm",
+        "22",
+        "35.9",
+        "1.07",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "12/22/2022 1:00 pm",
+        "12/22/2022 2:00 pm",
+        "1",
+        "34.2",
+        "0.01",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "12/22/2022 3:00 am",
+        "12/22/2022 6:00 am",
+        "3",
+        "28.7",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "12/21/2022 6:00 pm",
+        "12/21/2022 11:00 pm",
+        "5",
+        "24.4",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "12/21/2022 8:00 am",
+        "12/21/2022 10:00 am",
+        "2",
+        "29.2",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "12/20/2022 7:00 pm",
+        "12/20/2022 8:00 pm",
+        "1",
+        "26.2",
+        "0.01",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "12/18/2022 7:00 pm",
+        "12/19/2022 12:00 am",
+        "5",
+        "30.4",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "12/17/2022 7:00 pm",
+        "12/17/2022 11:00 pm",
+        "4",
+        "29.3",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "12/15/2022 12:00 pm",
+        "12/17/2022 9:00 am",
+        "45",
+        "33.4",
+        "0.74",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "12/15/2022 8:00 am",
+        "12/15/2022 9:00 am",
+        "1",
+        "32.9",
+        "0.01",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "12/15/2022 12:00 am",
+        "12/15/2022 7:00 am",
+        "7",
+        "25.6",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "12/11/2022 8:00 am",
+        "12/12/2022 11:00 am",
+        "27",
+        "31.9",
+        "0.13",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "12/10/2022 9:00 pm",
+        "12/11/2022 2:00 am",
+        "5",
+        "28.5",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "12/10/2022 4:00 pm",
+        "12/10/2022 5:00 pm",
+        "1",
+        "28.4",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "12/10/2022 8:00 am",
+        "12/10/2022 11:00 am",
+        "3",
+        "27.6",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "12/8/2022 6:00 pm",
+        "12/8/2022 7:00 pm",
+        "1",
+        "34.5",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "12/6/2022 8:00 am",
+        "12/8/2022 9:00 am",
+        "49",
+        "44.0",
+        "0.29",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "12/3/2022 12:00 pm",
+        "12/3/2022 2:00 pm",
+        "2",
+        "49.1",
+        "0.17",
+        "No infection",
+        "No infect; temp<50"
+      ],
+      [
+        "12/3/2022 5:00 am",
+        "12/3/2022 6:00 am",
+        "1",
+        "42.1",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "12/1/2022 8:00 am",
+        "12/1/2022 9:00 am",
+        "1",
+        "32.4",
+        "0.01",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "11/30/2022 5:00 pm",
+        "11/30/2022 8:00 pm",
+        "3",
+        "34.0",
+        "0.02",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "11/30/2022 11:00 am",
+        "11/30/2022 4:00 pm",
+        "5",
+        "44.4",
+        "0.19",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "11/28/2022 12:00 am",
+        "11/28/2022 9:00 am",
+        "9",
+        "39.2",
+        "0.02",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "11/27/2022 11:00 am",
+        "11/27/2022 10:00 pm",
+        "11",
+        "45.2",
+        "0.29",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "11/26/2022 6:00 am",
+        "11/26/2022 8:00 am",
+        "2",
+        "34.5",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "11/25/2022 7:00 pm",
+        "11/25/2022 9:00 pm",
+        "2",
+        "39.2",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "11/25/2022 5:00 pm",
+        "11/25/2022 6:00 pm",
+        "1",
+        "39.9",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "11/25/2022 11:00 am",
+        "11/25/2022 12:00 pm",
+        "1",
+        "44.1",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "11/25/2022 3:00 am",
+        "11/25/2022 9:00 am",
+        "6",
+        "45.2",
+        "0.01",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "11/23/2022 5:00 pm",
+        "11/24/2022 9:00 am",
+        "16",
+        "30.6",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "11/23/2022 5:00 am",
+        "11/23/2022 7:00 am",
+        "2",
+        "33.5",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "11/22/2022 6:00 am",
+        "11/22/2022 8:00 am",
+        "2",
+        "32.9",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "11/18/2022 6:00 pm",
+        "11/18/2022 10:00 pm",
+        "4",
+        "29.0",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "11/18/2022 12:00 pm",
+        "11/18/2022 3:00 pm",
+        "3",
+        "33.2",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "11/17/2022 11:00 pm",
+        "11/18/2022 11:00 am",
+        "12",
+        "31.0",
+        "0.02",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "11/16/2022 3:00 pm",
+        "11/17/2022 8:00 am",
+        "17",
+        "34.4",
+        "0.07",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "11/16/2022 12:00 pm",
+        "11/16/2022 1:00 pm",
+        "1",
+        "41.7",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "11/15/2022 5:00 pm",
+        "11/16/2022 11:00 am",
+        "18",
+        "34.0",
+        "0.27",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "11/13/2022 1:00 pm",
+        "11/13/2022 10:00 pm",
+        "9",
+        "34.8",
+        "0.01",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "11/13/2022 11:00 am",
+        "11/13/2022 12:00 pm",
+        "1",
+        "40.6",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "11/13/2022 9:00 am",
+        "11/13/2022 10:00 am",
+        "1",
+        "38.5",
+        "0.01",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "11/12/2022 4:00 pm",
+        "11/12/2022 11:00 pm",
+        "7",
+        "42.6",
+        "0.03",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "11/11/2022 11:00 am",
+        "11/12/2022 10:00 am",
+        "23",
+        "57.5",
+        "2.31",
+        "Infection",
+        "Infection"
+      ],
+      [
+        "11/11/2022 4:00 am",
+        "11/11/2022 8:00 am",
+        "4",
+        "54.4",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "11/11/2022 12:00 am",
+        "11/11/2022 1:00 am",
+        "1",
+        "55.0",
+        "0.01",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "11/8/2022 6:00 pm",
+        "11/9/2022 9:00 am",
+        "15",
+        "30.2",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "11/7/2022 6:00 am",
+        "11/7/2022 7:00 am",
+        "1",
+        "57.6",
+        "0.02",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "11/6/2022 6:00 pm",
+        "11/7/2022 4:00 am",
+        "10",
+        "54.4",
+        "0.01",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "11/4/2022 10:00 pm",
+        "11/5/2022 1:00 am",
+        "3",
+        "58.5",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "11/2/2022 6:00 pm",
+        "11/3/2022 10:00 am",
+        "16",
+        "43.6",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "11/1/2022 7:00 pm",
+        "11/2/2022 10:00 am",
+        "15",
+        "53.2",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "11/1/2022 7:00 am",
+        "11/1/2022 8:00 am",
+        "1",
+        "54.9",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "11/1/2022 12:00 am",
+        "11/1/2022 6:00 am",
+        "6",
+        "55.6",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "10/31/2022 3:00 am",
+        "10/31/2022 6:00 am",
+        "3",
+        "44.6",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "10/29/2022 7:00 pm",
+        "10/30/2022 9:00 am",
+        "14",
+        "39.5",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "10/28/2022 10:00 pm",
+        "10/29/2022 10:00 am",
+        "12",
+        "37.4",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "10/28/2022 7:00 pm",
+        "10/28/2022 9:00 pm",
+        "2",
+        "43.9",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "10/27/2022 6:00 pm",
+        "10/28/2022 10:00 am",
+        "16",
+        "33.4",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "10/26/2022 4:00 pm",
+        "10/27/2022 1:00 am",
+        "9",
+        "56.7",
+        "0.04",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "10/26/2022 1:00 am",
+        "10/26/2022 8:00 am",
+        "7",
+        "58.2",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "10/24/2022 7:00 pm",
+        "10/25/2022 9:00 am",
+        "14",
+        "58.3",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "10/24/2022 2:00 am",
+        "10/24/2022 9:00 am",
+        "7",
+        "50.1",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "10/23/2022 7:00 pm",
+        "10/24/2022 1:00 am",
+        "6",
+        "50.1",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "10/23/2022 3:00 am",
+        "10/23/2022 9:00 am",
+        "6",
+        "46.7",
+        "0.00",
+        "No infection",
+        "No infect; temp<50"
+      ],
+      [
+        "10/20/2022 10:00 am",
+        "10/20/2022 11:00 am",
+        "1",
+        "44.4",
+        "0.01",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "10/19/2022 8:00 pm",
+        "10/20/2022 7:00 am",
+        "11",
+        "40.5",
+        "0.02",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "10/18/2022 11:00 pm",
+        "10/19/2022 8:00 am",
+        "9",
+        "36.1",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "10/17/2022 10:00 pm",
+        "10/17/2022 11:00 pm",
+        "1",
+        "41.2",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "10/17/2022 12:00 pm",
+        "10/17/2022 1:00 pm",
+        "1",
+        "52.9",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "10/17/2022 5:00 am",
+        "10/17/2022 9:00 am",
+        "4",
+        "49.7",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "10/16/2022 8:00 pm",
+        "10/16/2022 11:00 pm",
+        "3",
+        "49.4",
+        "0.00",
+        "No infection",
+        "No infect; temp<50"
+      ],
+      [
+        "10/16/2022 4:00 am",
+        "10/16/2022 7:00 am",
+        "3",
+        "40.3",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "10/15/2022 9:00 pm",
+        "10/16/2022 2:00 am",
+        "5",
+        "43.3",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "10/14/2022 7:00 pm",
+        "10/15/2022 8:00 am",
+        "13",
+        "44.8",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "10/13/2022 12:00 pm",
+        "10/14/2022 10:00 am",
+        "22",
+        "49.9",
+        "0.24",
+        "Infection",
+        "No infection"
+      ],
+      [
+        "10/13/2022 4:00 am",
+        "10/13/2022 6:00 am",
+        "2",
+        "61.4",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "10/11/2022 10:00 pm",
+        "10/12/2022 8:00 am",
+        "10",
+        "50.9",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "10/10/2022 7:00 pm",
+        "10/11/2022 10:00 am",
+        "15",
+        "43.0",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "10/10/2022 2:00 am",
+        "10/10/2022 10:00 am",
+        "8",
+        "50.0",
+        "0.09",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "10/9/2022 8:00 pm",
+        "10/9/2022 10:00 pm",
+        "2",
+        "48.9",
+        "0.00",
+        "No infection",
+        "No infect; temp<50"
+      ],
+      [
+        "10/9/2022 5:00 am",
+        "10/9/2022 6:00 am",
+        "1",
+        "41.9",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "10/7/2022 11:00 pm",
+        "10/8/2022 6:00 am",
+        "7",
+        "43.0",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "10/7/2022 8:00 am",
+        "10/7/2022 11:00 am",
+        "3",
+        "53.0",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "10/6/2022 6:00 pm",
+        "10/7/2022 12:00 am",
+        "6",
+        "59.7",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "10/5/2022 7:00 pm",
+        "10/6/2022 10:00 am",
+        "15",
+        "50.0",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "10/5/2022 6:00 am",
+        "10/5/2022 8:00 am",
+        "2",
+        "45.8",
+        "0.00",
+        "No infection",
+        "No infect; temp<50"
+      ],
+      [
+        "10/4/2022 7:00 pm",
+        "10/4/2022 10:00 pm",
+        "3",
+        "46.2",
+        "0.00",
+        "No infection",
+        "No infect; temp<50"
+      ],
+      [
+        "10/4/2022 12:00 pm",
+        "10/4/2022 1:00 pm",
+        "1",
+        "55.0",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "10/3/2022 7:00 pm",
+        "10/3/2022 9:00 pm",
+        "2",
+        "45.2",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "10/3/2022 12:00 am",
+        "10/3/2022 10:00 am",
+        "10",
+        "37.6",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "9/30/2022 7:00 pm",
+        "10/1/2022 9:00 am",
+        "14",
+        "46.6",
+        "0.00",
+        "No infection",
+        "No infect; temp<50"
+      ],
+      [
+        "9/29/2022 7:00 pm",
+        "9/30/2022 10:00 am",
+        "15",
+        "41.4",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "9/28/2022 9:00 pm",
+        "9/29/2022 8:00 am",
+        "11",
+        "50.7",
+        "0.04",
+        "Infection",
+        "No infection"
+      ],
+      [
+        "9/28/2022 1:00 am",
+        "9/28/2022 12:00 pm",
+        "11",
+        "54.7",
+        "0.40",
+        "Infection",
+        "No infection"
+      ],
+      [
+        "9/27/2022 5:00 pm",
+        "9/27/2022 8:00 pm",
+        "3",
+        "56.9",
+        "0.01",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "9/27/2022 7:00 am",
+        "9/27/2022 9:00 am",
+        "2",
+        "56.8",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "9/26/2022 2:00 pm",
+        "9/26/2022 3:00 pm",
+        "1",
+        "61.0",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "9/26/2022 10:00 am",
+        "9/26/2022 12:00 pm",
+        "2",
+        "60.0",
+        "0.04",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "9/25/2022 9:00 pm",
+        "9/26/2022 9:00 am",
+        "12",
+        "56.1",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "9/25/2022 1:00 pm",
+        "9/25/2022 4:00 pm",
+        "3",
+        "61.1",
+        "0.12",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "9/24/2022 9:00 pm",
+        "9/25/2022 12:00 pm",
+        "15",
+        "54.9",
+        "0.10",
+        "Infection",
+        "Infection"
+      ],
+      [
+        "9/23/2022 7:00 pm",
+        "9/23/2022 8:00 pm",
+        "1",
+        "46.8",
+        "0.00",
+        "No infection",
+        "No infect; temp<50"
+      ],
+      [
+        "9/22/2022 9:00 pm",
+        "9/23/2022 4:00 am",
+        "7",
+        "47.4",
+        "0.03",
+        "No infection",
+        "No infect; temp<50"
+      ],
+      [
+        "9/22/2022 4:00 pm",
+        "9/22/2022 7:00 pm",
+        "3",
+        "54.3",
+        "0.08",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "9/22/2022 1:00 pm",
+        "9/22/2022 2:00 pm",
+        "1",
+        "54.7",
+        "0.02",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "9/22/2022 6:00 am",
+        "9/22/2022 7:00 am",
+        "1",
+        "59.9",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "9/22/2022 1:00 am",
+        "9/22/2022 4:00 am",
+        "3",
+        "64.4",
+        "0.22",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "9/20/2022 7:00 pm",
+        "9/21/2022 9:00 am",
+        "14",
+        "59.8",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "9/20/2022 12:00 pm",
+        "9/20/2022 1:00 pm",
+        "1",
+        "69.8",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "9/20/2022 9:00 am",
+        "9/20/2022 10:00 am",
+        "1",
+        "63.5",
+        "0.02",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "9/19/2022 9:00 pm",
+        "9/20/2022 3:00 am",
+        "6",
+        "63.8",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "9/19/2022 11:00 am",
+        "9/19/2022 4:00 pm",
+        "5",
+        "68.8",
+        "0.47",
+        "Infection",
+        "No infection"
+      ],
+      [
+        "9/19/2022 3:00 am",
+        "9/19/2022 5:00 am",
+        "2",
+        "68.8",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "9/18/2022 7:00 pm",
+        "9/18/2022 11:00 pm",
+        "4",
+        "69.4",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "9/17/2022 11:00 pm",
+        "9/18/2022 7:00 am",
+        "8",
+        "66.3",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "9/17/2022 7:00 pm",
+        "9/17/2022 8:00 pm",
+        "1",
+        "70.3",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "9/16/2022 9:00 pm",
+        "9/17/2022 9:00 am",
+        "12",
+        "57.1",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "9/15/2022 7:00 pm",
+        "9/16/2022 9:00 am",
+        "14",
+        "47.3",
+        "0.00",
+        "No infection",
+        "No infect; temp<50"
+      ],
+      [
+        "9/15/2022 4:00 am",
+        "9/15/2022 9:00 am",
+        "5",
+        "50.8",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "9/13/2022 5:00 pm",
+        "9/14/2022 8:00 am",
+        "15",
+        "58.8",
+        "0.06",
+        "Infection",
+        "Infection"
+      ],
+      [
+        "9/12/2022 6:00 pm",
+        "9/13/2022 11:00 am",
+        "17",
+        "64.3",
+        "0.22",
+        "Infection",
+        "Infection"
+      ],
+      [
+        "9/12/2022 2:00 pm",
+        "9/12/2022 5:00 pm",
+        "3",
+        "72.3",
+        "0.26",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "9/11/2022 1:00 am",
+        "9/12/2022 9:00 am",
+        "32",
+        "66.4",
+        "0.11",
+        "Infection",
+        "Infection"
+      ],
+      [
+        "9/10/2022 8:00 pm",
+        "9/10/2022 9:00 pm",
+        "1",
+        "68.4",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "9/9/2022 7:00 pm",
+        "9/10/2022 10:00 am",
+        "15",
+        "63.3",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "9/8/2022 7:00 pm",
+        "9/9/2022 10:00 am",
+        "15",
+        "60.5",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "9/7/2022 6:00 pm",
+        "9/8/2022 9:00 am",
+        "15",
+        "65.5",
+        "0.28",
+        "Infection",
+        "Infection"
+      ],
+      [
+        "9/7/2022 3:00 pm",
+        "9/7/2022 5:00 pm",
+        "2",
+        "69.8",
+        "0.01",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "9/7/2022 1:00 pm",
+        "9/7/2022 2:00 pm",
+        "1",
+        "68.7",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "9/6/2022 1:00 pm",
+        "9/7/2022 12:00 pm",
+        "23",
+        "64.7",
+        "0.07",
+        "Infection",
+        "Infection"
+      ],
+      [
+        "9/4/2022 7:00 pm",
+        "9/6/2022 12:00 pm",
+        "41",
+        "64.4",
+        "0.20",
+        "Infection",
+        "Infection"
+      ],
+      [
+        "9/3/2022 10:00 pm",
+        "9/4/2022 9:00 am",
+        "11",
+        "68.7",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "9/2/2022 8:00 pm",
+        "9/3/2022 4:00 am",
+        "8",
+        "63.5",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "9/1/2022 7:00 pm",
+        "9/2/2022 9:00 am",
+        "14",
+        "55.6",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "9/1/2022 3:00 am",
+        "9/1/2022 5:00 am",
+        "2",
+        "60.9",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "8/31/2022 5:00 am",
+        "8/31/2022 7:00 am",
+        "2",
+        "63.2",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "8/30/2022 12:00 pm",
+        "8/31/2022 2:00 am",
+        "14",
+        "68.5",
+        "0.37",
+        "Infection",
+        "Infection"
+      ],
+      [
+        "8/30/2022 4:00 am",
+        "8/30/2022 7:00 am",
+        "3",
+        "70.8",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "8/29/2022 6:00 pm",
+        "8/29/2022 7:00 pm",
+        "1",
+        "76.3",
+        "0.01",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "8/29/2022 2:00 am",
+        "8/29/2022 7:00 am",
+        "5",
+        "71.1",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "8/28/2022 8:00 pm",
+        "8/28/2022 9:00 pm",
+        "1",
+        "75.4",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "8/27/2022 7:00 pm",
+        "8/28/2022 9:00 am",
+        "14",
+        "59.0",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "8/27/2022 1:00 am",
+        "8/27/2022 8:00 am",
+        "7",
+        "63.3",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "8/26/2022 8:00 pm",
+        "8/26/2022 11:00 pm",
+        "3",
+        "69.2",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "8/26/2022 4:00 pm",
+        "8/26/2022 5:00 pm",
+        "1",
+        "73.6",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "8/25/2022 5:00 pm",
+        "8/26/2022 9:00 am",
+        "16",
+        "68.0",
+        "0.13",
+        "Infection",
+        "Infection"
+      ],
+      [
+        "8/24/2022 8:00 pm",
+        "8/25/2022 8:00 am",
+        "12",
+        "65.7",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "8/24/2022 4:00 am",
+        "8/24/2022 7:00 am",
+        "3",
+        "65.2",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "8/23/2022 8:00 pm",
+        "8/23/2022 10:00 pm",
+        "2",
+        "69.7",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "8/22/2022 4:00 pm",
+        "8/23/2022 1:00 pm",
+        "21",
+        "68.0",
+        "0.39",
+        "Infection",
+        "Infection"
+      ],
+      [
+        "8/22/2022 1:00 pm",
+        "8/22/2022 2:00 pm",
+        "1",
+        "73.6",
+        "0.02",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "8/21/2022 9:00 pm",
+        "8/22/2022 10:00 am",
+        "13",
+        "67.9",
+        "0.34",
+        "Infection",
+        "Infection"
+      ],
+      [
+        "8/21/2022 4:00 pm",
+        "8/21/2022 6:00 pm",
+        "2",
+        "73.3",
+        "0.01",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "8/20/2022 9:00 pm",
+        "8/21/2022 11:00 am",
+        "14",
+        "69.0",
+        "0.21",
+        "Infection",
+        "Infection"
+      ],
+      [
+        "8/19/2022 8:00 pm",
+        "8/20/2022 9:00 am",
+        "13",
+        "64.5",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "8/18/2022 8:00 pm",
+        "8/19/2022 8:00 am",
+        "12",
+        "63.1",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "8/17/2022 8:00 pm",
+        "8/18/2022 8:00 am",
+        "12",
+        "61.1",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "8/16/2022 3:00 pm",
+        "8/17/2022 9:00 am",
+        "18",
+        "61.9",
+        "0.34",
+        "Infection",
+        "Infection"
+      ],
+      [
+        "8/15/2022 6:00 pm",
+        "8/16/2022 8:00 am",
+        "14",
+        "64.4",
+        "0.06",
+        "Infection",
+        "Infection"
+      ],
+      [
+        "8/14/2022 10:00 pm",
+        "8/15/2022 8:00 am",
+        "10",
+        "58.2",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "8/13/2022 8:00 pm",
+        "8/14/2022 9:00 am",
+        "13",
+        "55.2",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "8/13/2022 5:00 am",
+        "8/13/2022 8:00 am",
+        "3",
+        "56.1",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "8/13/2022 1:00 am",
+        "8/13/2022 3:00 am",
+        "2",
+        "54.3",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "8/12/2022 1:00 am",
+        "8/12/2022 8:00 am",
+        "7",
+        "57.7",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "8/10/2022 8:00 pm",
+        "8/11/2022 7:00 am",
+        "11",
+        "64.1",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "8/10/2022 8:00 am",
+        "8/10/2022 9:00 am",
+        "1",
+        "66.0",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "8/9/2022 9:00 pm",
+        "8/10/2022 7:00 am",
+        "10",
+        "64.0",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "8/8/2022 10:00 pm",
+        "8/9/2022 8:00 am",
+        "10",
+        "72.5",
+        "0.19",
+        "Infection",
+        "Infection"
+      ],
+      [
+        "8/8/2022 1:00 pm",
+        "8/8/2022 2:00 pm",
+        "1",
+        "77.7",
+        "0.04",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "8/7/2022 8:00 pm",
+        "8/8/2022 8:00 am",
+        "12",
+        "75.4",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "8/6/2022 10:00 pm",
+        "8/7/2022 7:00 am",
+        "9",
+        "73.5",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "8/6/2022 1:00 pm",
+        "8/6/2022 2:00 pm",
+        "1",
+        "79.9",
+        "0.01",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "8/5/2022 8:00 pm",
+        "8/6/2022 8:00 am",
+        "12",
+        "70.3",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "8/4/2022 6:00 pm",
+        "8/5/2022 9:00 am",
+        "15",
+        "72.5",
+        "0.02",
+        "Infection",
+        "Infection"
+      ],
+      [
+        "8/4/2022 12:00 pm",
+        "8/4/2022 1:00 pm",
+        "1",
+        "79.2",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "8/2/2022 9:00 pm",
+        "8/3/2022 8:00 am",
+        "11",
+        "63.4",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "7/31/2022 10:00 pm",
+        "8/1/2022 8:00 am",
+        "10",
+        "64.5",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "7/30/2022 8:00 pm",
+        "7/31/2022 8:00 am",
+        "12",
+        "62.2",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "7/29/2022 3:00 am",
+        "7/29/2022 7:00 am",
+        "4",
+        "67.5",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "7/29/2022 1:00 am",
+        "7/29/2022 2:00 am",
+        "1",
+        "68.2",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "7/28/2022 9:00 pm",
+        "7/28/2022 10:00 pm",
+        "1",
+        "72.9",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "7/28/2022 12:00 pm",
+        "7/28/2022 2:00 pm",
+        "2",
+        "77.2",
+        "0.02",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "7/27/2022 8:00 pm",
+        "7/28/2022 8:00 am",
+        "12",
+        "70.7",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "7/26/2022 8:00 pm",
+        "7/27/2022 8:00 am",
+        "12",
+        "61.5",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "7/26/2022 1:00 am",
+        "7/26/2022 7:00 am",
+        "6",
+        "59.3",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "7/25/2022 9:00 pm",
+        "7/25/2022 10:00 pm",
+        "1",
+        "64.6",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "7/24/2022 8:00 pm",
+        "7/25/2022 8:00 am",
+        "12",
+        "72.8",
+        "0.80",
+        "Infection",
+        "Infection"
+      ],
+      [
+        "7/24/2022 5:00 pm",
+        "7/24/2022 7:00 pm",
+        "2",
+        "77.0",
+        "0.15",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "7/24/2022 1:00 am",
+        "7/24/2022 6:00 am",
+        "5",
+        "68.6",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "7/22/2022 9:00 pm",
+        "7/23/2022 7:00 am",
+        "10",
+        "67.6",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "7/22/2022 3:00 am",
+        "7/22/2022 7:00 am",
+        "4",
+        "67.8",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "7/22/2022 12:00 am",
+        "7/22/2022 1:00 am",
+        "1",
+        "71.1",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "7/21/2022 2:00 am",
+        "7/21/2022 3:00 am",
+        "1",
+        "78.4",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "7/18/2022 6:00 pm",
+        "7/19/2022 4:00 am",
+        "10",
+        "71.1",
+        "0.07",
+        "Infection",
+        "Infection"
+      ],
+      [
+        "7/18/2022 4:00 pm",
+        "7/18/2022 5:00 pm",
+        "1",
+        "73.8",
+        "0.01",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "7/17/2022 9:00 pm",
+        "7/18/2022 10:00 am",
+        "13",
+        "69.5",
+        "0.85",
+        "Infection",
+        "Infection"
+      ],
+      [
+        "7/16/2022 10:00 pm",
+        "7/17/2022 7:00 am",
+        "9",
+        "61.1",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "7/15/2022 9:00 pm",
+        "7/16/2022 7:00 am",
+        "10",
+        "60.4",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "7/14/2022 9:00 pm",
+        "7/15/2022 7:00 am",
+        "10",
+        "56.1",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "7/13/2022 8:00 pm",
+        "7/14/2022 7:00 am",
+        "11",
+        "64.7",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "7/13/2022 4:00 pm",
+        "7/13/2022 5:00 pm",
+        "1",
+        "67.8",
+        "0.09",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "7/12/2022 10:00 pm",
+        "7/13/2022 7:00 am",
+        "9",
+        "65.1",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "7/12/2022 7:00 am",
+        "7/12/2022 8:00 am",
+        "1",
+        "78.3",
+        "0.01",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "7/12/2022 1:00 am",
+        "7/12/2022 4:00 am",
+        "3",
+        "71.9",
+        "0.01",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "7/11/2022 12:00 am",
+        "7/11/2022 7:00 am",
+        "7",
+        "58.3",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "7/10/2022 9:00 pm",
+        "7/10/2022 11:00 pm",
+        "2",
+        "63.0",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "7/9/2022 9:00 pm",
+        "7/10/2022 7:00 am",
+        "10",
+        "51.8",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "7/8/2022 10:00 pm",
+        "7/9/2022 6:00 am",
+        "8",
+        "62.6",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "7/8/2022 5:00 am",
+        "7/8/2022 6:00 am",
+        "1",
+        "59.5",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "7/8/2022 1:00 am",
+        "7/8/2022 3:00 am",
+        "2",
+        "60.7",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "7/7/2022 9:00 pm",
+        "7/7/2022 11:00 pm",
+        "2",
+        "64.0",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "7/6/2022 9:00 pm",
+        "7/7/2022 7:00 am",
+        "10",
+        "57.5",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "7/6/2022 7:00 am",
+        "7/6/2022 8:00 am",
+        "1",
+        "66.2",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "7/5/2022 4:00 pm",
+        "7/5/2022 6:00 pm",
+        "2",
+        "74.0",
+        "0.03",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "7/5/2022 12:00 pm",
+        "7/5/2022 1:00 pm",
+        "1",
+        "71.2",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "7/4/2022 3:00 am",
+        "7/4/2022 7:00 am",
+        "4",
+        "55.2",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "7/3/2022 2:00 am",
+        "7/3/2022 3:00 am",
+        "1",
+        "62.8",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "7/1/2022 11:00 pm",
+        "7/2/2022 7:00 am",
+        "8",
+        "67.7",
+        "0.06",
+        "Infection",
+        "Infection"
+      ],
+      [
+        "7/1/2022 9:00 pm",
+        "7/1/2022 10:00 pm",
+        "1",
+        "72.0",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "7/1/2022 6:00 pm",
+        "7/1/2022 7:00 pm",
+        "1",
+        "75.6",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "6/30/2022 9:00 pm",
+        "7/1/2022 12:00 am",
+        "3",
+        "70.9",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "6/29/2022 9:00 pm",
+        "6/30/2022 7:00 am",
+        "10",
+        "58.8",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "6/28/2022 9:00 pm",
+        "6/29/2022 7:00 am",
+        "10",
+        "56.3",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "6/28/2022 1:00 am",
+        "6/28/2022 2:00 am",
+        "1",
+        "55.8",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "6/27/2022 2:00 am",
+        "6/27/2022 6:00 am",
+        "4",
+        "68.5",
+        "0.06",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "6/26/2022 9:00 pm",
+        "6/27/2022 12:00 am",
+        "3",
+        "73.8",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "6/26/2022 3:00 pm",
+        "6/26/2022 5:00 pm",
+        "2",
+        "71.8",
+        "0.80",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "6/25/2022 9:00 pm",
+        "6/26/2022 6:00 am",
+        "9",
+        "68.5",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "6/24/2022 9:00 pm",
+        "6/25/2022 7:00 am",
+        "10",
+        "60.4",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "6/23/2022 9:00 pm",
+        "6/24/2022 7:00 am",
+        "10",
+        "63.3",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "6/23/2022 1:00 am",
+        "6/23/2022 8:00 am",
+        "7",
+        "62.8",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "6/22/2022 5:00 pm",
+        "6/22/2022 11:00 pm",
+        "6",
+        "69.5",
+        "0.64",
+        "Infection",
+        "No infection"
+      ],
+      [
+        "6/22/2022 1:00 am",
+        "6/22/2022 2:00 am",
+        "1",
+        "69.3",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "6/21/2022 9:00 pm",
+        "6/21/2022 10:00 pm",
+        "1",
+        "76.5",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "6/21/2022 2:00 am",
+        "6/21/2022 4:00 am",
+        "2",
+        "56.6",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "6/20/2022 9:00 pm",
+        "6/20/2022 10:00 pm",
+        "1",
+        "58.3",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "6/18/2022 1:00 am",
+        "6/18/2022 9:00 am",
+        "8",
+        "52.8",
+        "0.13",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "6/16/2022 10:00 pm",
+        "6/16/2022 11:00 pm",
+        "1",
+        "75.0",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "6/16/2022 4:00 pm",
+        "6/16/2022 6:00 pm",
+        "2",
+        "74.9",
+        "0.51",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "6/16/2022 1:00 am",
+        "6/16/2022 7:00 am",
+        "6",
+        "70.9",
+        "0.64",
+        "Infection",
+        "No infection"
+      ],
+      [
+        "6/14/2022 9:00 pm",
+        "6/15/2022 7:00 am",
+        "10",
+        "58.1",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "6/14/2022 4:00 am",
+        "6/14/2022 6:00 am",
+        "2",
+        "56.0",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "6/13/2022 9:00 pm",
+        "6/14/2022 1:00 am",
+        "4",
+        "57.0",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "6/12/2022 5:00 pm",
+        "6/13/2022 7:00 am",
+        "14",
+        "62.8",
+        "0.25",
+        "Infection",
+        "Infection"
+      ],
+      [
+        "6/12/2022 3:00 pm",
+        "6/12/2022 4:00 pm",
+        "1",
+        "67.1",
+        "0.22",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "6/11/2022 10:00 pm",
+        "6/11/2022 11:00 pm",
+        "1",
+        "61.2",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "6/10/2022 9:00 pm",
+        "6/11/2022 7:00 am",
+        "10",
+        "56.0",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "6/9/2022 11:00 am",
+        "6/9/2022 2:00 pm",
+        "3",
+        "61.9",
+        "0.01",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "6/8/2022 9:00 pm",
+        "6/9/2022 10:00 am",
+        "13",
+        "59.5",
+        "0.84",
+        "Infection",
+        "Infection"
+      ],
+      [
+        "6/7/2022 8:00 pm",
+        "6/8/2022 6:00 am",
+        "10",
+        "59.2",
+        "0.15",
+        "Infection",
+        "Infection"
+      ],
+      [
+        "6/7/2022 4:00 pm",
+        "6/7/2022 6:00 pm",
+        "2",
+        "66.6",
+        "0.01",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "6/7/2022 10:00 am",
+        "6/7/2022 3:00 pm",
+        "5",
+        "65.0",
+        "0.23",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "6/6/2022 12:00 am",
+        "6/6/2022 4:00 am",
+        "4",
+        "59.5",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "6/4/2022 8:00 pm",
+        "6/5/2022 6:00 am",
+        "10",
+        "50.6",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "6/3/2022 9:00 pm",
+        "6/4/2022 5:00 am",
+        "8",
+        "56.6",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "6/2/2022 9:00 pm",
+        "6/2/2022 10:00 pm",
+        "1",
+        "62.2",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "6/2/2022 3:00 am",
+        "6/2/2022 6:00 am",
+        "3",
+        "59.3",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "6/1/2022 9:00 pm",
+        "6/2/2022 1:00 am",
+        "4",
+        "67.7",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "6/1/2022 4:00 pm",
+        "6/1/2022 8:00 pm",
+        "4",
+        "70.2",
+        "0.21",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "6/1/2022 2:00 pm",
+        "6/1/2022 3:00 pm",
+        "1",
+        "70.0",
+        "0.38",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "6/1/2022 5:00 am",
+        "6/1/2022 6:00 am",
+        "1",
+        "66.4",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "5/31/2022 12:00 am",
+        "5/31/2022 7:00 am",
+        "7",
+        "66.6",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "5/30/2022 9:00 pm",
+        "5/30/2022 11:00 pm",
+        "2",
+        "71.1",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "5/29/2022 8:00 pm",
+        "5/30/2022 9:00 am",
+        "13",
+        "59.7",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "5/28/2022 8:00 pm",
+        "5/29/2022 8:00 am",
+        "12",
+        "55.6",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "5/28/2022 8:00 am",
+        "5/28/2022 12:00 pm",
+        "4",
+        "60.2",
+        "0.27",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "5/27/2022 8:00 pm",
+        "5/28/2022 7:00 am",
+        "11",
+        "61.4",
+        "0.01",
+        "Infection",
+        "Infection"
+      ],
+      [
+        "5/27/2022 9:00 am",
+        "5/27/2022 5:00 pm",
+        "8",
+        "67.5",
+        "0.98",
+        "Infection",
+        "Infection"
+      ],
+      [
+        "5/26/2022 11:00 pm",
+        "5/27/2022 8:00 am",
+        "9",
+        "66.3",
+        "0.11",
+        "Infection",
+        "Infection"
+      ],
+      [
+        "5/24/2022 10:00 pm",
+        "5/25/2022 7:00 am",
+        "9",
+        "49.9",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "5/23/2022 10:00 pm",
+        "5/24/2022 7:00 am",
+        "9",
+        "44.6",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "5/22/2022 9:00 pm",
+        "5/23/2022 6:00 am",
+        "9",
+        "50.2",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "5/22/2022 2:00 pm",
+        "5/22/2022 3:00 pm",
+        "1",
+        "65.1",
+        "0.02",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "5/21/2022 9:00 pm",
+        "5/22/2022 7:00 am",
+        "10",
+        "63.9",
+        "0.22",
+        "Infection",
+        "Infection"
+      ],
+      [
+        "5/20/2022 12:00 pm",
+        "5/20/2022 1:00 pm",
+        "1",
+        "70.3",
+        "0.04",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "5/19/2022 8:00 pm",
+        "5/20/2022 7:00 am",
+        "11",
+        "53.4",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "5/19/2022 11:00 am",
+        "5/19/2022 1:00 pm",
+        "2",
+        "61.0",
+        "0.02",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "5/18/2022 9:00 pm",
+        "5/19/2022 10:00 am",
+        "13",
+        "52.0",
+        "0.07",
+        "Infection",
+        "No infection"
+      ],
+      [
+        "5/16/2022 10:00 pm",
+        "5/17/2022 5:00 am",
+        "7",
+        "52.3",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "5/16/2022 12:00 pm",
+        "5/16/2022 7:00 pm",
+        "7",
+        "59.4",
+        "0.31",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "5/15/2022 9:00 pm",
+        "5/16/2022 8:00 am",
+        "11",
+        "60.3",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "5/15/2022 2:00 am",
+        "5/15/2022 6:00 am",
+        "4",
+        "63.4",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "5/14/2022 1:00 am",
+        "5/14/2022 7:00 am",
+        "6",
+        "62.5",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "5/13/2022 3:00 am",
+        "5/13/2022 5:00 am",
+        "2",
+        "63.1",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "5/12/2022 4:00 am",
+        "5/12/2022 6:00 am",
+        "2",
+        "44.6",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "5/10/2022 12:00 am",
+        "5/10/2022 6:00 am",
+        "6",
+        "44.0",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "5/8/2022 11:00 pm",
+        "5/9/2022 7:00 am",
+        "8",
+        "38.4",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "5/7/2022 11:00 pm",
+        "5/8/2022 7:00 am",
+        "8",
+        "35.9",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "5/6/2022 6:00 am",
+        "5/6/2022 7:00 am",
+        "1",
+        "46.0",
+        "0.00",
+        "No infection",
+        "No infect; temp<50"
+      ],
+      [
+        "5/6/2022 4:00 am",
+        "5/6/2022 5:00 am",
+        "1",
+        "45.9",
+        "0.00",
+        "No infection",
+        "No infect; temp<50"
+      ],
+      [
+        "5/6/2022 2:00 am",
+        "5/6/2022 3:00 am",
+        "1",
+        "46.2",
+        "0.00",
+        "No infection",
+        "No infect; temp<50"
+      ],
+      [
+        "5/5/2022 8:00 pm",
+        "5/6/2022 12:00 am",
+        "4",
+        "47.5",
+        "0.00",
+        "No infection",
+        "No infect; temp<50"
+      ],
+      [
+        "5/4/2022 8:00 pm",
+        "5/5/2022 6:00 am",
+        "10",
+        "48.4",
+        "0.00",
+        "No infection",
+        "No infect; temp<50"
+      ],
+      [
+        "5/4/2022 8:00 am",
+        "5/4/2022 7:00 pm",
+        "11",
+        "52.7",
+        "0.13",
+        "Infection",
+        "No infection"
+      ],
+      [
+        "5/4/2022 2:00 am",
+        "5/4/2022 4:00 am",
+        "2",
+        "59.8",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "5/3/2022 7:00 pm",
+        "5/3/2022 9:00 pm",
+        "2",
+        "61.8",
+        "0.01",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "5/3/2022 5:00 am",
+        "5/3/2022 7:00 am",
+        "2",
+        "46.9",
+        "0.00",
+        "No infection",
+        "No infect; temp<50"
+      ],
+      [
+        "5/2/2022 12:00 pm",
+        "5/2/2022 1:00 pm",
+        "1",
+        "55.0",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "5/2/2022 3:00 am",
+        "5/2/2022 7:00 am",
+        "4",
+        "53.2",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "5/1/2022 1:00 am",
+        "5/1/2022 7:00 am",
+        "6",
+        "34.4",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "4/30/2022 3:00 am",
+        "4/30/2022 5:00 am",
+        "2",
+        "33.9",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "4/29/2022 9:00 pm",
+        "4/30/2022 2:00 am",
+        "5",
+        "35.5",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "4/27/2022 3:00 am",
+        "4/27/2022 7:00 am",
+        "4",
+        "35.5",
+        "0.03",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "4/27/2022 12:00 am",
+        "4/27/2022 2:00 am",
+        "2",
+        "42.5",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "4/25/2022 8:00 pm",
+        "4/26/2022 10:00 am",
+        "14",
+        "54.9",
+        "0.37",
+        "Infection",
+        "Infection"
+      ],
+      [
+        "4/22/2022 9:00 pm",
+        "4/23/2022 6:00 am",
+        "9",
+        "38.8",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "4/20/2022 1:00 am",
+        "4/20/2022 2:00 am",
+        "1",
+        "37.8",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "4/19/2022 5:00 pm",
+        "4/20/2022 12:00 am",
+        "7",
+        "37.2",
+        "0.04",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "4/19/2022 12:00 pm",
+        "4/19/2022 1:00 pm",
+        "1",
+        "39.2",
+        "0.01",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "4/18/2022 6:00 pm",
+        "4/19/2022 7:00 am",
+        "13",
+        "35.1",
+        "0.39",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "4/18/2022 6:00 am",
+        "4/18/2022 7:00 am",
+        "1",
+        "32.2",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "4/18/2022 2:00 am",
+        "4/18/2022 3:00 am",
+        "1",
+        "27.5",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "4/16/2022 9:00 pm",
+        "4/16/2022 10:00 pm",
+        "1",
+        "36.5",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "4/16/2022 5:00 am",
+        "4/16/2022 1:00 pm",
+        "8",
+        "38.2",
+        "0.24",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "4/14/2022 11:00 am",
+        "4/14/2022 2:00 pm",
+        "3",
+        "55.3",
+        "0.03",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "4/14/2022 6:00 am",
+        "4/14/2022 7:00 am",
+        "1",
+        "59.5",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "4/13/2022 7:00 pm",
+        "4/14/2022 12:00 am",
+        "5",
+        "60.9",
+        "0.00",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "4/13/2022 2:00 pm",
+        "4/13/2022 4:00 pm",
+        "2",
+        "66.0",
+        "0.02",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "4/12/2022 9:00 am",
+        "4/12/2022 10:00 am",
+        "1",
+        "53.6",
+        "0.01",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "4/11/2022 9:00 pm",
+        "4/12/2022 8:00 am",
+        "11",
+        "50.8",
+        "0.46",
+        "Infection",
+        "No infection"
+      ],
+      [
+        "4/11/2022 4:00 am",
+        "4/11/2022 7:00 am",
+        "3",
+        "31.7",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "4/10/2022 6:00 am",
+        "4/10/2022 11:00 am",
+        "5",
+        "35.6",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "4/9/2022 3:00 am",
+        "4/9/2022 8:00 am",
+        "5",
+        "38.1",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "4/9/2022 12:00 am",
+        "4/9/2022 2:00 am",
+        "2",
+        "40.7",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "4/8/2022 8:00 pm",
+        "4/8/2022 11:00 pm",
+        "3",
+        "41.4",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "4/8/2022 5:00 pm",
+        "4/8/2022 6:00 pm",
+        "1",
+        "49.3",
+        "0.01",
+        "No infection",
+        "No infect; temp<50"
+      ],
+      [
+        "4/7/2022 8:00 am",
+        "4/8/2022 5:00 am",
+        "21",
+        "46.0",
+        "0.75",
+        "Infection",
+        "No infect; temp<50"
+      ],
+      [
+        "4/7/2022 4:00 am",
+        "4/7/2022 5:00 am",
+        "1",
+        "51.4",
+        "0.01",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "4/6/2022 10:00 pm",
+        "4/7/2022 2:00 am",
+        "4",
+        "51.4",
+        "0.14",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "4/5/2022 4:00 am",
+        "4/5/2022 7:00 am",
+        "3",
+        "36.4",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "4/4/2022 9:00 pm",
+        "4/5/2022 2:00 am",
+        "5",
+        "36.9",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "4/3/2022 12:00 pm",
+        "4/4/2022 2:00 am",
+        "14",
+        "36.6",
+        "0.02",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "4/3/2022 8:00 am",
+        "4/3/2022 11:00 am",
+        "3",
+        "37.8",
+        "0.00",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "4/1/2022 10:00 am",
+        "4/1/2022 11:00 am",
+        "1",
+        "37.4",
+        "0.01",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "3/31/2022 2:00 pm",
+        "3/31/2022 3:00 pm",
+        "1",
+        "66.6",
+        "0.06",
+        "No infection",
+        "No infection"
+      ],
+      [
+        "3/30/2022 6:00 pm",
+        "3/30/2022 7:00 pm",
+        "1",
+        "43.0",
+        "0.01",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "3/27/2022 11:00 am",
+        "3/27/2022 12:00 pm",
+        "1",
+        "30.6",
+        "0.01",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "3/26/2022 10:00 pm",
+        "3/27/2022 4:00 am",
+        "6",
+        "32.9",
+        "0.01",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "3/25/2022 3:00 pm",
+        "3/25/2022 6:00 pm",
+        "3",
+        "43.9",
+        "0.03",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ],
+      [
+        "3/24/2022 11:00 pm",
+        "3/25/2022 9:00 am",
+        "10",
+        "42.3",
+        "0.22",
+        "No infect; temp<46",
+        "No infect; temp<50"
+      ]
+    ],
+    [
+      [
+        "Starting Date/Time",
+        "Ending Date/Time",
+        "Hours LW",
+        "Avg Temp",
+        "Total Rain",
+        "Phomopsis",
+        "Black Rot",
+        "Combined"
+      ],
+      [
+        "11/11/2022 11:00 am",
+        "11/13/2022 12:00 pm",
+        "32",
+        "53.1",
+        "2.35",
+        "Infection",
+        "Infection",
+        "Yes"
+      ],
+      [
+        "10/13/2022 12:00 pm",
+        "10/15/2022 8:00 am",
+        "35",
+        "48.0",
+        "0.24",
+        "Infection",
+        "No infect; temp<50",
+        "Yes"
+      ],
+      [
+        "9/27/2022 5:00 pm",
+        "9/30/2022 10:00 am",
+        "40",
+        "48.8",
+        "0.45",
+        "Infection",
+        "No infect; temp<50",
+        "Yes"
+      ],
+      [
+        "9/24/2022 9:00 pm",
+        "9/26/2022 9:00 am",
+        "30",
+        "56.0",
+        "0.22",
+        "Infection",
+        "Infection",
+        "Yes"
+      ],
+      [
+        "9/22/2022 1:00 pm",
+        "9/23/2022 8:00 pm",
+        "12",
+        "49.7",
+        "0.13",
+        "Infection",
+        "No infection",
+        "Yes"
+      ],
+      [
+        "9/19/2022 11:00 am",
+        "9/20/2022 3:00 am",
+        "11",
+        "66.0",
+        "0.47",
+        "Infection",
+        "Infection",
+        "Yes"
+      ],
+      [
+        "9/11/2022 1:00 am",
+        "9/15/2022 9:00 am",
+        "72",
+        "63.5",
+        "0.65",
+        "Infection",
+        "Infection",
+        "Yes"
+      ],
+      [
+        "9/7/2022 3:00 pm",
+        "9/9/2022 10:00 am",
+        "32",
+        "63.4",
+        "0.29",
+        "Infection",
+        "Infection",
+        "Yes"
+      ],
+      [
+        "9/4/2022 7:00 pm",
+        "9/7/2022 2:00 pm",
+        "65",
+        "64.6",
+        "0.27",
+        "Infection",
+        "Infection",
+        "Yes"
+      ],
+      [
+        "8/30/2022 12:00 pm",
+        "8/31/2022 7:00 am",
+        "16",
+        "67.8",
+        "0.37",
+        "Infection",
+        "Infection",
+        "Yes"
+      ],
+      [
+        "8/25/2022 5:00 pm",
+        "8/26/2022 5:00 pm",
+        "17",
+        "68.3",
+        "0.13",
+        "Infection",
+        "Infection",
+        "Yes"
+      ],
+      [
+        "8/20/2022 9:00 pm",
+        "8/23/2022 10:00 pm",
+        "53",
+        "68.6",
+        "0.97",
+        "Infection",
+        "Infection",
+        "Yes"
+      ],
+      [
+        "8/15/2022 6:00 pm",
+        "8/18/2022 8:00 am",
+        "44",
+        "62.5",
+        "0.40",
+        "Infection",
+        "Infection",
+        "Yes"
+      ],
+      [
+        "8/8/2022 1:00 pm",
+        "8/10/2022 7:00 am",
+        "21",
+        "68.7",
+        "0.23",
+        "Infection",
+        "Infection",
+        "Yes"
+      ],
+      [
+        "8/6/2022 1:00 pm",
+        "8/7/2022 7:00 am",
+        "10",
+        "74.1",
+        "0.01",
+        "Infection",
+        "Infection",
+        "Yes"
+      ],
+      [
+        "8/4/2022 6:00 pm",
+        "8/6/2022 8:00 am",
+        "27",
+        "71.5",
+        "0.02",
+        "Infection",
+        "Infection",
+        "Yes"
+      ],
+      [
+        "7/24/2022 5:00 pm",
+        "7/25/2022 10:00 pm",
+        "15",
+        "72.8",
+        "0.95",
+        "Infection",
+        "Infection",
+        "Yes"
+      ],
+      [
+        "7/17/2022 9:00 pm",
+        "7/21/2022 3:00 am",
+        "25",
+        "70.7",
+        "0.93",
+        "Infection",
+        "Infection",
+        "Yes"
+      ],
+      [
+        "7/13/2022 4:00 pm",
+        "7/14/2022 7:00 am",
+        "12",
+        "65.0",
+        "0.09",
+        "Infection",
+        "Infection",
+        "Yes"
+      ],
+      [
+        "7/12/2022 1:00 am",
+        "7/13/2022 7:00 am",
+        "13",
+        "67.7",
+        "0.02",
+        "Infection",
+        "Infection",
+        "Yes"
+      ],
+      [
+        "7/1/2022 11:00 pm",
+        "7/3/2022 3:00 am",
+        "9",
+        "67.2",
+        "0.06",
+        "Infection",
+        "Infection",
+        "Yes"
+      ],
+      [
+        "6/26/2022 3:00 pm",
+        "6/27/2022 12:00 am",
+        "5",
+        "73.0",
+        "0.80",
+        "Infection",
+        "No infection",
+        "Yes"
+      ],
+      [
+        "6/22/2022 5:00 pm",
+        "6/23/2022 8:00 am",
+        "13",
+        "65.9",
+        "0.64",
+        "Infection",
+        "Infection",
+        "Yes"
+      ],
+      [
+        "6/16/2022 1:00 am",
+        "6/16/2022 11:00 pm",
+        "9",
+        "72.2",
+        "1.15",
+        "Infection",
+        "Infection",
+        "Yes"
+      ],
+      [
+        "6/12/2022 3:00 pm",
+        "6/14/2022 1:00 am",
+        "19",
+        "61.8",
+        "0.47",
+        "Infection",
+        "Infection",
+        "Yes"
+      ],
+      [
+        "6/7/2022 10:00 am",
+        "6/11/2022 7:00 am",
+        "43",
+        "59.7",
+        "1.24",
+        "Infection",
+        "Infection",
+        "Yes"
+      ],
+      [
+        "6/1/2022 2:00 pm",
+        "6/2/2022 1:00 am",
+        "9",
+        "69.0",
+        "0.59",
+        "Infection",
+        "Infection",
+        "Yes"
+      ],
+      [
+        "5/26/2022 11:00 pm",
+        "5/29/2022 8:00 am",
+        "44",
+        "61.8",
+        "1.37",
+        "Infection",
+        "Infection",
+        "Yes"
+      ],
+      [
+        "5/21/2022 9:00 pm",
+        "5/23/2022 6:00 am",
+        "20",
+        "57.8",
+        "0.24",
+        "Infection",
+        "Infection",
+        "Yes"
+      ],
+      [
+        "5/18/2022 9:00 pm",
+        "5/20/2022 7:00 am",
+        "26",
+        "53.3",
+        "0.09",
+        "Infection",
+        "Infection",
+        "Yes"
+      ],
+      [
+        "5/16/2022 12:00 pm",
+        "5/17/2022 5:00 am",
+        "14",
+        "55.9",
+        "0.31",
+        "Infection",
+        "Infection",
+        "Yes"
+      ],
+      [
+        "5/4/2022 8:00 am",
+        "5/5/2022 6:00 am",
+        "21",
+        "50.7",
+        "0.13",
+        "Infection",
+        "No infection",
+        "Yes"
+      ],
+      [
+        "4/25/2022 8:00 pm",
+        "4/27/2022 2:00 am",
+        "16",
+        "53.3",
+        "0.37",
+        "Infection",
+        "Infection",
+        "Yes"
+      ],
+      [
+        "4/13/2022 2:00 pm",
+        "4/14/2022 12:00 am",
+        "7",
+        "62.4",
+        "0.02",
+        "Infection",
+        "No infection",
+        "Yes"
+      ],
+      [
+        "4/11/2022 9:00 pm",
+        "4/12/2022 10:00 am",
+        "12",
+        "51.0",
+        "0.47",
+        "Infection",
+        "No infection",
+        "Yes"
+      ],
+      [
+        "4/6/2022 10:00 pm",
+        "4/8/2022 11:00 pm",
+        "30",
+        "46.5",
+        "0.91",
+        "Infection",
+        "No infect; temp<50",
+        "Yes"
+      ]
+    ]
+  ]
+}
