@@ -1,0 +1,11 @@
+"Endpoint","Year","Contrasts","Original_significant_lower","HC3_significant_lower","Leave_one_out_min_significant_lower","Leave_one_out_max_significant_lower","Leave_one_out_refits"
+"Incidence",2021,12,0,0,0,0,52
+"Severity",2021,12,2,1,0,3,52
+"Incidence",2022,13,13,12,11,13,56
+"Severity",2022,13,13,12,11,13,56
+"Incidence",2023,14,1,0,0,3,60
+"Severity",2023,14,0,1,0,0,60
+"Incidence",2024,9,0,0,0,1,40
+"Severity",2024,9,9,9,8,9,40
+"Incidence",2025,11,6,5,2,8,48
+"Severity",2025,11,11,10,7,11,48

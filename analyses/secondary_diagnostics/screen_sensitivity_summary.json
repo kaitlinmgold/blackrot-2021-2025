@@ -1,0 +1,122 @@
+{
+  "audit_date": "2026-09-11",
+  "scope": "Separate within-year fixed program + block linear models",
+  "response": "Previously specified boundary-adjusted logits of plot-level incidence or severity",
+  "original_contrasts_reproduced": 118,
+  "max_absolute_difference": 5.3290705182007514e-15,
+  "Holm_family": "All eligible program-versus-untreated comparisons within endpoint and year, retained in every sensitivity",
+  "HC3_inference": "HC3 sandwich standard errors with original model residual degrees of freedom; approximate sensitivity, not an exact finite-sample test",
+  "exclusion": "Eight unresolved 2022 plots excluded from these program-level models as originally specified",
+  "models": [
+    {
+      "Endpoint": "Incidence",
+      "Year": 2021,
+      "Contrasts": 12,
+      "Original_significant_lower": 0,
+      "HC3_significant_lower": 0,
+      "Leave_one_out_min_significant_lower": 0,
+      "Leave_one_out_max_significant_lower": 0,
+      "Leave_one_out_refits": 52,
+      "_row": "Incidence.2021"
+    },
+    {
+      "Endpoint": "Severity",
+      "Year": 2021,
+      "Contrasts": 12,
+      "Original_significant_lower": 2,
+      "HC3_significant_lower": 1,
+      "Leave_one_out_min_significant_lower": 0,
+      "Leave_one_out_max_significant_lower": 3,
+      "Leave_one_out_refits": 52,
+      "_row": "Severity.2021"
+    },
+    {
+      "Endpoint": "Incidence",
+      "Year": 2022,
+      "Contrasts": 13,
+      "Original_significant_lower": 13,
+      "HC3_significant_lower": 12,
+      "Leave_one_out_min_significant_lower": 11,
+      "Leave_one_out_max_significant_lower": 13,
+      "Leave_one_out_refits": 56,
+      "_row": "Incidence.2022"
+    },
+    {
+      "Endpoint": "Severity",
+      "Year": 2022,
+      "Contrasts": 13,
+      "Original_significant_lower": 13,
+      "HC3_significant_lower": 12,
+      "Leave_one_out_min_significant_lower": 11,
+      "Leave_one_out_max_significant_lower": 13,
+      "Leave_one_out_refits": 56,
+      "_row": "Severity.2022"
+    },
+    {
+      "Endpoint": "Incidence",
+      "Year": 2023,
+      "Contrasts": 14,
+      "Original_significant_lower": 1,
+      "HC3_significant_lower": 0,
+      "Leave_one_out_min_significant_lower": 0,
+      "Leave_one_out_max_significant_lower": 3,
+      "Leave_one_out_refits": 60,
+      "_row": "Incidence.2023"
+    },
+    {
+      "Endpoint": "Severity",
+      "Year": 2023,
+      "Contrasts": 14,
+      "Original_significant_lower": 0,
+      "HC3_significant_lower": 1,
+      "Leave_one_out_min_significant_lower": 0,
+      "Leave_one_out_max_significant_lower": 0,
+      "Leave_one_out_refits": 60,
+      "_row": "Severity.2023"
+    },
+    {
+      "Endpoint": "Incidence",
+      "Year": 2024,
+      "Contrasts": 9,
+      "Original_significant_lower": 0,
+      "HC3_significant_lower": 0,
+      "Leave_one_out_min_significant_lower": 0,
+      "Leave_one_out_max_significant_lower": 1,
+      "Leave_one_out_refits": 40,
+      "_row": "Incidence.2024"
+    },
+    {
+      "Endpoint": "Severity",
+      "Year": 2024,
+      "Contrasts": 9,
+      "Original_significant_lower": 9,
+      "HC3_significant_lower": 9,
+      "Leave_one_out_min_significant_lower": 8,
+      "Leave_one_out_max_significant_lower": 9,
+      "Leave_one_out_refits": 40,
+      "_row": "Severity.2024"
+    },
+    {
+      "Endpoint": "Incidence",
+      "Year": 2025,
+      "Contrasts": 11,
+      "Original_significant_lower": 6,
+      "HC3_significant_lower": 5,
+      "Leave_one_out_min_significant_lower": 2,
+      "Leave_one_out_max_significant_lower": 8,
+      "Leave_one_out_refits": 48,
+      "_row": "Incidence.2025"
+    },
+    {
+      "Endpoint": "Severity",
+      "Year": 2025,
+      "Contrasts": 11,
+      "Original_significant_lower": 11,
+      "HC3_significant_lower": 10,
+      "Leave_one_out_min_significant_lower": 7,
+      "Leave_one_out_max_significant_lower": 11,
+      "Leave_one_out_refits": 48,
+      "_row": "Severity.2025"
+    }
+  ]
+}
