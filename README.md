@@ -17,6 +17,4 @@ The cluster dataset contains **264 plots from 66 program-year identities** at on
 
 Saved estimates and simulation results are provided so figures and summaries can be inspected without repeating lengthy bootstrap runs. Model objects are generated locally by the analysis scripts. Run analyses in the separate `rerun/` directory to preserve the recorded results. The `v4`/`v5.0` names identify source-code or figure families; they do not specify a manuscript version.
 
-Application rates and formulation details should be read with the codebook notes. OxiDate rates for Y2022_P16 and Y2023_P07 remain unconfirmed (64 fl oz/acre versus 1 gal/acre); compiled entries are preserved rather than resolved by assumption. Ensendo component identity and historical Curezin/MagnaBon formulations also retain their documented uncertainty.
-
 NEWA data are attributed to Cornell’s Network for Environment and Weather Applications in the timeline folder. Cite the accompanying manuscript when using the study data; add its final citation or DOI when available.
