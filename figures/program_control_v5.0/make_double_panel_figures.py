@@ -72,7 +72,10 @@ def make(kind):
           '*OxiDate and PERpose group recorded name variants. Howler and Howler EVO are separate; Ensendo is not included under Howler.']
  # Explanatory notes are preserved in the manuscript captions and accompanying caption file.
  stem='Figure_4_control_by_class_v5.0' if isclass else 'Figure_5_control_by_product_v5.0'
- for ext in ['png','pdf','svg']:fig.savefig(OUT/f'{stem}.{ext}',dpi=220,facecolor='white')
+ # Add 12-point horizontal export margins to Figure 5 without moving plotted elements.
+ from matplotlib.transforms import Bbox
+ export_box = None if isclass else Bbox.from_bounds(-1/6, 0, fig.get_figwidth()+1/3, fig.get_figheight())
+ for ext in ['png','pdf','svg']:fig.savefig(OUT/f'{stem}.{ext}',dpi=220,facecolor='white',bbox_inches=export_box,pad_inches=0)
  figures.append(fig)
  return stem
 stems=[make('class'),make('product')]
