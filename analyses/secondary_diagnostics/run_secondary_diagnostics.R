@@ -1,7 +1,7 @@
 #!/usr/bin/env Rscript
-# Executed diagnostic audit of the original within-year program+block OLS
-# screens. Original specifications and Holm families are retained. HC3 and
-# leave-one-plot-out results are sensitivity analyses, not replacement tests.
+# Check residuals, influence, and covariance sensitivity for within-year
+# program + block OLS screens. Holm adjustment uses the full endpoint/year
+# contrast family. HC3 and leave-one-plot-out results are sensitivity analyses.
 args <- commandArgs(trailingOnly=TRUE)
 input <- if(length(args)>0) args[1] else '.'
 out <- if(length(args)>1) args[2] else 'rerun/secondary_diagnostics'

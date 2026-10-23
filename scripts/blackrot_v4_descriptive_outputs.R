@@ -1,8 +1,7 @@
 #!/usr/bin/env Rscript
 
-# Regenerate secondary, non-primary descriptive outputs for the black rot v4
-# manuscript from the de-identified public CSV files. This script does not
-# create figures and does not modify any source file.
+# Generate descriptive summaries and program-versus-control comparisons
+# from the study CSV files. This script does not create figures or modify inputs.
 
 suppressPackageStartupMessages(library(emmeans))
 
@@ -463,7 +462,7 @@ if (any(validation_summary$Status != "PASS")) {
 }
 write.csv(validation_summary, file.path(output_dir, "validation_summary.csv"), row.names = FALSE, na = "")
 
-cat("Black rot v4 descriptive outputs regenerated successfully.\n")
+cat("Black rot descriptive outputs generated successfully.\n")
 cat("R version:", R.version.string, "\n")
 cat("Output directory:", normalizePath(output_dir, mustWork = TRUE), "\n")
 cat("Program-versus-UTC contrasts:", nrow(program_contrasts), "rows; 8 unresolved 2022 plot rows (2 program IDs) excluded.\n")

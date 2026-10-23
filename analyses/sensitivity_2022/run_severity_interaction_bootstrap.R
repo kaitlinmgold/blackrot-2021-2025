@@ -1,14 +1,7 @@
-# Adapted for the 2022 exclusion sensitivity on 2026-09-11.
-# Exact archived test implementations; 256 rows, interaction-only, guarded new outputs.
 #!/usr/bin/env Rscript
 
-## Parametric-bootstrap and Kenward-Roger validation for the Black Rot v4
-## primary program-class analyses.
-##
-## This script complements blackrot_v4_reanalysis.R. It deliberately refits
-## the null model in every bootstrap sample. That differs from the faster
-## fixed-null calibration in bootstrap_incidence_interaction_score.R, which
-## holds the observed nuisance estimates and information matrix fixed.
+## Calibrates the interaction test after excluding the eight unresolved
+## 2022 records, leaving 256 plots. Refits the null model in each sample.
 
 suppressPackageStartupMessages({
   library(glmmTMB)

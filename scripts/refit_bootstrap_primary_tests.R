@@ -3,13 +3,7 @@
 # Inputs: data directory, fitted model file, output directory, simulations, cores, seed.
 # The full reproduction uses 9,999 simulations; output includes failed-refit counts.
 
-## Parametric-bootstrap and Kenward-Roger validation for the Black Rot v4
-## primary program-class analyses.
-##
-## This script complements blackrot_v4_reanalysis.R. It deliberately refits
-## the null model in every bootstrap sample. That differs from the faster
-## fixed-null calibration in bootstrap_incidence_interaction_score.R, which
-## holds the observed nuisance estimates and information matrix fixed.
+## Refits the null model in each parametric-bootstrap sample.
 
 suppressPackageStartupMessages({
   library(glmmTMB)
